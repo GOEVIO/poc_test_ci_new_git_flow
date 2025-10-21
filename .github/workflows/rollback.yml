@@ -1,0 +1,31 @@
+name: Rollback (manual)
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: "Tag a reimplantar (ex: v1.2.3)"
+        required: true
+      services:
+        description: "Serviços (all ou lista)"
+        required: false
+        default: "all"
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: refs/tags/${{ inputs.release_tag }}
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::123456789012:role/github-oidc-role
+          aws-region: eu-west-1
+      - run: sudo apt-get update -y && sudo apt-get install -y jq
+      - run: .ci/trigger_cd.sh "prod"
+        env:
+          SERVICES: ${{ inputs.services }}

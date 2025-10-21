@@ -1,0 +1,38 @@
+name: Deploy (manual) to Dev/QA
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch a implantar"
+        required: true
+        default: "eks-develop"
+      environment:
+        description: "Ambiente de destino"
+        required: true
+        type: choice
+        options: [development, qa]
+        default: development
+      services:
+        description: "Serviços (all ou lista)"
+        required: false
+        default: "all"
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.branch }}
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::123456789012:role/github-oidc-role
+          aws-region: eu-west-1
+      - run: sudo apt-get update -y && sudo apt-get install -y jq
+      - run: .ci/trigger_cd.sh ${{ inputs.environment }}
+        env:
+          SERVICES: ${{ inputs.services }}
