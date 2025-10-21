@@ -1,0 +1,19 @@
+{
+    "plugStatus": {
+        "10": [
+            "AVAILABLE"
+        ],
+        "20": [
+            "EVCHARGING"
+        ],
+        "40": [
+            "UNKNOWN",
+            "OUTOFORDER"
+        ]
+    },
+    "plugStatusUpdated": {
+        "10": "Idle",
+        "20": "InUse",
+        "40": "OutOfService"
+    }
+}

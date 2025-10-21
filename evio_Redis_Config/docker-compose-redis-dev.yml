@@ -1,0 +1,64 @@
+version: "2.0"
+
+networks:
+  evio_network:
+services:
+  redis-primary:
+    image: redis
+    container_name: redis-primary
+    networks:
+      - evio_network
+    ports:
+      - "6379:6379"
+  redis-replica:
+    image: redis
+    container_name: redis-replica
+    command: redis-server --slaveof redis-primary 6379
+    links:
+      - redis-primary
+    networks:
+      - evio_network
+  redis-replica2:
+    image: redis
+    container_name: redis-replica2
+    command: redis-server --slaveof redis-primary 6379
+    links:
+      - redis-primary
+    networks:
+      - evio_network
+  redis-sentinel1:
+    container_name: redis-sentinel1
+    build:
+      context: .
+      dockerfile: evio_Redis_Sentinel_Config/Dockerfile
+    command: redis-server /etc/redis/sentinel.conf --sentinel
+    ports:
+      - "26379:26379"
+    depends_on:
+      - redis-primary
+    networks:
+      - evio_network
+  redis-sentinel2:
+    container_name: redis-sentinel2
+    build:
+      context: .
+      dockerfile: evio_Redis_Sentinel_Config/Dockerfile
+    command: redis-server /etc/redis/sentinel.conf --sentinel
+    ports:
+      - "26380:26379"
+    depends_on:
+      - redis-primary
+    networks:
+      - evio_network
+  redis-sentinel3:
+    container_name: redis-sentinel3
+    build:
+      context: .
+      dockerfile: evio_Redis_Sentinel_Config/Dockerfile
+    command: redis-server /etc/redis/sentinel.conf --sentinel
+    ports:
+      - "26381:26379"
+    depends_on:
+      - redis-primary
+    networks:
+      - evio_network

@@ -1,0 +1,652 @@
+[
+    {
+        "country": "PT",
+        "CEME": "BLUECHARGE",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_diary_client_BlueCharge",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "BLUECHARGE",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly_client_BlueCharge",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "BLUECHARGE",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "BLUECHARGE",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1118
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "PRIO ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily",
+        "tariff": [
+            {
+                "power": "0kW-3,7kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0049
+            },
+            {
+                "power": "0kW-3,7kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0056
+            },
+            {
+                "power": "3,7kW-7,4kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0099
+            },
+            {
+                "power": "3,7kW-7,4kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0112
+            },
+            {
+                "power": "7,4kW-11kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0146
+            },
+            {
+                "power": "7,4kW-11kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0166
+            },
+            {
+                "power": "11kW-22kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0293
+            },
+            {
+                "power": "11kW-22kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0333
+            },
+            {
+                "power": "22kW-50kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0599
+            },
+            {
+                "power": "22kW-50kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.068
+            },
+            {
+                "power": "50kW-100kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1331
+            },
+            {
+                "power": "50kW-100kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1512
+            },
+            {
+                "power": "100kW-150kW",
+                "uom": "€/min",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1997
+            },
+            {
+                "power": "100kW-150kW",
+                "uom": "€/min",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.2268
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "CHARGE 2 GO",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily-eco-green",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0883
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0883
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EDP COMERCIAL",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_no_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.2
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.2
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "FACTOR ENERGIA",
+        "tariffType": "server_tri_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_tri_hour_weekly",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0964
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_full",
+                "voltageLevel": "BTN",
+                "price": 0.1102
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_rush",
+                "voltageLevel": "BTN",
+                "price": 0.1092
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "CHARGE 2 GO",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly-eco-green",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0883
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0883
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "CHARGE 2 GO",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily_green",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0997
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0997
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EDP COMERCIAL",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_no_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.2
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.2
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "CHARGE 2 GO",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly_green",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0997
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0997
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EVAZ",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0988
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.098
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "FACTOR ENERGIA",
+        "tariffType": "server_tri_hour",
+        "cycleType": "server_daily",
+        "planName": "server_tri_hour_daily",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0964
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_full",
+                "voltageLevel": "BTN",
+                "price": 0.1102
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_rush",
+                "voltageLevel": "BTN",
+                "price": 0.1092
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EVIO",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_plan_EVIO",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.09
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.09
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "GALP ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily_16%_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1343
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.152
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "GALP ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1599
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.181
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "GALP ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_bi_hour_daily_8%_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1471
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1665
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EDP COMERCIAL",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_daily",
+        "planName": "server_with_25%_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.15
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.15
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EDP COMERCIAL",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_with_25%_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.15
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.15
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "EVAZ",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.0988
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.098
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "GALP ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1599
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.181
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "GALP ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly_8%_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1471
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1665
+            }
+        ]
+    },
+    {
+        "country": "PT",
+        "CEME": "GALP ELECTRIC",
+        "tariffType": "server_bi_hour",
+        "cycleType": "server_weekly",
+        "planName": "server_bi_hour_weekly_16%_discount",
+        "tariff": [
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_empty",
+                "voltageLevel": "BTN",
+                "price": 0.1343
+            },
+            {
+                "power": "all",
+                "uom": "€/kWh",
+                "tariffType": "server_out_empty",
+                "voltageLevel": "BTN",
+                "price": 0.152
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: oicp
+  namespace: backend
+spec:
+  type: ClusterIP
+  ports:
+    - name: "oicp"
+      port: 3102
+      targetPort: 3102
+  selector:
+    app: oicp

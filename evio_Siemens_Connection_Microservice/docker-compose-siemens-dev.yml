@@ -1,0 +1,27 @@
+version: "2.0"
+
+volumes:
+  node-modules-evio-siemens:
+
+networks:
+  evio_network:
+
+services:
+  siemens-connection:
+    image: siemens-connection
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./evio_Siemens_Connection_Microservice:/usr/src/app
+      - node-modules-evio-siemens:/usr/src/app/node_modules
+    container_name: siemens-connection
+    networks:
+      - evio_network
+    restart: always
+    build: "./"
+    environment:
+      - NODE_ENV=development
+    ports:
+      - 3012:3012
+      - 8091:8091
+    command: npm run start

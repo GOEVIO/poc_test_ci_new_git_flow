@@ -1,0 +1,26 @@
+version: "2.0"
+
+volumes:
+  node-modules-evio-notifications-firebase_wl:
+
+networks:
+  evio_network:
+
+services:
+  notifications-firebase-wl:
+    image: notifications-firebase-wl
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./evio_Notifications_Firebase_WL_Microservice:/usr/src/app
+      - node-modules-evio-notifications-firebase_wl:/usr/src/app/node_modules
+    container_name: notifications-firebase-wl
+    networks:
+      - evio_network
+    restart: always
+    build: "./"
+    environment:
+      - NODE_ENV=development
+    ports:
+      - 3032:3032
+    command: npm run start

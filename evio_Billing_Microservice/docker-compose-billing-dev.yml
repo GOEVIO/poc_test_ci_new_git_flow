@@ -1,0 +1,28 @@
+version: "2.0"
+
+volumes:
+  node-modules-evio_billing:
+
+networks:
+  evio_network:
+
+services:
+  billing:
+    image: billing
+    container_name: billing
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./evio_Billing_Microservice/:/usr/src/app
+      - node-modules-evio_billing:/usr/src/app/node_modules
+    networks:
+      - evio_network
+    restart: always
+    build:
+      context: ../
+      dockerfile: evio_Billing_Microservice/Dockerfile
+    environment:
+      - NODE_ENV=development
+    ports:
+      - 3030:3030
+    command: npm run start

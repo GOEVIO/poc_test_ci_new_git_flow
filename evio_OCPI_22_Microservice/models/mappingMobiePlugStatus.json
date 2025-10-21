@@ -1,0 +1,41 @@
+{
+    "plugStatus": {
+        "10": [
+            "AVAILABLE"
+        ],
+        "20": [
+            "EVCHARGING",
+            "CHARGING"
+        ],
+        "40": [
+            "UNKNOWN",
+            "OUTOFORDER",
+            "BLOCKED",
+            "INOPERATIVE",
+            "OUTOFORDER",
+            "PLANNED",
+            "REMOVED",
+            "RESERVED"
+        ]
+    },
+    "plugStatusUpdated": {
+        "10": "Idle",
+        "20": "InUse",
+        "40": "OutOfService"
+    },
+    "parkingType": {
+        "Street": [
+            "ON_STREET"
+        ],
+        "OutdoorParking": [
+            "PARKING_LOT",
+            "ALONG_MOTORWAY"
+        ]
+    },
+    "connectorType": {
+        "CCS 2": "IEC_62196_T2_COMBO",
+        "CHADEMO": "CHADEMO",
+        "TYPE 2": "IEC_62196_T2"
+    }
+}
+

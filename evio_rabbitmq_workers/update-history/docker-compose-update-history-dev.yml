@@ -1,0 +1,28 @@
+version: "3.2"
+
+networks:
+  evio_network:
+
+services:
+  update-history-worker:
+    image: update-history-worker
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    container_name: update-history-worker
+    networks:
+      - evio_network
+    restart: always
+    build:
+      context: ../
+      dockerfile: evio_rabbitmq_workers/update-history/Dockerfile
+    environment:
+      - NODE_ENV=pre
+      - DB_URI=mongodb://db:27017
+      - MONGODB_HOST=db
+      - MONGODB_PORT=27017      
+      - RABBITMQ_HOST=172.16.102.31
+      - RABBITMQ_USER=admin
+      - RABBITMQ_PASS=admin
+      - RABBITMQ_QUEUE_UPDATE_HISTORY=session_history_v2
+    command: npm run start:prod

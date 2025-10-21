@@ -1,0 +1,5984 @@
+[
+    {
+     "Sequencia": "1",
+     "cardNumber": "PTCGOCE00000000000001",
+     "dec": "1320010063311233",
+     "decInvert": "3643553381998182"
+    },
+    {
+     "Sequencia": "2",
+     "cardNumber": "PTCGOCE00000000000002",
+     "dec": "1163080548249984",
+     "decInvert": "3615405884782208"
+    },
+    {
+     "Sequencia": "3",
+     "cardNumber": "PTCGOCE00000000000003",
+     "dec": "1259657182867841",
+     "decInvert": "3643553382180275"
+    },
+    {
+     "Sequencia": "4",
+     "cardNumber": "PTCGOCE00000000000004",
+     "dec": "1160044006371716",
+     "decInvert": "3727995874188467"
+    },
+    {
+     "Sequencia": "5",
+     "cardNumber": "PTCGOCE00000000000005",
+     "dec": "1234806502093189",
+     "decInvert": "3756143371854720"
+    },
+    {
+     "Sequencia": "6",
+     "cardNumber": "PTCGOCE00000000000006",
+     "dec": "1258914153525633",
+     "decInvert": "3643553382724198"
+    },
+    {
+     "Sequencia": "7",
+     "cardNumber": "PTCGOCE00000000000007",
+     "dec": "1178800128553345",
+     "decInvert": "3643553381274010"
+    },
+    {
+     "Sequencia": "8",
+     "cardNumber": "PTCGOCE00000000000008",
+     "dec": "1215513508999557",
+     "decInvert": "3756143372614477"
+    },
+    {
+     "Sequencia": "9",
+     "cardNumber": "PTCGOCE00000000000009",
+     "dec": "1310505300685185",
+     "decInvert": "3643553382594330"
+    },
+    {
+     "Sequencia": "10",
+     "cardNumber": "PTCGOCE00000000000010",
+     "dec": "1223811385815428",
+     "decInvert": "3727995874183398"
+    },
+    {
+     "Sequencia": "11",
+     "cardNumber": "PTCGOCE00000000000011",
+     "dec": "1207511984927109",
+     "decInvert": "3756143372148992"
+    },
+    {
+     "Sequencia": "12",
+     "cardNumber": "PTCGOCE00000000000012",
+     "dec": "1222733349024132",
+     "decInvert": "3727995874216141"
+    },
+    {
+     "Sequencia": "13",
+     "cardNumber": "PTCGOCE00000000000013",
+     "dec": "1259236276072833",
+     "decInvert": "3643553381538022"
+    },
+    {
+     "Sequencia": "14",
+     "cardNumber": "PTCGOCE00000000000014",
+     "dec": "1267199145439620",
+     "decInvert": "3727995874957722"
+    },
+    {
+     "Sequencia": "15",
+     "cardNumber": "PTCGOCE00000000000015",
+     "dec": "1137190485389697",
+     "decInvert": "3643553381535181"
+    },
+    {
+     "Sequencia": "16",
+     "cardNumber": "PTCGOCE00000000000016",
+     "dec": "1283846438678912",
+     "decInvert": "3615405884509773"
+    },
+    {
+     "Sequencia": "17",
+     "cardNumber": "PTCGOCE00000000000017",
+     "dec": "1407288093733248",
+     "decInvert": "3615405884964838"
+    },
+    {
+     "Sequencia": "18",
+     "cardNumber": "PTCGOCE00000000000018",
+     "dec": "1353910240178560",
+     "decInvert": "3615405884046106"
+    },
+    {
+     "Sequencia": "19",
+     "cardNumber": "PTCGOCE00000000000019",
+     "dec": "1334574297411968",
+     "decInvert": "3615405884740326"
+    },
+    {
+     "Sequencia": "20",
+     "cardNumber": "PTCGOCE00000000000020",
+     "dec": "1305037807317376",
+     "decInvert": "3615405884969011"
+    },
+    {
+     "Sequencia": "21",
+     "cardNumber": "PTCGOCE00000000000021",
+     "dec": "1357165825388932",
+     "decInvert": "3727995874664909"
+    },
+    {
+     "Sequencia": "22",
+     "cardNumber": "PTCGOCE00000000000022",
+     "dec": "1246467338301824",
+     "decInvert": "3615405884515456"
+    },
+    {
+     "Sequencia": "23",
+     "cardNumber": "PTCGOCE00000000000023",
+     "dec": "1370042137342340",
+     "decInvert": "3727995874180250"
+    },
+    {
+     "Sequencia": "24",
+     "cardNumber": "PTCGOCE00000000000024",
+     "dec": "1191564771357057",
+     "decInvert": "3643553382296653"
+    },
+    {
+     "Sequencia": "25",
+     "cardNumber": "PTCGOCE00000000000025",
+     "dec": "1392264298131840",
+     "decInvert": "3615405883850394"
+    },
+    {
+     "Sequencia": "26",
+     "cardNumber": "PTCGOCE00000000000026",
+     "dec": "1213932961034628",
+     "decInvert": "3727995874209382"
+    },
+    {
+     "Sequencia": "27",
+     "cardNumber": "PTCGOCE00000000000027",
+     "dec": "1225086991102341",
+     "decInvert": "3756143372123187"
+    },
+    {
+     "Sequencia": "28",
+     "cardNumber": "PTCGOCE00000000000028",
+     "dec": "1164485002555780",
+     "decInvert": "3727995874254106"
+    },
+    {
+     "Sequencia": "29",
+     "cardNumber": "PTCGOCE00000000000029",
+     "dec": "1327672284967296",
+     "decInvert": "3615405884274867"
+    },
+    {
+     "Sequencia": "30",
+     "cardNumber": "PTCGOCE00000000000030",
+     "dec": "1199987202224512",
+     "decInvert": "3615405884055629"
+    },
+    {
+     "Sequencia": "31",
+     "cardNumber": "PTCGOCE00000000000031",
+     "dec": "1357440703295876",
+     "decInvert": "3727995875084339"
+    },
+    {
+     "Sequencia": "32",
+     "cardNumber": "PTCGOCE00000000000032",
+     "dec": "1270459025617281",
+     "decInvert": "3643553381885619"
+    },
+    {
+     "Sequencia": "33",
+     "cardNumber": "PTCGOCE00000000000033",
+     "dec": "1272181307502980",
+     "decInvert": "3727995874171418"
+    },
+    {
+     "Sequencia": "34",
+     "cardNumber": "PTCGOCE00000000000034",
+     "dec": "1197835423609221",
+     "decInvert": "3756143372482995"
+    },
+    {
+     "Sequencia": "35",
+     "cardNumber": "PTCGOCE00000000000035",
+     "dec": "1228398410887557",
+     "decInvert": "3756143372142925"
+    },
+    {
+     "Sequencia": "36",
+     "cardNumber": "PTCGOCE00000000000036",
+     "dec": "1219400454402436",
+     "decInvert": "3727995874163635"
+    },
+    {
+     "Sequencia": "37",
+     "cardNumber": "PTCGOCE00000000000037",
+     "dec": "1323188339110272",
+     "decInvert": "3615405884143693"
+    },
+    {
+     "Sequencia": "38",
+     "cardNumber": "PTCGOCE00000000000038",
+     "dec": "1189125229932933",
+     "decInvert": "3756143372613862"
+    },
+    {
+     "Sequencia": "39",
+     "cardNumber": "PTCGOCE00000000000039",
+     "dec": "1394781148967300",
+     "decInvert": "3727995875019674"
+    },
+    {
+     "Sequencia": "40",
+     "cardNumber": "PTCGOCE00000000000040",
+     "dec": "1232538759360897",
+     "decInvert": "3643553382743245"
+    },
+    {
+     "Sequencia": "41",
+     "cardNumber": "PTCGOCE00000000000041",
+     "dec": "1201065239015808",
+     "decInvert": "3615405884022886"
+    },
+    {
+     "Sequencia": "42",
+     "cardNumber": "PTCGOCE00000000000042",
+     "dec": "1175407104389509",
+     "decInvert": "3756143371814016"
+    },
+    {
+     "Sequencia": "43",
+     "cardNumber": "PTCGOCE00000000000043",
+     "dec": "1213181341757824",
+     "decInvert": "3615405884055936"
+    },
+    {
+     "Sequencia": "44",
+     "cardNumber": "PTCGOCE00000000000044",
+     "dec": "1182223217488260",
+     "decInvert": "3727995874477338"
+    },
+    {
+     "Sequencia": "45",
+     "cardNumber": "PTCGOCE00000000000045",
+     "dec": "1293261006991749",
+     "decInvert": "3756143372131328"
+    },
+    {
+     "Sequencia": "46",
+     "cardNumber": "PTCGOCE00000000000046",
+     "dec": "1294274619273604",
+     "decInvert": "3727995874329216"
+    },
+    {
+     "Sequencia": "47",
+     "cardNumber": "PTCGOCE00000000000047",
+     "dec": "1243722854199680",
+     "decInvert": "3615405883683098"
+    },
+    {
+     "Sequencia": "48",
+     "cardNumber": "PTCGOCE00000000000048",
+     "dec": "1371691404784004",
+     "decInvert": "3727995875019136"
+    },
+    {
+     "Sequencia": "49",
+     "cardNumber": "PTCGOCE00000000000049",
+     "dec": "1370218231001472",
+     "decInvert": "3615405883764685"
+    },
+    {
+     "Sequencia": "50",
+     "cardNumber": "PTCGOCE00000000000050",
+     "dec": "1156079751557505",
+     "decInvert": "3643553381837082"
+    },
+    {
+     "Sequencia": "51",
+     "cardNumber": "PTCGOCE00000000000051",
+     "dec": "1233174414520704",
+     "decInvert": "3615405884364416"
+    },
+    {
+     "Sequencia": "52",
+     "cardNumber": "PTCGOCE00000000000052",
+     "dec": "1320564114092420",
+     "decInvert": "3727995874179098"
+    },
+    {
+     "Sequencia": "53",
+     "cardNumber": "PTCGOCE00000000000053",
+     "dec": "1350375482093952",
+     "decInvert": "3615405883685581"
+    },
+    {
+     "Sequencia": "54",
+     "cardNumber": "PTCGOCE00000000000054",
+     "dec": "1238276835668353",
+     "decInvert": "3643553381432678"
+    },
+    {
+     "Sequencia": "55",
+     "cardNumber": "PTCGOCE00000000000055",
+     "dec": "1290044076487044",
+     "decInvert": "3727995874584704"
+    },
+    {
+     "Sequencia": "56",
+     "cardNumber": "PTCGOCE00000000000056",
+     "dec": "1280187126542724",
+     "decInvert": "3727995874643456"
+    },
+    {
+     "Sequencia": "57",
+     "cardNumber": "PTCGOCE00000000000057",
+     "dec": "1260395917242757",
+     "decInvert": "3756143372314061"
+    },
+    {
+     "Sequencia": "58",
+     "cardNumber": "PTCGOCE00000000000058",
+     "dec": "1162075525902721",
+     "decInvert": "3643553382597427"
+    },
+    {
+     "Sequencia": "59",
+     "cardNumber": "PTCGOCE00000000000059",
+     "dec": "1242881040609665",
+     "decInvert": "3643553381747354"
+    },
+    {
+     "Sequencia": "60",
+     "cardNumber": "PTCGOCE00000000000060",
+     "dec": "1267276454850945",
+     "decInvert": "3643553382062490"
+    },
+    {
+     "Sequencia": "61",
+     "cardNumber": "PTCGOCE00000000000061",
+     "dec": "1343671038144900",
+     "decInvert": "3727995874205850"
+    },
+    {
+     "Sequencia": "62",
+     "cardNumber": "PTCGOCE00000000000062",
+     "dec": "1186788767723904",
+     "decInvert": "3615405884048768"
+    },
+    {
+     "Sequencia": "63",
+     "cardNumber": "PTCGOCE00000000000063",
+     "dec": "1260924198220161",
+     "decInvert": "3643553382435891"
+    },
+    {
+     "Sequencia": "64",
+     "cardNumber": "PTCGOCE00000000000064",
+     "dec": "1186874667069824",
+     "decInvert": "3615405884179840"
+    },
+    {
+     "Sequencia": "65",
+     "cardNumber": "PTCGOCE00000000000065",
+     "dec": "1291392696217988",
+     "decInvert": "3727995874964838"
+    },
+    {
+     "Sequencia": "66",
+     "cardNumber": "PTCGOCE00000000000066",
+     "dec": "1333010929316224",
+     "decInvert": "3615405884032512"
+    },
+    {
+     "Sequencia": "67",
+     "cardNumber": "PTCGOCE00000000000067",
+     "dec": "1236984050512260",
+     "decInvert": "3727995874150938"
+    },
+    {
+     "Sequencia": "68",
+     "cardNumber": "PTCGOCE00000000000068",
+     "dec": "1151625870471557",
+     "decInvert": "3756143372436045"
+    },
+    {
+     "Sequencia": "69",
+     "cardNumber": "PTCGOCE00000000000069",
+     "dec": "1207593589305733",
+     "decInvert": "3756143372273510"
+    },
+    {
+     "Sequencia": "70",
+     "cardNumber": "PTCGOCE00000000000070",
+     "dec": "1158875775267201",
+     "decInvert": "3643553382748083"
+    },
+    {
+     "Sequencia": "71",
+     "cardNumber": "PTCGOCE00000000000071",
+     "dec": "1161573014729088",
+     "decInvert": "3615405884159590"
+    },
+    {
+     "Sequencia": "72",
+     "cardNumber": "PTCGOCE00000000000072",
+     "dec": "1290546587660673",
+     "decInvert": "3643553382338278"
+    },
+    {
+     "Sequencia": "73",
+     "cardNumber": "PTCGOCE00000000000073",
+     "dec": "1268590714843521",
+     "decInvert": "3643553382390195"
+    },
+    {
+     "Sequencia": "74",
+     "cardNumber": "PTCGOCE00000000000074",
+     "dec": "1285598785335680",
+     "decInvert": "3615405883828250"
+    },
+    {
+     "Sequencia": "75",
+     "cardNumber": "PTCGOCE00000000000075",
+     "dec": "1144564944236929",
+     "decInvert": "3643553382721536"
+    },
+    {
+     "Sequencia": "76",
+     "cardNumber": "PTCGOCE00000000000076",
+     "dec": "1179972654625157",
+     "decInvert": "3756143372069709"
+    },
+    {
+     "Sequencia": "77",
+     "cardNumber": "PTCGOCE00000000000077",
+     "dec": "1262663659975040",
+     "decInvert": "3615405884063642"
+    },
+    {
+     "Sequencia": "78",
+     "cardNumber": "PTCGOCE00000000000078",
+     "dec": "1173070642180480",
+     "decInvert": "3615405884926618"
+    },
+    {
+     "Sequencia": "79",
+     "cardNumber": "PTCGOCE00000000000079",
+     "dec": "1275750425325956",
+     "decInvert": "3727995874584371"
+    },
+    {
+     "Sequencia": "80",
+     "cardNumber": "PTCGOCE00000000000080",
+     "dec": "1128055089951105",
+     "decInvert": "3643553382694938"
+    },
+    {
+     "Sequencia": "81",
+     "cardNumber": "PTCGOCE00000000000081",
+     "dec": "1167208011821445",
+     "decInvert": "3756143372724762"
+    },
+    {
+     "Sequencia": "82",
+     "cardNumber": "PTCGOCE00000000000082",
+     "dec": "1311720776429956",
+     "decInvert": "3727995874106803"
+    },
+    {
+     "Sequencia": "83",
+     "cardNumber": "PTCGOCE00000000000083",
+     "dec": "1315465987912068",
+     "decInvert": "3727995874788454"
+    },
+    {
+     "Sequencia": "84",
+     "cardNumber": "PTCGOCE00000000000084",
+     "dec": "1295627533971840",
+     "decInvert": "3615405884031642"
+    },
+    {
+     "Sequencia": "85",
+     "cardNumber": "PTCGOCE00000000000085",
+     "dec": "1184362111201669",
+     "decInvert": "3756143372056704"
+    },
+    {
+     "Sequencia": "86",
+     "cardNumber": "PTCGOCE00000000000086",
+     "dec": "1307228240638337",
+     "decInvert": "3643553382627021"
+    },
+    {
+     "Sequencia": "87",
+     "cardNumber": "PTCGOCE00000000000087",
+     "dec": "1315410153337216",
+     "decInvert": "3615405884018995"
+    },
+    {
+     "Sequencia": "88",
+     "cardNumber": "PTCGOCE00000000000088",
+     "dec": "1241794413883777",
+     "decInvert": "3643553381766989"
+    },
+    {
+     "Sequencia": "89",
+     "cardNumber": "PTCGOCE00000000000089",
+     "dec": "1331039539327364",
+     "decInvert": "3727995875064064"
+    },
+    {
+     "Sequencia": "90",
+     "cardNumber": "PTCGOCE00000000000090",
+     "dec": "1192118822138244",
+     "decInvert": "3727995874477568"
+    },
+    {
+     "Sequencia": "91",
+     "cardNumber": "PTCGOCE00000000000091",
+     "dec": "1186612674064773",
+     "decInvert": "3756143372135398"
+    },
+    {
+     "Sequencia": "92",
+     "cardNumber": "PTCGOCE00000000000092",
+     "dec": "1233706990465413",
+     "decInvert": "3756143371854694"
+    },
+    {
+     "Sequencia": "93",
+     "cardNumber": "PTCGOCE00000000000093",
+     "dec": "1169763517362560",
+     "decInvert": "3615405884913434"
+    },
+    {
+     "Sequencia": "94",
+     "cardNumber": "PTCGOCE00000000000094",
+     "dec": "1169205171614085",
+     "decInvert": "3756143372416794"
+    },
+    {
+     "Sequencia": "95",
+     "cardNumber": "PTCGOCE00000000000095",
+     "dec": "1289116363551105",
+     "decInvert": "3643553381833626"
+    },
+    {
+     "Sequencia": "96",
+     "cardNumber": "PTCGOCE00000000000096",
+     "dec": "1159640279445888",
+     "decInvert": "3615405884565862"
+    },
+    {
+     "Sequencia": "97",
+     "cardNumber": "PTCGOCE00000000000097",
+     "dec": "1180329136910725",
+     "decInvert": "3756143372613658"
+    },
+    {
+     "Sequencia": "98",
+     "cardNumber": "PTCGOCE00000000000098",
+     "dec": "1203255672336768",
+     "decInvert": "3615405884009830"
+    },
+    {
+     "Sequencia": "99",
+     "cardNumber": "PTCGOCE00000000000099",
+     "dec": "1297521614549380",
+     "decInvert": "3727995874250650"
+    },
+    {
+     "Sequencia": "100",
+     "cardNumber": "PTCGOCE00000000000100",
+     "dec": "1265360899436929",
+     "decInvert": "3643553382494976"
+    },
+    {
+     "Sequencia": "101",
+     "cardNumber": "PTCGOCE00000000000101",
+     "dec": "1234750667518337",
+     "decInvert": "3643553382762957"
+    },
+    {
+     "Sequencia": "102",
+     "cardNumber": "PTCGOCE00000000000102",
+     "dec": "1332014496903556",
+     "decInvert": "3727995874874035"
+    },
+    {
+     "Sequencia": "103",
+     "cardNumber": "PTCGOCE00000000000103",
+     "dec": "1311639172051329",
+     "decInvert": "3643553382646784"
+    },
+    {
+     "Sequencia": "104",
+     "cardNumber": "PTCGOCE00000000000104",
+     "dec": "1221839995826561",
+     "decInvert": "3643553381517491"
+    },
+    {
+     "Sequencia": "105",
+     "cardNumber": "PTCGOCE00000000000105",
+     "dec": "1359085675770244",
+     "decInvert": "3727995874238976"
+    },
+    {
+     "Sequencia": "106",
+     "cardNumber": "PTCGOCE00000000000106",
+     "dec": "1264257092841857",
+     "decInvert": "3643553382488397"
+    },
+    {
+     "Sequencia": "107",
+     "cardNumber": "PTCGOCE00000000000107",
+     "dec": "1158356084224389",
+     "decInvert": "3756143372639360"
+    },
+    {
+     "Sequencia": "108",
+     "cardNumber": "PTCGOCE00000000000108",
+     "dec": "1213013838033284",
+     "decInvert": "3727995874484608"
+    },
+    {
+     "Sequencia": "109",
+     "cardNumber": "PTCGOCE00000000000109",
+     "dec": "1186028558512512",
+     "decInvert": "3615405884566477"
+    },
+    {
+     "Sequencia": "110",
+     "cardNumber": "PTCGOCE00000000000110",
+     "dec": "1161628849303941",
+     "decInvert": "3756143372600115"
+    },
+    {
+     "Sequencia": "111",
+     "cardNumber": "PTCGOCE00000000000111",
+     "dec": "1169316840763776",
+     "decInvert": "3615405884231859"
+    },
+    {
+     "Sequencia": "112",
+     "cardNumber": "PTCGOCE00000000000112",
+     "dec": "1204157615468933",
+     "decInvert": "3756143372063718"
+    },
+    {
+     "Sequencia": "113",
+     "cardNumber": "PTCGOCE00000000000113",
+     "dec": "1258007915426180",
+     "decInvert": "3727995874354586"
+    },
+    {
+     "Sequencia": "114",
+     "cardNumber": "PTCGOCE00000000000114",
+     "dec": "1398831303127428",
+     "decInvert": "3727995874488934"
+    },
+    {
+     "Sequencia": "115",
+     "cardNumber": "PTCGOCE00000000000115",
+     "dec": "1357140055585152",
+     "decInvert": "3615405883941325"
+    },
+    {
+     "Sequencia": "116",
+     "cardNumber": "PTCGOCE00000000000116",
+     "dec": "1264682294604160",
+     "decInvert": "3615405883788442"
+    },
+    {
+     "Sequencia": "117",
+     "cardNumber": "PTCGOCE00000000000117",
+     "dec": "1322410950029696",
+     "decInvert": "3615405884635187"
+    },
+    {
+     "Sequencia": "118",
+     "cardNumber": "PTCGOCE00000000000118",
+     "dec": "1339182797320576",
+     "decInvert": "3615405885061555"
+    },
+    {
+     "Sequencia": "119",
+     "cardNumber": "PTCGOCE00000000000119",
+     "dec": "1337688148701568",
+     "decInvert": "3615405884458598"
+    },
+    {
+     "Sequencia": "120",
+     "cardNumber": "PTCGOCE00000000000120",
+     "dec": "1199282827587969",
+     "decInvert": "3643553382329600"
+    },
+    {
+     "Sequencia": "121",
+     "cardNumber": "PTCGOCE00000000000121",
+     "dec": "1213056787706241",
+     "decInvert": "3643553381536947"
+    },
+    {
+     "Sequencia": "122",
+     "cardNumber": "PTCGOCE00000000000122",
+     "dec": "1164897319416192",
+     "decInvert": "3615405884198989"
+    },
+    {
+     "Sequencia": "123",
+     "cardNumber": "PTCGOCE00000000000123",
+     "dec": "1172349087674753",
+     "decInvert": "3643553381496678"
+    },
+    {
+     "Sequencia": "124",
+     "cardNumber": "PTCGOCE00000000000124",
+     "dec": "1369423662051712",
+     "decInvert": "3615405884229965"
+    },
+    {
+     "Sequencia": "125",
+     "cardNumber": "PTCGOCE00000000000125",
+     "dec": "1285856483373441",
+     "decInvert": "3643553381892531"
+    },
+    {
+     "Sequencia": "126",
+     "cardNumber": "PTCGOCE00000000000126",
+     "dec": "1244032091844992",
+     "decInvert": "3615405884154957"
+    },
+    {
+     "Sequencia": "127",
+     "cardNumber": "PTCGOCE00000000000127",
+     "dec": "1218584410616193",
+     "decInvert": "3643553381582950"
+    },
+    {
+     "Sequencia": "128",
+     "cardNumber": "PTCGOCE00000000000128",
+     "dec": "1277550016622977",
+     "decInvert": "3643553382639437"
+    },
+    {
+     "Sequencia": "129",
+     "cardNumber": "PTCGOCE00000000000129",
+     "dec": "1245062883996032",
+     "decInvert": "3615405884050125"
+    },
+    {
+     "Sequencia": "130",
+     "cardNumber": "PTCGOCE00000000000130",
+     "dec": "1303233921053060",
+     "decInvert": "3727995874578458"
+    },
+    {
+     "Sequencia": "131",
+     "cardNumber": "PTCGOCE00000000000131",
+     "dec": "1303418604646785",
+     "decInvert": "3643553381847066"
+    },
+    {
+     "Sequencia": "132",
+     "cardNumber": "PTCGOCE00000000000132",
+     "dec": "1290701206483329",
+     "decInvert": "3643553382574208"
+    },
+    {
+     "Sequencia": "133",
+     "cardNumber": "PTCGOCE00000000000133",
+     "dec": "1214379637633409",
+     "decInvert": "3643553381877760"
+    },
+    {
+     "Sequencia": "134",
+     "cardNumber": "PTCGOCE00000000000134",
+     "dec": "1190117367378305",
+     "decInvert": "3643553381765786"
+    },
+    {
+     "Sequencia": "135",
+     "cardNumber": "PTCGOCE00000000000135",
+     "dec": "1218558640812420",
+     "decInvert": "3727995874556826"
+    },
+    {
+     "Sequencia": "136",
+     "cardNumber": "PTCGOCE00000000000136",
+     "dec": "1179779381096837",
+     "decInvert": "3756143371774797"
+    },
+    {
+     "Sequencia": "137",
+     "cardNumber": "PTCGOCE00000000000137",
+     "dec": "1188820287254916",
+     "decInvert": "3727995874477491"
+    },
+    {
+     "Sequencia": "138",
+     "cardNumber": "PTCGOCE00000000000138",
+     "dec": "1150036732572033",
+     "decInvert": "3643553382682342"
+    },
+    {
+     "Sequencia": "139",
+     "cardNumber": "PTCGOCE00000000000139",
+     "dec": "1146983010824581",
+     "decInvert": "3756143372062387"
+    },
+    {
+     "Sequencia": "140",
+     "cardNumber": "PTCGOCE00000000000140",
+     "dec": "1263827596112257",
+     "decInvert": "3643553381833037"
+    },
+    {
+     "Sequencia": "141",
+     "cardNumber": "PTCGOCE00000000000141",
+     "dec": "1337357436219776",
+     "decInvert": "3615405883953971"
+    },
+    {
+     "Sequencia": "142",
+     "cardNumber": "PTCGOCE00000000000142",
+     "dec": "1242760781525377",
+     "decInvert": "3643553381563853"
+    },
+    {
+     "Sequencia": "143",
+     "cardNumber": "PTCGOCE00000000000143",
+     "dec": "1277584376361345",
+     "decInvert": "3643553382691866"
+    },
+    {
+     "Sequencia": "144",
+     "cardNumber": "PTCGOCE00000000000144",
+     "dec": "1395734631707008",
+     "decInvert": "3615405884112614"
+    },
+    {
+     "Sequencia": "145",
+     "cardNumber": "PTCGOCE00000000000145",
+     "dec": "1293913842020736",
+     "decInvert": "3615405884772147"
+    },
+    {
+     "Sequencia": "146",
+     "cardNumber": "PTCGOCE00000000000146",
+     "dec": "1267177670603137",
+     "decInvert": "3643553381911757"
+    },
+    {
+     "Sequencia": "147",
+     "cardNumber": "PTCGOCE00000000000147",
+     "dec": "1238070677238148",
+     "decInvert": "3727995874131302"
+    },
+    {
+     "Sequencia": "148",
+     "cardNumber": "PTCGOCE00000000000148",
+     "dec": "1287802103558532",
+     "decInvert": "3727995874519117"
+    },
+    {
+     "Sequencia": "149",
+     "cardNumber": "PTCGOCE00000000000149",
+     "dec": "1168036940509569",
+     "decInvert": "3643553381627648"
+    },
+    {
+     "Sequencia": "150",
+     "cardNumber": "PTCGOCE00000000000150",
+     "dec": "1148554968854917",
+     "decInvert": "3756143372783309"
+    },
+    {
+     "Sequencia": "151",
+     "cardNumber": "PTCGOCE00000000000151",
+     "dec": "1268040959029633",
+     "decInvert": "3643553381551334"
+    },
+    {
+     "Sequencia": "152",
+     "cardNumber": "PTCGOCE00000000000152",
+     "dec": "1208044560871808",
+     "decInvert": "3615405884606310"
+    },
+    {
+     "Sequencia": "153",
+     "cardNumber": "PTCGOCE00000000000153",
+     "dec": "1252811264913540",
+     "decInvert": "3727830115919130"
+    },
+    {
+     "Sequencia": "154",
+     "cardNumber": "PTCGOCE00000000000154",
+     "dec": "1205583544611201",
+     "decInvert": "3643553381877555"
+    },
+    {
+     "Sequencia": "155",
+     "cardNumber": "PTCGOCE00000000000155",
+     "dec": "1281290933137797",
+     "decInvert": "3756143372321101"
+    },
+    {
+     "Sequencia": "156",
+     "cardNumber": "PTCGOCE00000000000156",
+     "dec": "1291435645890948",
+     "decInvert": "3727995875030374"
+    },
+    {
+     "Sequencia": "157",
+     "cardNumber": "PTCGOCE00000000000157",
+     "dec": "1268629369549184",
+     "decInvert": "3615405884778112"
+    },
+    {
+     "Sequencia": "158",
+     "cardNumber": "PTCGOCE00000000000158",
+     "dec": "1400759743443328",
+     "decInvert": "3615405885069542"
+    },
+    {
+     "Sequencia": "159",
+     "cardNumber": "PTCGOCE00000000000159",
+     "dec": "1305128001630597",
+     "decInvert": "3756143371784269"
+    },
+    {
+     "Sequencia": "160",
+     "cardNumber": "PTCGOCE00000000000160",
+     "dec": "1350362597192064",
+     "decInvert": "3615405883665920"
+    },
+    {
+     "Sequencia": "161",
+     "cardNumber": "PTCGOCE00000000000161",
+     "dec": "1199905597845888",
+     "decInvert": "3615405883931110"
+    },
+    {
+     "Sequencia": "162",
+     "cardNumber": "PTCGOCE00000000000162",
+     "dec": "1180393561420161",
+     "decInvert": "3643553382027699"
+    },
+    {
+     "Sequencia": "163",
+     "cardNumber": "PTCGOCE00000000000163",
+     "dec": "1278065412698497",
+     "decInvert": "3643553381748173"
+    },
+    {
+     "Sequencia": "164",
+     "cardNumber": "PTCGOCE00000000000164",
+     "dec": "1253923401527681",
+     "decInvert": "3643553381819699"
+    },
+    {
+     "Sequencia": "165",
+     "cardNumber": "PTCGOCE00000000000165",
+     "dec": "1249078678417796",
+     "decInvert": "3727995874151219"
+    },
+    {
+     "Sequencia": "166",
+     "cardNumber": "PTCGOCE00000000000166",
+     "dec": "1185599061782913",
+     "decInvert": "3643553381582182"
+    },
+    {
+     "Sequencia": "167",
+     "cardNumber": "PTCGOCE00000000000167",
+     "dec": "1265893475381636",
+     "decInvert": "3727995874643123"
+    },
+    {
+     "Sequencia": "168",
+     "cardNumber": "PTCGOCE00000000000168",
+     "dec": "1230623203946880",
+     "decInvert": "3615405883826970"
+    },
+    {
+     "Sequencia": "169",
+     "cardNumber": "PTCGOCE00000000000169",
+     "dec": "1320714437947776",
+     "decInvert": "3615405883724211"
+    },
+    {
+     "Sequencia": "170",
+     "cardNumber": "PTCGOCE00000000000170",
+     "dec": "1309328479646080",
+     "decInvert": "3615405884805274"
+    },
+    {
+     "Sequencia": "171",
+     "cardNumber": "PTCGOCE00000000000171",
+     "dec": "1182506685329797",
+     "decInvert": "3756143372580941"
+    },
+    {
+     "Sequencia": "172",
+     "cardNumber": "PTCGOCE00000000000172",
+     "dec": "1330090351554944",
+     "decInvert": "3615405884609152"
+    },
+    {
+     "Sequencia": "173",
+     "cardNumber": "PTCGOCE00000000000173",
+     "dec": "1128012140278145",
+     "decInvert": "3643553382629402"
+    },
+    {
+     "Sequencia": "174",
+     "cardNumber": "PTCGOCE00000000000174",
+     "dec": "1166911659078021",
+     "decInvert": "3756143372272563"
+    },
+    {
+     "Sequencia": "175",
+     "cardNumber": "PTCGOCE00000000000175",
+     "dec": "1131611322872193",
+     "decInvert": "3643553381410534"
+    },
+    {
+     "Sequencia": "176",
+     "cardNumber": "PTCGOCE00000000000176",
+     "dec": "1380148195389828",
+     "decInvert": "3727995874501606"
+    },
+    {
+     "Sequencia": "177",
+     "cardNumber": "PTCGOCE00000000000177",
+     "dec": "1231340463485313",
+     "decInvert": "3643553382592486"
+    },
+    {
+     "Sequencia": "178",
+     "cardNumber": "PTCGOCE00000000000178",
+     "dec": "1232762097660293",
+     "decInvert": "3756143372090598"
+    },
+    {
+     "Sequencia": "179",
+     "cardNumber": "PTCGOCE00000000000179",
+     "dec": "1188133092487552",
+     "decInvert": "3615405884422349"
+    },
+    {
+     "Sequencia": "180",
+     "cardNumber": "PTCGOCE00000000000180",
+     "dec": "1219709692047748",
+     "decInvert": "3727995874635494"
+    },
+    {
+     "Sequencia": "181",
+     "cardNumber": "PTCGOCE00000000000181",
+     "dec": "1374697881891200",
+     "decInvert": "3615405883889306"
+    },
+    {
+     "Sequencia": "182",
+     "cardNumber": "PTCGOCE00000000000182",
+     "dec": "1245982006997381",
+     "decInvert": "3756143372130227"
+    },
+    {
+     "Sequencia": "183",
+     "cardNumber": "PTCGOCE00000000000183",
+     "dec": "1345311715651972",
+     "decInvert": "3727995875031629"
+    },
+    {
+     "Sequencia": "184",
+     "cardNumber": "PTCGOCE00000000000184",
+     "dec": "1406935906414980",
+     "decInvert": "3727995875111706"
+    },
+    {
+     "Sequencia": "185",
+     "cardNumber": "PTCGOCE00000000000185",
+     "dec": "1224180753002885",
+     "decInvert": "3756143372418074"
+    },
+    {
+     "Sequencia": "186",
+     "cardNumber": "PTCGOCE00000000000186",
+     "dec": "1356177982910852",
+     "decInvert": "3727995874835277"
+    },
+    {
+     "Sequencia": "187",
+     "cardNumber": "PTCGOCE00000000000187",
+     "dec": "1237834454036864",
+     "decInvert": "3615405884764288"
+    },
+    {
+     "Sequencia": "188",
+     "cardNumber": "PTCGOCE00000000000188",
+     "dec": "1219782706491777",
+     "decInvert": "3643553381733709"
+    },
+    {
+     "Sequencia": "189",
+     "cardNumber": "PTCGOCE00000000000189",
+     "dec": "1263823301144961",
+     "decInvert": "3643553381826483"
+    },
+    {
+     "Sequencia": "190",
+     "cardNumber": "PTCGOCE00000000000190",
+     "dec": "1247133058232705",
+     "decInvert": "3643553381524634"
+    },
+    {
+     "Sequencia": "191",
+     "cardNumber": "PTCGOCE00000000000191",
+     "dec": "1224816408162689",
+     "decInvert": "3643553382703744"
+    },
+    {
+     "Sequencia": "192",
+     "cardNumber": "PTCGOCE00000000000192",
+     "dec": "1132444546527617",
+     "decInvert": "3643553382681933"
+    },
+    {
+     "Sequencia": "193",
+     "cardNumber": "PTCGOCE00000000000193",
+     "dec": "1372108016611712",
+     "decInvert": "3615405884970573"
+    },
+    {
+     "Sequencia": "194",
+     "cardNumber": "PTCGOCE00000000000194",
+     "dec": "1272593624363392",
+     "decInvert": "3615405884116301"
+    },
+    {
+     "Sequencia": "195",
+     "cardNumber": "PTCGOCE00000000000195",
+     "dec": "1247755828490625",
+     "decInvert": "3643553382474906"
+    },
+    {
+     "Sequencia": "196",
+     "cardNumber": "PTCGOCE00000000000196",
+     "dec": "1291736293601665",
+     "decInvert": "3643553382475930"
+    },
+    {
+     "Sequencia": "197",
+     "cardNumber": "PTCGOCE00000000000197",
+     "dec": "1347317465379204",
+     "decInvert": "3727995874736768"
+    },
+    {
+     "Sequencia": "198",
+     "cardNumber": "PTCGOCE00000000000198",
+     "dec": "1339457675227524",
+     "decInvert": "3727995874487552"
+    },
+    {
+     "Sequencia": "199",
+     "cardNumber": "PTCGOCE00000000000199",
+     "dec": "1349967460200832",
+     "decInvert": "3615405884740685"
+    },
+    {
+     "Sequencia": "200",
+     "cardNumber": "PTCGOCE00000000000200",
+     "dec": "1266984397074821",
+     "decInvert": "3756143372301107"
+    },
+    {
+     "Sequencia": "201",
+     "cardNumber": "PTCGOCE00000000000201",
+     "dec": "1365944738541952",
+     "decInvert": "3615405883954637"
+    },
+    {
+     "Sequencia": "202",
+     "cardNumber": "PTCGOCE00000000000202",
+     "dec": "1254894064136581",
+     "decInvert": "3756143372307379"
+    },
+    {
+     "Sequencia": "203",
+     "cardNumber": "PTCGOCE00000000000203",
+     "dec": "1301120797143424",
+     "decInvert": "3615405884025216"
+    },
+    {
+     "Sequencia": "204",
+     "cardNumber": "PTCGOCE00000000000204",
+     "dec": "1178370631823745",
+     "decInvert": "3643553382296346"
+    },
+    {
+     "Sequencia": "205",
+     "cardNumber": "PTCGOCE00000000000205",
+     "dec": "1311540387803520",
+     "decInvert": "3615405884824986"
+    },
+    {
+     "Sequencia": "206",
+     "cardNumber": "PTCGOCE00000000000206",
+     "dec": "1257900541243780",
+     "decInvert": "3727995874190746"
+    },
+    {
+     "Sequencia": "207",
+     "cardNumber": "PTCGOCE00000000000207",
+     "dec": "1214302328222085",
+     "decInvert": "3756143372444058"
+    },
+    {
+     "Sequencia": "208",
+     "cardNumber": "PTCGOCE00000000000208",
+     "dec": "1156762651357573",
+     "decInvert": "3756143371885670"
+    },
+    {
+     "Sequencia": "209",
+     "cardNumber": "PTCGOCE00000000000209",
+     "dec": "1292900229738880",
+     "decInvert": "3615405884903194"
+    },
+    {
+     "Sequencia": "210",
+     "cardNumber": "PTCGOCE00000000000210",
+     "dec": "1249430865736069",
+     "decInvert": "3756143372359680"
+    },
+    {
+     "Sequencia": "211",
+     "cardNumber": "PTCGOCE00000000000211",
+     "dec": "1357466473099652",
+     "decInvert": "3727995875123661"
+    },
+    {
+     "Sequencia": "212",
+     "cardNumber": "PTCGOCE00000000000212",
+     "dec": "1310947682316676",
+     "decInvert": "3727995874604851"
+    },
+    {
+     "Sequencia": "213",
+     "cardNumber": "PTCGOCE00000000000213",
+     "dec": "1308314867364225",
+     "decInvert": "3643553382607386"
+    },
+    {
+     "Sequencia": "214",
+     "cardNumber": "PTCGOCE00000000000214",
+     "dec": "1206455422972289",
+     "decInvert": "3643553381530240"
+    },
+    {
+     "Sequencia": "215",
+     "cardNumber": "PTCGOCE00000000000215",
+     "dec": "1247133058232709",
+     "decInvert": "3756143372208896"
+    },
+    {
+     "Sequencia": "216",
+     "cardNumber": "PTCGOCE00000000000216",
+     "dec": "1219628087669125",
+     "decInvert": "3756143372182042"
+    },
+    {
+     "Sequencia": "217",
+     "cardNumber": "PTCGOCE00000000000217",
+     "dec": "1233900263993732",
+     "decInvert": "3727995874478541"
+    },
+    {
+     "Sequencia": "218",
+     "cardNumber": "PTCGOCE00000000000218",
+     "dec": "1163724793344389",
+     "decInvert": "3756143372442880"
+    },
+    {
+     "Sequencia": "219",
+     "cardNumber": "PTCGOCE00000000000219",
+     "dec": "1134909857755521",
+     "decInvert": "3643553381410611"
+    },
+    {
+     "Sequencia": "220",
+     "cardNumber": "PTCGOCE00000000000220",
+     "dec": "1301829466747269",
+     "decInvert": "3756143371784192"
+    },
+    {
+     "Sequencia": "221",
+     "cardNumber": "PTCGOCE00000000000221",
+     "dec": "1404023918588288",
+     "decInvert": "3615405885017190"
+    },
+    {
+     "Sequencia": "222",
+     "cardNumber": "PTCGOCE00000000000222",
+     "dec": "1258634980651393",
+     "decInvert": "3643553382298214"
+    },
+    {
+     "Sequencia": "223",
+     "cardNumber": "PTCGOCE00000000000223",
+     "dec": "1140050933608832",
+     "decInvert": "3615405884873421"
+    },
+    {
+     "Sequencia": "224",
+     "cardNumber": "PTCGOCE00000000000224",
+     "dec": "1288008261988740",
+     "decInvert": "3727995874833690"
+    },
+    {
+     "Sequencia": "225",
+     "cardNumber": "PTCGOCE00000000000225",
+     "dec": "1388828324295040",
+     "decInvert": "3615405883640602"
+    },
+    {
+     "Sequencia": "226",
+     "cardNumber": "PTCGOCE00000000000226",
+     "dec": "1250835320041856",
+     "decInvert": "3615405884469683"
+    },
+    {
+     "Sequencia": "227",
+     "cardNumber": "PTCGOCE00000000000227",
+     "dec": "1190959180968325",
+     "decInvert": "3756143372056858"
+    },
+    {
+     "Sequencia": "228",
+     "cardNumber": "PTCGOCE00000000000228",
+     "dec": "1384224119353728",
+     "decInvert": "3615405885003622"
+    },
+    {
+     "Sequencia": "229",
+     "cardNumber": "PTCGOCE00000000000229",
+     "dec": "1209762547790209",
+     "decInvert": "3643553381543424"
+    },
+    {
+     "Sequencia": "230",
+     "cardNumber": "PTCGOCE00000000000230",
+     "dec": "1311802380808580",
+     "decInvert": "3727995874231322"
+    },
+    {
+     "Sequencia": "231",
+     "cardNumber": "PTCGOCE00000000000231",
+     "dec": "1144818347307393",
+     "decInvert": "3643553381430502"
+    },
+    {
+     "Sequencia": "232",
+     "cardNumber": "PTCGOCE00000000000232",
+     "dec": "1367490926768512",
+     "decInvert": "3615405884636237"
+    },
+    {
+     "Sequencia": "233",
+     "cardNumber": "PTCGOCE00000000000233",
+     "dec": "1196559818322305",
+     "decInvert": "3643553381530010"
+    },
+    {
+     "Sequencia": "234",
+     "cardNumber": "PTCGOCE00000000000234",
+     "dec": "1293475755356548",
+     "decInvert": "3727995874787942"
+    },
+    {
+     "Sequencia": "235",
+     "cardNumber": "PTCGOCE00000000000235",
+     "dec": "1160520747741573",
+     "decInvert": "3756143372586982"
+    },
+    {
+     "Sequencia": "236",
+     "cardNumber": "PTCGOCE00000000000236",
+     "dec": "1206665876369792",
+     "decInvert": "3615405884180301"
+    },
+    {
+     "Sequencia": "237",
+     "cardNumber": "PTCGOCE00000000000237",
+     "dec": "1283026099925377",
+     "decInvert": "3643553382606797"
+    },
+    {
+     "Sequencia": "238",
+     "cardNumber": "PTCGOCE00000000000238",
+     "dec": "1147086090039681",
+     "decInvert": "3643553381535411"
+    },
+    {
+     "Sequencia": "239",
+     "cardNumber": "PTCGOCE00000000000239",
+     "dec": "1405836394787204",
+     "decInvert": "3727995875111680"
+    },
+    {
+     "Sequencia": "240",
+     "cardNumber": "PTCGOCE00000000000240",
+     "dec": "1278494909428097",
+     "decInvert": "3643553382403533"
+    },
+    {
+     "Sequencia": "241",
+     "cardNumber": "PTCGOCE00000000000241",
+     "dec": "1191006425608581",
+     "decInvert": "3756143372128947"
+    },
+    {
+     "Sequencia": "242",
+     "cardNumber": "PTCGOCE00000000000242",
+     "dec": "1268221347656065",
+     "decInvert": "3643553381826586"
+    },
+    {
+     "Sequencia": "243",
+     "cardNumber": "PTCGOCE00000000000243",
+     "dec": "1244878200402304",
+     "decInvert": "3615405883768320"
+    },
+    {
+     "Sequencia": "244",
+     "cardNumber": "PTCGOCE00000000000244",
+     "dec": "1363393527968128",
+     "decInvert": "3615405885094886"
+    },
+    {
+     "Sequencia": "245",
+     "cardNumber": "PTCGOCE00000000000245",
+     "dec": "1270755378360705",
+     "decInvert": "3643553382337818"
+    },
+    {
+     "Sequencia": "246",
+     "cardNumber": "PTCGOCE00000000000246",
+     "dec": "1254005005906304",
+     "decInvert": "3615405884273152"
+    },
+    {
+     "Sequencia": "247",
+     "cardNumber": "PTCGOCE00000000000247",
+     "dec": "1144753922797957",
+     "decInvert": "3756143372016461"
+    },
+    {
+     "Sequencia": "248",
+     "cardNumber": "PTCGOCE00000000000248",
+     "dec": "1357642566758784",
+     "decInvert": "3615405884708096"
+    },
+    {
+     "Sequencia": "249",
+     "cardNumber": "PTCGOCE00000000000249",
+     "dec": "1324884851192192",
+     "decInvert": "3615405885054669"
+    },
+    {
+     "Sequencia": "250",
+     "cardNumber": "PTCGOCE00000000000250",
+     "dec": "1148408939966853",
+     "decInvert": "3756143372560486"
+    },
+    {
+     "Sequencia": "251",
+     "cardNumber": "PTCGOCE00000000000251",
+     "dec": "1254455977472385",
+     "decInvert": "3643553382632346"
+    },
+    {
+     "Sequencia": "252",
+     "cardNumber": "PTCGOCE00000000000252",
+     "dec": "1260271363191172",
+     "decInvert": "3727995874452941"
+    },
+    {
+     "Sequencia": "253",
+     "cardNumber": "PTCGOCE00000000000253",
+     "dec": "1299673393164677",
+     "decInvert": "3756143371849677"
+    },
+    {
+     "Sequencia": "254",
+     "cardNumber": "PTCGOCE00000000000254",
+     "dec": "1365639795863940",
+     "decInvert": "3727995874173594"
+    },
+    {
+     "Sequencia": "255",
+     "cardNumber": "PTCGOCE00000000000255",
+     "dec": "1163870822232449",
+     "decInvert": "3643553381981440"
+    },
+    {
+     "Sequencia": "256",
+     "cardNumber": "PTCGOCE00000000000256",
+     "dec": "1239874563502464",
+     "decInvert": "3615405884521856"
+    },
+    {
+     "Sequencia": "257",
+     "cardNumber": "PTCGOCE00000000000257",
+     "dec": "1138109608391045",
+     "decInvert": "3756143371944218"
+    },
+    {
+     "Sequencia": "258",
+     "cardNumber": "PTCGOCE00000000000258",
+     "dec": "1182270462128513",
+     "decInvert": "3643553381536230"
+    },
+    {
+     "Sequencia": "259",
+     "cardNumber": "PTCGOCE00000000000259",
+     "dec": "1132972827505029",
+     "decInvert": "3756143372494592"
+    },
+    {
+     "Sequencia": "260",
+     "cardNumber": "PTCGOCE00000000000260",
+     "dec": "1395360969552256",
+     "decInvert": "3615405883542451"
+    },
+    {
+     "Sequencia": "261",
+     "cardNumber": "PTCGOCE00000000000261",
+     "dec": "1195507551334789",
+     "decInvert": "3756143372286336"
+    },
+    {
+     "Sequencia": "262",
+     "cardNumber": "PTCGOCE00000000000262",
+     "dec": "1248825275347328",
+     "decInvert": "3615405884757990"
+    },
+    {
+     "Sequencia": "263",
+     "cardNumber": "PTCGOCE00000000000263",
+     "dec": "1242795141263749",
+     "decInvert": "3756143372300544"
+    },
+    {
+     "Sequencia": "264",
+     "cardNumber": "PTCGOCE00000000000264",
+     "dec": "1250496017625477",
+     "decInvert": "3756143372307277"
+    },
+    {
+     "Sequencia": "265",
+     "cardNumber": "PTCGOCE00000000000265",
+     "dec": "1317819629990272",
+     "decInvert": "3615405884340173"
+    },
+    {
+     "Sequencia": "266",
+     "cardNumber": "PTCGOCE00000000000266",
+     "dec": "1205119688143237",
+     "decInvert": "3756143371854029"
+    },
+    {
+     "Sequencia": "267",
+     "cardNumber": "PTCGOCE00000000000267",
+     "dec": "1189567611564416",
+     "decInvert": "3615405884933555"
+    },
+    {
+     "Sequencia": "268",
+     "cardNumber": "PTCGOCE00000000000268",
+     "dec": "1229699785978241",
+     "decInvert": "3643553381766707"
+    },
+    {
+     "Sequencia": "269",
+     "cardNumber": "PTCGOCE00000000000269",
+     "dec": "1177653372285317",
+     "decInvert": "3756143371886157"
+    },
+    {
+     "Sequencia": "270",
+     "cardNumber": "PTCGOCE00000000000270",
+     "dec": "1315358613729664",
+     "decInvert": "3615405883940352"
+    },
+    {
+     "Sequencia": "271",
+     "cardNumber": "PTCGOCE00000000000271",
+     "dec": "1285706159518081",
+     "decInvert": "3643553381663155"
+    },
+    {
+     "Sequencia": "272",
+     "cardNumber": "PTCGOCE00000000000272",
+     "dec": "1256096654979460",
+     "decInvert": "3727995874793626"
+    },
+    {
+     "Sequencia": "273",
+     "cardNumber": "PTCGOCE00000000000273",
+     "dec": "1191182519267712",
+     "decInvert": "3615405884042317"
+    },
+    {
+     "Sequencia": "274",
+     "cardNumber": "PTCGOCE00000000000274",
+     "dec": "1281209328759168",
+     "decInvert": "3615405883841254"
+    },
+    {
+     "Sequencia": "275",
+     "cardNumber": "PTCGOCE00000000000275",
+     "dec": "1190890461491585",
+     "decInvert": "3643553381267738"
+    },
+    {
+     "Sequencia": "276",
+     "cardNumber": "PTCGOCE00000000000276",
+     "dec": "1172319022903684",
+     "decInvert": "3727995874464000"
+    },
+    {
+     "Sequencia": "277",
+     "cardNumber": "PTCGOCE00000000000277",
+     "dec": "1370089381982592",
+     "decInvert": "3615405883568077"
+    },
+    {
+     "Sequencia": "278",
+     "cardNumber": "PTCGOCE00000000000278",
+     "dec": "1305621922869636",
+     "decInvert": "3727995874866867"
+    },
+    {
+     "Sequencia": "279",
+     "cardNumber": "PTCGOCE00000000000279",
+     "dec": "1369883223552384",
+     "decInvert": "3615405884931200"
+    },
+    {
+     "Sequencia": "280",
+     "cardNumber": "PTCGOCE00000000000280",
+     "dec": "1224932372279684",
+     "decInvert": "3727995874216192"
+    },
+    {
+     "Sequencia": "281",
+     "cardNumber": "PTCGOCE00000000000281",
+     "dec": "1292629646799232",
+     "decInvert": "3615405884490317"
+    },
+    {
+     "Sequencia": "282",
+     "cardNumber": "PTCGOCE00000000000282",
+     "dec": "1279723270074753",
+     "decInvert": "3643553382600166"
+    },
+    {
+     "Sequencia": "283",
+     "cardNumber": "PTCGOCE00000000000283",
+     "dec": "1311828150612352",
+     "decInvert": "3615405883586381"
+    },
+    {
+     "Sequencia": "284",
+     "cardNumber": "PTCGOCE00000000000284",
+     "dec": "1390945743171972",
+     "decInvert": "3727995874200397"
+    },
+    {
+     "Sequencia": "285",
+     "cardNumber": "PTCGOCE00000000000285",
+     "dec": "1215934415794560",
+     "decInvert": "3615405884901402"
+    },
+    {
+     "Sequencia": "286",
+     "cardNumber": "PTCGOCE00000000000286",
+     "dec": "1354713399062912",
+     "decInvert": "3615405883593933"
+    },
+    {
+     "Sequencia": "287",
+     "cardNumber": "PTCGOCE00000000000287",
+     "dec": "1303100777066880",
+     "decInvert": "3615405883691034"
+    },
+    {
+     "Sequencia": "288",
+     "cardNumber": "PTCGOCE00000000000288",
+     "dec": "1214422587306368",
+     "decInvert": "3615405884272230"
+    },
+    {
+     "Sequencia": "289",
+     "cardNumber": "PTCGOCE00000000000289",
+     "dec": "1265884885447045",
+     "decInvert": "3756143372301082"
+    },
+    {
+     "Sequencia": "290",
+     "cardNumber": "PTCGOCE00000000000290",
+     "dec": "1359601071845760",
+     "decInvert": "3615405884341146"
+    },
+    {
+     "Sequencia": "291",
+     "cardNumber": "PTCGOCE00000000000291",
+     "dec": "1373181758435712",
+     "decInvert": "3615405884931277"
+    },
+    {
+     "Sequencia": "292",
+     "cardNumber": "PTCGOCE00000000000292",
+     "dec": "1193287053242753",
+     "decInvert": "3643553381569254"
+    },
+    {
+     "Sequencia": "293",
+     "cardNumber": "PTCGOCE00000000000293",
+     "dec": "1279749039878528",
+     "decInvert": "3615405884968422"
+    },
+    {
+     "Sequencia": "294",
+     "cardNumber": "PTCGOCE00000000000294",
+     "dec": "1345221521338756",
+     "decInvert": "3727995874894003"
+    },
+    {
+     "Sequencia": "295",
+     "cardNumber": "PTCGOCE00000000000295",
+     "dec": "1155298067509632",
+     "decInvert": "3615405884650957"
+    },
+    {
+     "Sequencia": "296",
+     "cardNumber": "PTCGOCE00000000000296",
+     "dec": "1232465744916864",
+     "decInvert": "3615405884960768"
+    },
+    {
+     "Sequencia": "297",
+     "cardNumber": "PTCGOCE00000000000297",
+     "dec": "1401678866444672",
+     "decInvert": "3615405884794317"
+    },
+    {
+     "Sequencia": "298",
+     "cardNumber": "PTCGOCE00000000000298",
+     "dec": "1141725970854273",
+     "decInvert": "3643553381744998"
+    },
+    {
+     "Sequencia": "299",
+     "cardNumber": "PTCGOCE00000000000299",
+     "dec": "1238066382270852",
+     "decInvert": "3727995874124749"
+    },
+    {
+     "Sequencia": "300",
+     "cardNumber": "PTCGOCE00000000000300",
+     "dec": "1170867323957632",
+     "decInvert": "3615405884920013"
+    },
+    {
+     "Sequencia": "301",
+     "cardNumber": "PTCGOCE00000000000301",
+     "dec": "1248215389991296",
+     "decInvert": "3615405883827379"
+    },
+    {
+     "Sequencia": "302",
+     "cardNumber": "PTCGOCE00000000000302",
+     "dec": "1352703354368384",
+     "decInvert": "3615405883882240"
+    },
+    {
+     "Sequencia": "303",
+     "cardNumber": "PTCGOCE00000000000303",
+     "dec": "1403036076110212",
+     "decInvert": "3727995874194125"
+    },
+    {
+     "Sequencia": "304",
+     "cardNumber": "PTCGOCE00000000000304",
+     "dec": "1246325604381056",
+     "decInvert": "3615405884299187"
+    },
+    {
+     "Sequencia": "305",
+     "cardNumber": "PTCGOCE00000000000305",
+     "dec": "1275320928596353",
+     "decInvert": "3643553382593510"
+    },
+    {
+     "Sequencia": "306",
+     "cardNumber": "PTCGOCE00000000000306",
+     "dec": "1146085362659717",
+     "decInvert": "3756143372370381"
+    },
+    {
+     "Sequencia": "307",
+     "cardNumber": "PTCGOCE00000000000307",
+     "dec": "1367117264613764",
+     "decInvert": "3727995874750336"
+    },
+    {
+     "Sequencia": "308",
+     "cardNumber": "PTCGOCE00000000000308",
+     "dec": "1291027623997829",
+     "decInvert": "3756143372078848"
+    },
+    {
+     "Sequencia": "309",
+     "cardNumber": "PTCGOCE00000000000309",
+     "dec": "1220268037796224",
+     "decInvert": "3615405884803200"
+    },
+    {
+     "Sequencia": "310",
+     "cardNumber": "PTCGOCE00000000000310",
+     "dec": "1323471806951808",
+     "decInvert": "3615405884576230"
+    },
+    {
+     "Sequencia": "311",
+     "cardNumber": "PTCGOCE00000000000311",
+     "dec": "1145789009916289",
+     "decInvert": "3643553381233920"
+    },
+    {
+     "Sequencia": "312",
+     "cardNumber": "PTCGOCE00000000000312",
+     "dec": "1235193049149825",
+     "decInvert": "3643553381760282"
+    },
+    {
+     "Sequencia": "313",
+     "cardNumber": "PTCGOCE00000000000313",
+     "dec": "1228071993373056",
+     "decInvert": "3615405884967219"
+    },
+    {
+     "Sequencia": "314",
+     "cardNumber": "PTCGOCE00000000000314",
+     "dec": "1174822988837253",
+     "decInvert": "3756143372600422"
+    },
+    {
+     "Sequencia": "315",
+     "cardNumber": "PTCGOCE00000000000315",
+     "dec": "1308662759715204",
+     "decInvert": "3727995874473728"
+    },
+    {
+     "Sequencia": "316",
+     "cardNumber": "PTCGOCE00000000000316",
+     "dec": "1375569760252288",
+     "decInvert": "3615405883541990"
+    },
+    {
+     "Sequencia": "317",
+     "cardNumber": "PTCGOCE00000000000317",
+     "dec": "1407313863537024",
+     "decInvert": "3615405885004160"
+    },
+    {
+     "Sequencia": "318",
+     "cardNumber": "PTCGOCE00000000000318",
+     "dec": "1374203960652160",
+     "decInvert": "3615405884813338"
+    },
+    {
+     "Sequencia": "319",
+     "cardNumber": "PTCGOCE00000000000319",
+     "dec": "1361838749806980",
+     "decInvert": "3727995875084442"
+    },
+    {
+     "Sequencia": "320",
+     "cardNumber": "PTCGOCE00000000000320",
+     "dec": "1392427506889088",
+     "decInvert": "3615405884099430"
+    },
+    {
+     "Sequencia": "321",
+     "cardNumber": "PTCGOCE00000000000321",
+     "dec": "1188558294249857",
+     "decInvert": "3643553382742221"
+    },
+    {
+     "Sequencia": "322",
+     "cardNumber": "PTCGOCE00000000000322",
+     "dec": "1267757491188100",
+     "decInvert": "3727995874131994"
+    },
+    {
+     "Sequencia": "323",
+     "cardNumber": "PTCGOCE00000000000323",
+     "dec": "1209766842757508",
+     "decInvert": "3727995874563174"
+    },
+    {
+     "Sequencia": "324",
+     "cardNumber": "PTCGOCE00000000000324",
+     "dec": "1401988104089988",
+     "decInvert": "3727995874272742"
+    },
+    {
+     "Sequencia": "325",
+     "cardNumber": "PTCGOCE00000000000325",
+     "dec": "1146347355664773",
+     "decInvert": "3756143372770150"
+    },
+    {
+     "Sequencia": "326",
+     "cardNumber": "PTCGOCE00000000000326",
+     "dec": "1150904315965824",
+     "decInvert": "3615405884657408"
+    },
+    {
+     "Sequencia": "327",
+     "cardNumber": "PTCGOCE00000000000327",
+     "dec": "1236176596660609",
+     "decInvert": "3643553381583360"
+    },
+    {
+     "Sequencia": "328",
+     "cardNumber": "PTCGOCE00000000000328",
+     "dec": "1368779416957312",
+     "decInvert": "3615405884924621"
+    },
+    {
+     "Sequencia": "329",
+     "cardNumber": "PTCGOCE00000000000329",
+     "dec": "1244014911975813",
+     "decInvert": "3756143372484070"
+    },
+    {
+     "Sequencia": "330",
+     "cardNumber": "PTCGOCE00000000000330",
+     "dec": "1302065689948544",
+     "decInvert": "3615405883789312"
+    },
+    {
+     "Sequencia": "331",
+     "cardNumber": "PTCGOCE00000000000331",
+     "dec": "1247652749275520",
+     "decInvert": "3615405884646554"
+    },
+    {
+     "Sequencia": "332",
+     "cardNumber": "PTCGOCE00000000000332",
+     "dec": "1143310813786497",
+     "decInvert": "3643553382485581"
+    },
+    {
+     "Sequencia": "333",
+     "cardNumber": "PTCGOCE00000000000333",
+     "dec": "1235012660523396",
+     "decInvert": "3727995874498227"
+    },
+    {
+     "Sequencia": "334",
+     "cardNumber": "PTCGOCE00000000000334",
+     "dec": "1368401459835268",
+     "decInvert": "3727995875032166"
+    },
+    {
+     "Sequencia": "335",
+     "cardNumber": "PTCGOCE00000000000335",
+     "dec": "1217639517811073",
+     "decInvert": "3643553381818854"
+    },
+    {
+     "Sequencia": "336",
+     "cardNumber": "PTCGOCE00000000000336",
+     "dec": "1258119584575873",
+     "decInvert": "3643553381511782"
+    },
+    {
+     "Sequencia": "337",
+     "cardNumber": "PTCGOCE00000000000337",
+     "dec": "1370291245445504",
+     "decInvert": "3615405883876096"
+    },
+    {
+     "Sequencia": "338",
+     "cardNumber": "PTCGOCE00000000000338",
+     "dec": "1279040370274692",
+     "decInvert": "3727995874571341"
+    },
+    {
+     "Sequencia": "339",
+     "cardNumber": "PTCGOCE00000000000339",
+     "dec": "1266400281522560",
+     "decInvert": "3615405884732186"
+    },
+    {
+     "Sequencia": "340",
+     "cardNumber": "PTCGOCE00000000000340",
+     "dec": "1314211857461632",
+     "decInvert": "3615405883868237"
+    },
+    {
+     "Sequencia": "341",
+     "cardNumber": "PTCGOCE00000000000341",
+     "dec": "1370600483090820",
+     "decInvert": "3727995875032218"
+    },
+    {
+     "Sequencia": "342",
+     "cardNumber": "PTCGOCE00000000000342",
+     "dec": "1314306346742144",
+     "decInvert": "3615405884012416"
+    },
+    {
+     "Sequencia": "343",
+     "cardNumber": "PTCGOCE00000000000343",
+     "dec": "1240304060232068",
+     "decInvert": "3727995874183782"
+    },
+    {
+     "Sequencia": "344",
+     "cardNumber": "PTCGOCE00000000000344",
+     "dec": "1199441741377920",
+     "decInvert": "3615405884901018"
+    },
+    {
+     "Sequencia": "345",
+     "cardNumber": "PTCGOCE00000000000345",
+     "dec": "1382433117991300",
+     "decInvert": "3727995874632730"
+    },
+    {
+     "Sequencia": "346",
+     "cardNumber": "PTCGOCE00000000000346",
+     "dec": "1146046707954049",
+     "decInvert": "3643553381627136"
+    },
+    {
+     "Sequencia": "347",
+     "cardNumber": "PTCGOCE00000000000347",
+     "dec": "1201005109473664",
+     "decInvert": "3615405883931136"
+    },
+    {
+     "Sequencia": "348",
+     "cardNumber": "PTCGOCE00000000000348",
+     "dec": "1369144489177476",
+     "decInvert": "3727995874488243"
+    },
+    {
+     "Sequencia": "349",
+     "cardNumber": "PTCGOCE00000000000349",
+     "dec": "1165928111567233",
+     "decInvert": "3643553381765222"
+    },
+    {
+     "Sequencia": "350",
+     "cardNumber": "PTCGOCE00000000000350",
+     "dec": "1191955613380996",
+     "decInvert": "3727995874228531"
+    },
+    {
+     "Sequencia": "351",
+     "cardNumber": "PTCGOCE00000000000351",
+     "dec": "1329532005806464",
+     "decInvert": "3615405883757184"
+    },
+    {
+     "Sequencia": "352",
+     "cardNumber": "PTCGOCE00000000000352",
+     "dec": "1157595875012993",
+     "decInvert": "3643553382472806"
+    },
+    {
+     "Sequencia": "353",
+     "cardNumber": "PTCGOCE00000000000353",
+     "dec": "1186870372102528",
+     "decInvert": "3615405884173286"
+    },
+    {
+     "Sequencia": "354",
+     "cardNumber": "PTCGOCE00000000000354",
+     "dec": "1329424631624064",
+     "decInvert": "3615405883593344"
+    },
+    {
+     "Sequencia": "355",
+     "cardNumber": "PTCGOCE00000000000355",
+     "dec": "1237224568680833",
+     "decInvert": "3643553381504742"
+    },
+    {
+     "Sequencia": "356",
+     "cardNumber": "PTCGOCE00000000000356",
+     "dec": "1146824097034628",
+     "decInvert": "3727995874148838"
+    },
+    {
+     "Sequencia": "357",
+     "cardNumber": "PTCGOCE00000000000357",
+     "dec": "1209981591122305",
+     "decInvert": "3643553381877658"
+    },
+    {
+     "Sequencia": "358",
+     "cardNumber": "PTCGOCE00000000000358",
+     "dec": "1285401216840069",
+     "decInvert": "3756143371882112"
+    },
+    {
+     "Sequencia": "359",
+     "cardNumber": "PTCGOCE00000000000359",
+     "dec": "1222067629093248",
+     "decInvert": "3615405884193766"
+    },
+    {
+     "Sequencia": "360",
+     "cardNumber": "PTCGOCE00000000000360",
+     "dec": "1141455387914629",
+     "decInvert": "3756143372016384"
+    },
+    {
+     "Sequencia": "361",
+     "cardNumber": "PTCGOCE00000000000361",
+     "dec": "1290623897072001",
+     "decInvert": "3643553382456243"
+    },
+    {
+     "Sequencia": "362",
+     "cardNumber": "PTCGOCE00000000000362",
+     "dec": "1222634564776321",
+     "decInvert": "3643553382729907"
+    },
+    {
+     "Sequencia": "363",
+     "cardNumber": "PTCGOCE00000000000363",
+     "dec": "1395816236085636",
+     "decInvert": "3727995874921395"
+    },
+    {
+     "Sequencia": "364",
+     "cardNumber": "PTCGOCE00000000000364",
+     "dec": "1230176527348096",
+     "decInvert": "3615405884823091"
+    },
+    {
+     "Sequencia": "365",
+     "cardNumber": "PTCGOCE00000000000365",
+     "dec": "1284301705212293",
+     "decInvert": "3756143371882086"
+    },
+    {
+     "Sequencia": "366",
+     "cardNumber": "PTCGOCE00000000000366",
+     "dec": "1272022393713025",
+     "decInvert": "3643553382593434"
+    },
+    {
+     "Sequencia": "367",
+     "cardNumber": "PTCGOCE00000000000367",
+     "dec": "1331052424229252",
+     "decInvert": "3727995875083725"
+    },
+    {
+     "Sequencia": "368",
+     "cardNumber": "PTCGOCE00000000000368",
+     "dec": "1184594039435649",
+     "decInvert": "3643553381726336"
+    },
+    {
+     "Sequencia": "369",
+     "cardNumber": "PTCGOCE00000000000369",
+     "dec": "1269857730195841",
+     "decInvert": "3643553382645811"
+    },
+    {
+     "Sequencia": "370",
+     "cardNumber": "PTCGOCE00000000000370",
+     "dec": "1322131777155460",
+     "decInvert": "3727995874893466"
+    },
+    {
+     "Sequencia": "371",
+     "cardNumber": "PTCGOCE00000000000371",
+     "dec": "1283081934500224",
+     "decInvert": "3615405885020928"
+    },
+    {
+     "Sequencia": "372",
+     "cardNumber": "PTCGOCE00000000000372",
+     "dec": "1270184147710340",
+     "decInvert": "3727995874479386"
+    },
+    {
+     "Sequencia": "373",
+     "cardNumber": "PTCGOCE00000000000373",
+     "dec": "1161285251920260",
+     "decInvert": "3727995874404762"
+    },
+    {
+     "Sequencia": "374",
+     "cardNumber": "PTCGOCE00000000000374",
+     "dec": "1287441326305664",
+     "decInvert": "3615405884962048"
+    },
+    {
+     "Sequencia": "375",
+     "cardNumber": "PTCGOCE00000000000375",
+     "dec": "1302216013803904",
+     "decInvert": "3615405884018688"
+    },
+    {
+     "Sequencia": "376",
+     "cardNumber": "PTCGOCE00000000000376",
+     "dec": "1356336896700804",
+     "decInvert": "3727995875077760"
+    },
+    {
+     "Sequencia": "377",
+     "cardNumber": "PTCGOCE00000000000377",
+     "dec": "1217828496372097",
+     "decInvert": "3643553382107213"
+    },
+    {
+     "Sequencia": "378",
+     "cardNumber": "PTCGOCE00000000000378",
+     "dec": "1319224084296064",
+     "decInvert": "3615405884805504"
+    },
+    {
+     "Sequencia": "379",
+     "cardNumber": "PTCGOCE00000000000379",
+     "dec": "1247081518625157",
+     "decInvert": "3756143372130253"
+    },
+    {
+     "Sequencia": "380",
+     "cardNumber": "PTCGOCE00000000000380",
+     "dec": "1251561169514881",
+     "decInvert": "3643553381570611"
+    },
+    {
+     "Sequencia": "381",
+     "cardNumber": "PTCGOCE00000000000381",
+     "dec": "1339565049409920",
+     "decInvert": "3615405883967130"
+    },
+    {
+     "Sequencia": "382",
+     "cardNumber": "PTCGOCE00000000000382",
+     "dec": "1143989678534789",
+     "decInvert": "3755977613633536"
+    },
+    {
+     "Sequencia": "383",
+     "cardNumber": "PTCGOCE00000000000383",
+     "dec": "1242382824403328",
+     "decInvert": "3615405884993766"
+    },
+    {
+     "Sequencia": "384",
+     "cardNumber": "PTCGOCE00000000000384",
+     "dec": "1310230422778241",
+     "decInvert": "3643553382174899"
+    },
+    {
+     "Sequencia": "385",
+     "cardNumber": "PTCGOCE00000000000385",
+     "dec": "1307735046779264",
+     "decInvert": "3615405884051584"
+    },
+    {
+     "Sequencia": "386",
+     "cardNumber": "PTCGOCE00000000000386",
+     "dec": "1330803316126080",
+     "decInvert": "3615405884019354"
+    },
+    {
+     "Sequencia": "387",
+     "cardNumber": "PTCGOCE00000000000387",
+     "dec": "1328557048230276",
+     "decInvert": "3727995874631475"
+    },
+    {
+     "Sequencia": "388",
+     "cardNumber": "PTCGOCE00000000000388",
+     "dec": "1285328202396033",
+     "decInvert": "3643553382764134"
+    },
+    {
+     "Sequencia": "389",
+     "cardNumber": "PTCGOCE00000000000389",
+     "dec": "1191569066324352",
+     "decInvert": "3615405884632141"
+    },
+    {
+     "Sequencia": "390",
+     "cardNumber": "PTCGOCE00000000000390",
+     "dec": "1394506271060352",
+     "decInvert": "3615405883915981"
+    },
+    {
+     "Sequencia": "391",
+     "cardNumber": "PTCGOCE00000000000391",
+     "dec": "1147343788077445",
+     "decInvert": "3756143372612890"
+    },
+    {
+     "Sequencia": "392",
+     "cardNumber": "PTCGOCE00000000000392",
+     "dec": "1200811835945348",
+     "decInvert": "3727995874320486"
+    },
+    {
+     "Sequencia": "393",
+     "cardNumber": "PTCGOCE00000000000393",
+     "dec": "1258291383267716",
+     "decInvert": "3727995874787123"
+    },
+    {
+     "Sequencia": "394",
+     "cardNumber": "PTCGOCE00000000000394",
+     "dec": "1169196581679493",
+     "decInvert": "3756143372403686"
+    },
+    {
+     "Sequencia": "395",
+     "cardNumber": "PTCGOCE00000000000395",
+     "dec": "1197886963216769",
+     "decInvert": "3643553381877376"
+    },
+    {
+     "Sequencia": "396",
+     "cardNumber": "PTCGOCE00000000000396",
+     "dec": "1378949899514240",
+     "decInvert": "3615405883666586"
+    },
+    {
+     "Sequencia": "397",
+     "cardNumber": "PTCGOCE00000000000397",
+     "dec": "1195451716759937",
+     "decInvert": "3643553381516877"
+    },
+    {
+     "Sequencia": "398",
+     "cardNumber": "PTCGOCE00000000000398",
+     "dec": "1193849693958528",
+     "decInvert": "3615405884756710"
+    },
+    {
+     "Sequencia": "399",
+     "cardNumber": "PTCGOCE00000000000399",
+     "dec": "1264858388263297",
+     "decInvert": "3643553381728205"
+    },
+    {
+     "Sequencia": "400",
+     "cardNumber": "PTCGOCE00000000000400",
+     "dec": "1238448634360193",
+     "decInvert": "3643553381694822"
+    },
+    {
+     "Sequencia": "401",
+     "cardNumber": "PTCGOCE00000000000401",
+     "dec": "1226362596389253",
+     "decInvert": "3756143372391910"
+    },
+    {
+     "Sequencia": "402",
+     "cardNumber": "PTCGOCE00000000000402",
+     "dec": "1134866908082561",
+     "decInvert": "3643553381345075"
+    },
+    {
+     "Sequencia": "403",
+     "cardNumber": "PTCGOCE00000000000403",
+     "dec": "1377210437759364",
+     "decInvert": "3727995875052032"
+    },
+    {
+     "Sequencia": "404",
+     "cardNumber": "PTCGOCE00000000000404",
+     "dec": "1404384695841156",
+     "decInvert": "3727995874574259"
+    },
+    {
+     "Sequencia": "405",
+     "cardNumber": "PTCGOCE00000000000405",
+     "dec": "1395167696023936",
+     "decInvert": "3615405884925235"
+    },
+    {
+     "Sequencia": "406",
+     "cardNumber": "PTCGOCE00000000000406",
+     "dec": "1372636297589120",
+     "decInvert": "3615405884098970"
+    },
+    {
+     "Sequencia": "407",
+     "cardNumber": "PTCGOCE00000000000407",
+     "dec": "1190705777897856",
+     "decInvert": "3615405884992563"
+    },
+    {
+     "Sequencia": "408",
+     "cardNumber": "PTCGOCE00000000000408",
+     "dec": "1260009370186113",
+     "decInvert": "3643553382717670"
+    },
+    {
+     "Sequencia": "409",
+     "cardNumber": "PTCGOCE00000000000409",
+     "dec": "1161207942508929",
+     "decInvert": "3643553381273600"
+    },
+    {
+     "Sequencia": "410",
+     "cardNumber": "PTCGOCE00000000000410",
+     "dec": "1329321552408965",
+     "decInvert": "3756143371791386"
+    },
+    {
+     "Sequencia": "411",
+     "cardNumber": "PTCGOCE00000000000411",
+     "dec": "1404315976364416",
+     "decInvert": "3615405883785139"
+    },
+    {
+     "Sequencia": "412",
+     "cardNumber": "PTCGOCE00000000000412",
+     "dec": "1291285322035584",
+     "decInvert": "3615405884116736"
+    },
+    {
+     "Sequencia": "413",
+     "cardNumber": "PTCGOCE00000000000413",
+     "dec": "1308525320761733",
+     "decInvert": "3756143371935078"
+    },
+    {
+     "Sequencia": "414",
+     "cardNumber": "PTCGOCE00000000000414",
+     "dec": "1184611219304837",
+     "decInvert": "3756143372436813"
+    },
+    {
+     "Sequencia": "415",
+     "cardNumber": "PTCGOCE00000000000415",
+     "dec": "1231769960214916",
+     "decInvert": "3727995874583347"
+    },
+    {
+     "Sequencia": "416",
+     "cardNumber": "PTCGOCE00000000000416",
+     "dec": "1175394219487620",
+     "decInvert": "3727995874123290"
+    },
+    {
+     "Sequencia": "417",
+     "cardNumber": "PTCGOCE00000000000417",
+     "dec": "1395425394061700",
+     "decInvert": "3727995874325018"
+    },
+    {
+     "Sequencia": "418",
+     "cardNumber": "PTCGOCE00000000000418",
+     "dec": "1225129940775300",
+     "decInvert": "3727995874517658"
+    },
+    {
+     "Sequencia": "419",
+     "cardNumber": "PTCGOCE00000000000419",
+     "dec": "1356014774153600",
+     "decInvert": "3615405883901978"
+    },
+    {
+     "Sequencia": "420",
+     "cardNumber": "PTCGOCE00000000000420",
+     "dec": "1302426467201408",
+     "decInvert": "3615405884339814"
+    },
+    {
+     "Sequencia": "421",
+     "cardNumber": "PTCGOCE00000000000421",
+     "dec": "1263634322583937",
+     "decInvert": "3643553381538125"
+    },
+    {
+     "Sequencia": "422",
+     "cardNumber": "PTCGOCE00000000000422",
+     "dec": "1232040543154560",
+     "decInvert": "3615405884311962"
+    },
+    {
+     "Sequencia": "423",
+     "cardNumber": "PTCGOCE00000000000423",
+     "dec": "1265476863553921",
+     "decInvert": "3643553382671923"
+    },
+    {
+     "Sequencia": "424",
+     "cardNumber": "PTCGOCE00000000000424",
+     "dec": "1196508278714753",
+     "decInvert": "3643553381451366"
+    },
+    {
+     "Sequencia": "425",
+     "cardNumber": "PTCGOCE00000000000425",
+     "dec": "1246308424511872",
+     "decInvert": "3615405884272973"
+    },
+    {
+     "Sequencia": "426",
+     "cardNumber": "PTCGOCE00000000000426",
+     "dec": "1189580496466305",
+     "decInvert": "3643553382624282"
+    },
+    {
+     "Sequencia": "427",
+     "cardNumber": "PTCGOCE00000000000427",
+     "dec": "1332594317488513",
+     "decInvert": "3643553382745574"
+    },
+    {
+     "Sequencia": "428",
+     "cardNumber": "PTCGOCE00000000000428",
+     "dec": "1387496884433280",
+     "decInvert": "3615405884964378"
+    },
+    {
+     "Sequencia": "429",
+     "cardNumber": "PTCGOCE00000000000429",
+     "dec": "1356087788597636",
+     "decInvert": "3727995874697651"
+    },
+    {
+     "Sequencia": "430",
+     "cardNumber": "PTCGOCE00000000000430",
+     "dec": "1174268938056065",
+     "decInvert": "3643553382748442"
+    },
+    {
+     "Sequencia": "431",
+     "cardNumber": "PTCGOCE00000000000431",
+     "dec": "1201228447773056",
+     "decInvert": "3615405884271923"
+    },
+    {
+     "Sequencia": "432",
+     "cardNumber": "PTCGOCE00000000000432",
+     "dec": "1221818520990085",
+     "decInvert": "3756143372168986"
+    },
+    {
+     "Sequencia": "433",
+     "cardNumber": "PTCGOCE00000000000433",
+     "dec": "1314770203210113",
+     "decInvert": "3643553382391270"
+    },
+    {
+     "Sequencia": "434",
+     "cardNumber": "PTCGOCE00000000000434",
+     "dec": "1239118649258369",
+     "decInvert": "3643553382717184"
+    },
+    {
+     "Sequencia": "435",
+     "cardNumber": "PTCGOCE00000000000435",
+     "dec": "1137860500287873",
+     "decInvert": "3643553382557542"
+    },
+    {
+     "Sequencia": "436",
+     "cardNumber": "PTCGOCE00000000000436",
+     "dec": "1166873004372353",
+     "decInvert": "3643553381529318"
+    },
+    {
+     "Sequencia": "437",
+     "cardNumber": "PTCGOCE00000000000437",
+     "dec": "1192900506186112",
+     "decInvert": "3615405884986061"
+    },
+    {
+     "Sequencia": "438",
+     "cardNumber": "PTCGOCE00000000000438",
+     "dec": "1401215009976704",
+     "decInvert": "3615405884086528"
+    },
+    {
+     "Sequencia": "439",
+     "cardNumber": "PTCGOCE00000000000439",
+     "dec": "1351539418231168",
+     "decInvert": "3615405883783910"
+    },
+    {
+     "Sequencia": "440",
+     "cardNumber": "PTCGOCE00000000000440",
+     "dec": "1161620259369344",
+     "decInvert": "3615405884231680"
+    },
+    {
+     "Sequencia": "441",
+     "cardNumber": "PTCGOCE00000000000441",
+     "dec": "1311231150158209",
+     "decInvert": "3643553382024192"
+    },
+    {
+     "Sequencia": "442",
+     "cardNumber": "PTCGOCE00000000000442",
+     "dec": "1329777078857860",
+     "decInvert": "3727830115920922"
+    },
+    {
+     "Sequencia": "443",
+     "cardNumber": "PTCGOCE00000000000443",
+     "dec": "1134634979848577",
+     "decInvert": "3643553382668877"
+    },
+    {
+     "Sequencia": "444",
+     "cardNumber": "PTCGOCE00000000000444",
+     "dec": "1287505750815105",
+     "decInvert": "3643553382731418"
+    },
+    {
+     "Sequencia": "445",
+     "cardNumber": "PTCGOCE00000000000445",
+     "dec": "1270832687772033",
+     "decInvert": "3643553382455782"
+    },
+    {
+     "Sequencia": "446",
+     "cardNumber": "PTCGOCE00000000000446",
+     "dec": "1326628607914372",
+     "decInvert": "3727995875044301"
+    },
+    {
+     "Sequencia": "447",
+     "cardNumber": "PTCGOCE00000000000447",
+     "dec": "1297354110824832",
+     "decInvert": "3615405884988493"
+    },
+    {
+     "Sequencia": "448",
+     "cardNumber": "PTCGOCE00000000000448",
+     "dec": "1141592826868097",
+     "decInvert": "3643553381541837"
+    },
+    {
+     "Sequencia": "449",
+     "cardNumber": "PTCGOCE00000000000449",
+     "dec": "1285813533700481",
+     "decInvert": "3643553381826995"
+    },
+    {
+     "Sequencia": "450",
+     "cardNumber": "PTCGOCE00000000000450",
+     "dec": "1136778168529281",
+     "decInvert": "3643553382583731"
+    },
+    {
+     "Sequencia": "451",
+     "cardNumber": "PTCGOCE00000000000451",
+     "dec": "1261740242006400",
+     "decInvert": "3615405884332314"
+    },
+    {
+     "Sequencia": "452",
+     "cardNumber": "PTCGOCE00000000000452",
+     "dec": "1271756105740672",
+     "decInvert": "3615405884516045"
+    },
+    {
+     "Sequencia": "453",
+     "cardNumber": "PTCGOCE00000000000453",
+     "dec": "1225868675150208",
+     "decInvert": "3615405884960614"
+    },
+    {
+     "Sequencia": "454",
+     "cardNumber": "PTCGOCE00000000000454",
+     "dec": "1393587148059008",
+     "decInvert": "3615405884191206"
+    },
+    {
+     "Sequencia": "455",
+     "cardNumber": "PTCGOCE00000000000455",
+     "dec": "1251479565136261",
+     "decInvert": "3756143372130355"
+    },
+    {
+     "Sequencia": "456",
+     "cardNumber": "PTCGOCE00000000000456",
+     "dec": "1403121975456128",
+     "decInvert": "3615405883640934"
+    },
+    {
+     "Sequencia": "457",
+     "cardNumber": "PTCGOCE00000000000457",
+     "dec": "1214186364105093",
+     "decInvert": "3756143372267110"
+    },
+    {
+     "Sequencia": "458",
+     "cardNumber": "PTCGOCE00000000000458",
+     "dec": "1386500452020612",
+     "decInvert": "3727995874128205"
+    },
+    {
+     "Sequencia": "459",
+     "cardNumber": "PTCGOCE00000000000459",
+     "dec": "1142980101304705",
+     "decInvert": "3643553381980954"
+    },
+    {
+     "Sequencia": "460",
+     "cardNumber": "PTCGOCE00000000000460",
+     "dec": "1237336237830533",
+     "decInvert": "3756143372359398"
+    },
+    {
+     "Sequencia": "461",
+     "cardNumber": "PTCGOCE00000000000461",
+     "dec": "1288308909699456",
+     "decInvert": "3615405884608179"
+    },
+    {
+     "Sequencia": "462",
+     "cardNumber": "PTCGOCE00000000000462",
+     "dec": "1196194746102144",
+     "decInvert": "3615405884979584"
+    },
+    {
+     "Sequencia": "463",
+     "cardNumber": "PTCGOCE00000000000463",
+     "dec": "1282137041695109",
+     "decInvert": "3756143371934464"
+    },
+    {
+     "Sequencia": "464",
+     "cardNumber": "PTCGOCE00000000000464",
+     "dec": "1224335371825536",
+     "decInvert": "3615405884298675"
+    },
+    {
+     "Sequencia": "465",
+     "cardNumber": "PTCGOCE00000000000465",
+     "dec": "1171528748921221",
+     "decInvert": "3756143372606899"
+    },
+    {
+     "Sequencia": "466",
+     "cardNumber": "PTCGOCE00000000000466",
+     "dec": "1231696945770885",
+     "decInvert": "3756143372143002"
+    },
+    {
+     "Sequencia": "467",
+     "cardNumber": "PTCGOCE00000000000467",
+     "dec": "1286109886443904",
+     "decInvert": "3615405884608128"
+    },
+    {
+     "Sequencia": "468",
+     "cardNumber": "PTCGOCE00000000000468",
+     "dec": "1321710870360452",
+     "decInvert": "3727995874251213"
+    },
+    {
+     "Sequencia": "469",
+     "cardNumber": "PTCGOCE00000000000469",
+     "dec": "1330429653971332",
+     "decInvert": "3727995874133453"
+    },
+    {
+     "Sequencia": "470",
+     "cardNumber": "PTCGOCE00000000000470",
+     "dec": "1347162846556548",
+     "decInvert": "3727995874500838"
+    },
+    {
+     "Sequencia": "471",
+     "cardNumber": "PTCGOCE00000000000471",
+     "dec": "1357449293230468",
+     "decInvert": "3727995875097446"
+    },
+    {
+     "Sequencia": "472",
+     "cardNumber": "PTCGOCE00000000000472",
+     "dec": "1319864034423168",
+     "decInvert": "3615405884104294"
+    },
+    {
+     "Sequencia": "473",
+     "cardNumber": "PTCGOCE00000000000473",
+     "dec": "1381234822115712",
+     "decInvert": "3615405883797709"
+    },
+    {
+     "Sequencia": "474",
+     "cardNumber": "PTCGOCE00000000000474",
+     "dec": "1160172855390597",
+     "decInvert": "3756143372056141"
+    },
+    {
+     "Sequencia": "475",
+     "cardNumber": "PTCGOCE00000000000475",
+     "dec": "1330068876718464",
+     "decInvert": "3615405884576384"
+    },
+    {
+     "Sequencia": "476",
+     "cardNumber": "PTCGOCE00000000000476",
+     "dec": "1352742009074048",
+     "decInvert": "3615405883941222"
+    },
+    {
+     "Sequencia": "477",
+     "cardNumber": "PTCGOCE00000000000477",
+     "dec": "1170012625465733",
+     "decInvert": "3756143371971174"
+    },
+    {
+     "Sequencia": "478",
+     "cardNumber": "PTCGOCE00000000000478",
+     "dec": "1187686415888769",
+     "decInvert": "3643553381411840"
+    },
+    {
+     "Sequencia": "479",
+     "cardNumber": "PTCGOCE00000000000479",
+     "dec": "1250938399256961",
+     "decInvert": "3643553382298035"
+    },
+    {
+     "Sequencia": "480",
+     "cardNumber": "PTCGOCE00000000000480",
+     "dec": "1170536611475840",
+     "decInvert": "3615405884415386"
+    },
+    {
+     "Sequencia": "481",
+     "cardNumber": "PTCGOCE00000000000481",
+     "dec": "1259700132540800",
+     "decInvert": "3615405884574746"
+    },
+    {
+     "Sequencia": "482",
+     "cardNumber": "PTCGOCE00000000000482",
+     "dec": "1222849313141124",
+     "decInvert": "3727995874393088"
+    },
+    {
+     "Sequencia": "483",
+     "cardNumber": "PTCGOCE00000000000483",
+     "dec": "1280711112552832",
+     "decInvert": "3615405884758733"
+    },
+    {
+     "Sequencia": "484",
+     "cardNumber": "PTCGOCE00000000000484",
+     "dec": "1367314833109380",
+     "decInvert": "3727995875051802"
+    },
+    {
+     "Sequencia": "485",
+     "cardNumber": "PTCGOCE00000000000485",
+     "dec": "1331481920958848",
+     "decInvert": "3615405885054822"
+    },
+    {
+     "Sequencia": "486",
+     "cardNumber": "PTCGOCE00000000000486",
+     "dec": "1314740138439041",
+     "decInvert": "3643553382345395"
+    },
+    {
+     "Sequencia": "487",
+     "cardNumber": "PTCGOCE00000000000487",
+     "dec": "1228398410887552",
+     "decInvert": "3615405883787597"
+    },
+    {
+     "Sequencia": "488",
+     "cardNumber": "PTCGOCE00000000000488",
+     "dec": "1262152558866817",
+     "decInvert": "3643553382632525"
+    },
+    {
+     "Sequencia": "489",
+     "cardNumber": "PTCGOCE00000000000489",
+     "dec": "1292105660789120",
+     "decInvert": "3615405883690778"
+    },
+    {
+     "Sequencia": "490",
+     "cardNumber": "PTCGOCE00000000000490",
+     "dec": "1167208011821440",
+     "decInvert": "3615405884369434"
+    },
+    {
+     "Sequencia": "491",
+     "cardNumber": "PTCGOCE00000000000491",
+     "dec": "1230159347478913",
+     "decInvert": "3643553382467942"
+    },
+    {
+     "Sequencia": "492",
+     "cardNumber": "PTCGOCE00000000000492",
+     "dec": "1254675020804484",
+     "decInvert": "3727995874302080"
+    },
+    {
+     "Sequencia": "493",
+     "cardNumber": "PTCGOCE00000000000493",
+     "dec": "1219911815426181",
+     "decInvert": "3755977613720499"
+    },
+    {
+     "Sequencia": "494",
+     "cardNumber": "PTCGOCE00000000000494",
+     "dec": "1347824271520128",
+     "decInvert": "3615405884825830"
+    },
+    {
+     "Sequencia": "495",
+     "cardNumber": "PTCGOCE00000000000495",
+     "dec": "1333805498265988",
+     "decInvert": "3727995874251494"
+    },
+    {
+     "Sequencia": "496",
+     "cardNumber": "PTCGOCE00000000000496",
+     "dec": "1309878235459968",
+     "decInvert": "3615405883966438"
+    },
+    {
+     "Sequencia": "497",
+     "cardNumber": "PTCGOCE00000000000497",
+     "dec": "1397353834377600",
+     "decInvert": "3615405884905626"
+    },
+    {
+     "Sequencia": "498",
+     "cardNumber": "PTCGOCE00000000000498",
+     "dec": "1222716169154948",
+     "decInvert": "3727995874189926"
+    },
+    {
+     "Sequencia": "499",
+     "cardNumber": "PTCGOCE00000000000499",
+     "dec": "1303504503992705",
+     "decInvert": "3643553381978138"
+    },
+    {
+     "Sequencia": "500",
+     "cardNumber": "PTCGOCE00000000000500",
+     "dec": "1149186329047429",
+     "decInvert": "3756143372068992"
+    },
+    {
+     "Sequencia": "501",
+     "cardNumber": "PTCGOCE00000000000501",
+     "dec": "1126332808065409",
+     "decInvert": "3643553381744640"
+    },
+    {
+     "Sequencia": "502",
+     "cardNumber": "PTCGOCE00000000000502",
+     "dec": "1384924199022980",
+     "decInvert": "3727995875078426"
+    },
+    {
+     "Sequencia": "503",
+     "cardNumber": "PTCGOCE00000000000503",
+     "dec": "1260073794695556",
+     "decInvert": "3727995874151475"
+    },
+    {
+     "Sequencia": "504",
+     "cardNumber": "PTCGOCE00000000000504",
+     "dec": "1403409738264960",
+     "decInvert": "3615405884080026"
+    },
+    {
+     "Sequencia": "505",
+     "cardNumber": "PTCGOCE00000000000505",
+     "dec": "1210900714123648",
+     "decInvert": "3615405883931366"
+    },
+    {
+     "Sequencia": "506",
+     "cardNumber": "PTCGOCE00000000000506",
+     "dec": "1390730994807168",
+     "decInvert": "3615405884866150"
+    },
+    {
+     "Sequencia": "507",
+     "cardNumber": "PTCGOCE00000000000507",
+     "dec": "1252420162974084",
+     "decInvert": "3727995874216832"
+    },
+    {
+     "Sequencia": "508",
+     "cardNumber": "PTCGOCE00000000000508",
+     "dec": "1205364501279105",
+     "decInvert": "3643553381543322"
+    },
+    {
+     "Sequencia": "509",
+     "cardNumber": "PTCGOCE00000000000509",
+     "dec": "1293394150977920",
+     "decInvert": "3615405883979162"
+    },
+    {
+     "Sequencia": "510",
+     "cardNumber": "PTCGOCE00000000000510",
+     "dec": "1165752017908101",
+     "decInvert": "3756143372180787"
+    },
+    {
+     "Sequencia": "511",
+     "cardNumber": "PTCGOCE00000000000511",
+     "dec": "1269166240461188",
+     "decInvert": "3727995874603878"
+    },
+    {
+     "Sequencia": "512",
+     "cardNumber": "PTCGOCE00000000000512",
+     "dec": "1347918760800640",
+     "decInvert": "3615405884970010"
+    },
+    {
+     "Sequencia": "513",
+     "cardNumber": "PTCGOCE00000000000513",
+     "dec": "1394798328836484",
+     "decInvert": "3727995875045888"
+    },
+    {
+     "Sequencia": "514",
+     "cardNumber": "PTCGOCE00000000000514",
+     "dec": "1202388088942976",
+     "decInvert": "3615405884363699"
+    },
+    {
+     "Sequencia": "515",
+     "cardNumber": "PTCGOCE00000000000515",
+     "dec": "1226573049786753",
+     "decInvert": "3643553382028774"
+    },
+    {
+     "Sequencia": "516",
+     "cardNumber": "PTCGOCE00000000000516",
+     "dec": "1127002822963589",
+     "decInvert": "3756143371773568"
+    },
+    {
+     "Sequencia": "517",
+     "cardNumber": "PTCGOCE00000000000517",
+     "dec": "1225357574041989",
+     "decInvert": "3756143372536064"
+    },
+    {
+     "Sequencia": "518",
+     "cardNumber": "PTCGOCE00000000000518",
+     "dec": "1272464775344516",
+     "decInvert": "3727995874603955"
+    },
+    {
+     "Sequencia": "519",
+     "cardNumber": "PTCGOCE00000000000519",
+     "dec": "1268809758175617",
+     "decInvert": "3643553382724429"
+    },
+    {
+     "Sequencia": "520",
+     "cardNumber": "PTCGOCE00000000000520",
+     "dec": "1224524350386561",
+     "decInvert": "3643553382258099"
+    },
+    {
+     "Sequencia": "521",
+     "cardNumber": "PTCGOCE00000000000521",
+     "dec": "1345779867087232",
+     "decInvert": "3615405885061709"
+    },
+    {
+     "Sequencia": "522",
+     "cardNumber": "PTCGOCE00000000000522",
+     "dec": "1127436614660481",
+     "decInvert": "3643553381751219"
+    },
+    {
+     "Sequencia": "523",
+     "cardNumber": "PTCGOCE00000000000523",
+     "dec": "1226014704038276",
+     "decInvert": "3727995874190003"
+    },
+    {
+     "Sequencia": "524",
+     "cardNumber": "PTCGOCE00000000000524",
+     "dec": "1397280819933568",
+     "decInvert": "3615405884794214"
+    },
+    {
+     "Sequencia": "525",
+     "cardNumber": "PTCGOCE00000000000525",
+     "dec": "1250036456124801",
+     "decInvert": "3643553382599475"
+    },
+    {
+     "Sequencia": "526",
+     "cardNumber": "PTCGOCE00000000000526",
+     "dec": "1374921220190592",
+     "decInvert": "3615405884230093"
+    },
+    {
+     "Sequencia": "527",
+     "cardNumber": "PTCGOCE00000000000527",
+     "dec": "1401232189845888",
+     "decInvert": "3615405884112742"
+    },
+    {
+     "Sequencia": "528",
+     "cardNumber": "PTCGOCE00000000000528",
+     "dec": "1357092810944896",
+     "decInvert": "3615405883869235"
+    },
+    {
+     "Sequencia": "529",
+     "cardNumber": "PTCGOCE00000000000529",
+     "dec": "1278838506811781",
+     "decInvert": "3756143371934387"
+    },
+    {
+     "Sequencia": "530",
+     "cardNumber": "PTCGOCE00000000000530",
+     "dec": "1343172821938564",
+     "decInvert": "3727995875123328"
+    },
+    {
+     "Sequencia": "531",
+     "cardNumber": "PTCGOCE00000000000531",
+     "dec": "1251256226836869",
+     "decInvert": "3756143371789568"
+    },
+    {
+     "Sequencia": "532",
+     "cardNumber": "PTCGOCE00000000000532",
+     "dec": "1228278151803268",
+     "decInvert": "3727995874288358"
+    },
+    {
+     "Sequencia": "533",
+     "cardNumber": "PTCGOCE00000000000533",
+     "dec": "1169351200502149",
+     "decInvert": "3756143372639616"
+    },
+    {
+     "Sequencia": "534",
+     "cardNumber": "PTCGOCE00000000000534",
+     "dec": "1399445483450752",
+     "decInvert": "3615405884741837"
+    },
+    {
+     "Sequencia": "535",
+     "cardNumber": "PTCGOCE00000000000535",
+     "dec": "1302834489094528",
+     "decInvert": "3615405884962406"
+    },
+    {
+     "Sequencia": "536",
+     "cardNumber": "PTCGOCE00000000000536",
+     "dec": "1312515345379712",
+     "decInvert": "3615405884634957"
+    },
+    {
+     "Sequencia": "537",
+     "cardNumber": "PTCGOCE00000000000537",
+     "dec": "1279886478832005",
+     "decInvert": "3756143371855770"
+    },
+    {
+     "Sequencia": "538",
+     "cardNumber": "PTCGOCE00000000000538",
+     "dec": "1277648800870789",
+     "decInvert": "3756143371796736"
+    },
+    {
+     "Sequencia": "539",
+     "cardNumber": "PTCGOCE00000000000539",
+     "dec": "1163832167526789",
+     "decInvert": "3756143372606720"
+    },
+    {
+     "Sequencia": "540",
+     "cardNumber": "PTCGOCE00000000000540",
+     "dec": "1397538517971332",
+     "decInvert": "3727995874193997"
+    },
+    {
+     "Sequencia": "541",
+     "cardNumber": "PTCGOCE00000000000541",
+     "dec": "1368092222189952",
+     "decInvert": "3615405883876045"
+    },
+    {
+     "Sequencia": "542",
+     "cardNumber": "PTCGOCE00000000000542",
+     "dec": "1155401146724737",
+     "decInvert": "3643553382479309"
+    },
+    {
+     "Sequencia": "543",
+     "cardNumber": "PTCGOCE00000000000543",
+     "dec": "1294098525614465",
+     "decInvert": "3643553382725018"
+    },
+    {
+     "Sequencia": "544",
+     "cardNumber": "PTCGOCE00000000000544",
+     "dec": "1182008469123460",
+     "decInvert": "3727995874149658"
+    },
+    {
+     "Sequencia": "545",
+     "cardNumber": "PTCGOCE00000000000545",
+     "dec": "1194309255459205",
+     "decInvert": "3756143372135578"
+    },
+    {
+     "Sequencia": "546",
+     "cardNumber": "PTCGOCE00000000000546",
+     "dec": "1227694036251009",
+     "decInvert": "3643553382061568"
+    },
+    {
+     "Sequencia": "547",
+     "cardNumber": "PTCGOCE00000000000547",
+     "dec": "1165666118562180",
+     "decInvert": "3727995874378650"
+    },
+    {
+     "Sequencia": "548",
+     "cardNumber": "PTCGOCE00000000000548",
+     "dec": "1232779277529476",
+     "decInvert": "3727995874445747"
+    },
+    {
+     "Sequencia": "549",
+     "cardNumber": "PTCGOCE00000000000549",
+     "dec": "1327109644251520",
+     "decInvert": "3615405885094042"
+    },
+    {
+     "Sequencia": "550",
+     "cardNumber": "PTCGOCE00000000000550",
+     "dec": "1169866596577665",
+     "decInvert": "3643553382741786"
+    },
+    {
+     "Sequencia": "551",
+     "cardNumber": "PTCGOCE00000000000551",
+     "dec": "1373843183399300",
+     "decInvert": "3727995874947098"
+    },
+    {
+     "Sequencia": "552",
+     "cardNumber": "PTCGOCE00000000000552",
+     "dec": "1251020003635584",
+     "decInvert": "3615405884751488"
+    },
+    {
+     "Sequencia": "553",
+     "cardNumber": "PTCGOCE00000000000553",
+     "dec": "1206648696500609",
+     "decInvert": "3643553381825152"
+    },
+    {
+     "Sequencia": "554",
+     "cardNumber": "PTCGOCE00000000000554",
+     "dec": "1195129594212737",
+     "decInvert": "3643553382703053"
+    },
+    {
+     "Sequencia": "555",
+     "cardNumber": "PTCGOCE00000000000555",
+     "dec": "1290976084390276",
+     "decInvert": "3727995874329139"
+    },
+    {
+     "Sequencia": "556",
+     "cardNumber": "PTCGOCE00000000000556",
+     "dec": "1376591962468740",
+     "decInvert": "3727995874108314"
+    },
+    {
+     "Sequencia": "557",
+     "cardNumber": "PTCGOCE00000000000557",
+     "dec": "1219413339304324",
+     "decInvert": "3727995874183296"
+    },
+    {
+     "Sequencia": "558",
+     "cardNumber": "PTCGOCE00000000000558",
+     "dec": "1177099321504128",
+     "decInvert": "3615405884363110"
+    },
+    {
+     "Sequencia": "559",
+     "cardNumber": "PTCGOCE00000000000559",
+     "dec": "1211854196863365",
+     "decInvert": "3756143372063898"
+    },
+    {
+     "Sequencia": "560",
+     "cardNumber": "PTCGOCE00000000000560",
+     "dec": "1261572738281857",
+     "decInvert": "3643553381747789"
+    },
+    {
+     "Sequencia": "561",
+     "cardNumber": "PTCGOCE00000000000561",
+     "dec": "1315977089020288",
+     "decInvert": "3615405884884070"
+    },
+    {
+     "Sequencia": "562",
+     "cardNumber": "PTCGOCE00000000000562",
+     "dec": "1148847026631040",
+     "decInvert": "3615405884873626"
+    },
+    {
+     "Sequencia": "563",
+     "cardNumber": "PTCGOCE00000000000563",
+     "dec": "1216501351477633",
+     "decInvert": "3643553381759846"
+    },
+    {
+     "Sequencia": "564",
+     "cardNumber": "PTCGOCE00000000000564",
+     "dec": "1278172786880897",
+     "decInvert": "3643553381912013"
+    },
+    {
+     "Sequencia": "565",
+     "cardNumber": "PTCGOCE00000000000565",
+     "dec": "1407365403144576",
+     "decInvert": "3615405885082803"
+    },
+    {
+     "Sequencia": "566",
+     "cardNumber": "PTCGOCE00000000000566",
+     "dec": "1150165581590917",
+     "decInvert": "3756143371885517"
+    },
+    {
+     "Sequencia": "567",
+     "cardNumber": "PTCGOCE00000000000567",
+     "dec": "1221990319681920",
+     "decInvert": "3615405884075802"
+    },
+    {
+     "Sequencia": "568",
+     "cardNumber": "PTCGOCE00000000000568",
+     "dec": "1400068253708676",
+     "decInvert": "3727995874698675"
+    },
+    {
+     "Sequencia": "569",
+     "cardNumber": "PTCGOCE00000000000569",
+     "dec": "1228776368009600",
+     "decInvert": "3615405884364314"
+    },
+    {
+     "Sequencia": "570",
+     "cardNumber": "PTCGOCE00000000000570",
+     "dec": "1323660785512832",
+     "decInvert": "3615405884864589"
+    },
+    {
+     "Sequencia": "571",
+     "cardNumber": "PTCGOCE00000000000571",
+     "dec": "1347983185310080",
+     "decInvert": "3615405885068314"
+    },
+    {
+     "Sequencia": "572",
+     "cardNumber": "PTCGOCE00000000000572",
+     "dec": "1288850075578752",
+     "decInvert": "3615405883756237"
+    },
+    {
+     "Sequencia": "573",
+     "cardNumber": "PTCGOCE00000000000573",
+     "dec": "1231894514266497",
+     "decInvert": "3643553381760205"
+    },
+    {
+     "Sequencia": "574",
+     "cardNumber": "PTCGOCE00000000000574",
+     "dec": "1317647831298432",
+     "decInvert": "3615405884078029"
+    },
+    {
+     "Sequencia": "575",
+     "cardNumber": "PTCGOCE00000000000575",
+     "dec": "1271266479468933",
+     "decInvert": "3756143372124262"
+    },
+    {
+     "Sequencia": "576",
+     "cardNumber": "PTCGOCE00000000000576",
+     "dec": "1286462073762180",
+     "decInvert": "3727995874152090"
+    },
+    {
+     "Sequencia": "577",
+     "cardNumber": "PTCGOCE00000000000577",
+     "dec": "1336399658512768",
+     "decInvert": "3615405884170214"
+    },
+    {
+     "Sequencia": "578",
+     "cardNumber": "PTCGOCE00000000000578",
+     "dec": "1152532108571013",
+     "decInvert": "3756143372141158"
+    },
+    {
+     "Sequencia": "579",
+     "cardNumber": "PTCGOCE00000000000579",
+     "dec": "1246673496732032",
+     "decInvert": "3615405884830029"
+    },
+    {
+     "Sequencia": "580",
+     "cardNumber": "PTCGOCE00000000000580",
+     "dec": "1202096031166853",
+     "decInvert": "3756143372273382"
+    },
+    {
+     "Sequencia": "581",
+     "cardNumber": "PTCGOCE00000000000581",
+     "dec": "1248430138356097",
+     "decInvert": "3643553381826125"
+    },
+    {
+     "Sequencia": "582",
+     "cardNumber": "PTCGOCE00000000000582",
+     "dec": "1352737714106752",
+     "decInvert": "3615405883934669"
+    },
+    {
+     "Sequencia": "583",
+     "cardNumber": "PTCGOCE00000000000583",
+     "dec": "1325206973739392",
+     "decInvert": "3615405883868493"
+    },
+    {
+     "Sequencia": "584",
+     "cardNumber": "PTCGOCE00000000000584",
+     "dec": "1167547314237825",
+     "decInvert": "3643553382558234"
+    },
+    {
+     "Sequencia": "585",
+     "cardNumber": "PTCGOCE00000000000585",
+     "dec": "1156766946324865",
+     "decInvert": "3643553381207962"
+    },
+    {
+     "Sequencia": "586",
+     "cardNumber": "PTCGOCE00000000000586",
+     "dec": "1292243099742596",
+     "decInvert": "3727995874584755"
+    },
+    {
+     "Sequencia": "587",
+     "cardNumber": "PTCGOCE00000000000587",
+     "dec": "1397607237448068",
+     "decInvert": "3727995874298854"
+    },
+    {
+     "Sequencia": "588",
+     "cardNumber": "PTCGOCE00000000000588",
+     "dec": "1167800717308289",
+     "decInvert": "3643553381267200"
+    },
+    {
+     "Sequencia": "589",
+     "cardNumber": "PTCGOCE00000000000589",
+     "dec": "1340308078752132",
+     "decInvert": "3727995874107469"
+    },
+    {
+     "Sequencia": "590",
+     "cardNumber": "PTCGOCE00000000000590",
+     "dec": "1153296612749697",
+     "decInvert": "3643553382623437"
+    },
+    {
+     "Sequencia": "591",
+     "cardNumber": "PTCGOCE00000000000591",
+     "dec": "1141180510007681",
+     "decInvert": "3643553382590387"
+    },
+    {
+     "Sequencia": "592",
+     "cardNumber": "PTCGOCE00000000000592",
+     "dec": "1307558953120128",
+     "decInvert": "3615405883782886"
+    },
+    {
+     "Sequencia": "593",
+     "cardNumber": "PTCGOCE00000000000593",
+     "dec": "1237379187503488",
+     "decInvert": "3615405884069606"
+    },
+    {
+     "Sequencia": "594",
+     "cardNumber": "PTCGOCE00000000000594",
+     "dec": "1286191490822529",
+     "decInvert": "3643553382403712"
+    },
+    {
+     "Sequencia": "595",
+     "cardNumber": "PTCGOCE00000000000595",
+     "dec": "1273555697037701",
+     "decInvert": "3756143372261939"
+    },
+    {
+     "Sequencia": "596",
+     "cardNumber": "PTCGOCE00000000000596",
+     "dec": "1251234752000384",
+     "decInvert": "3615405885079168"
+    },
+    {
+     "Sequencia": "597",
+     "cardNumber": "PTCGOCE00000000000597",
+     "dec": "1190065827770752",
+     "decInvert": "3615405884016077"
+    },
+    {
+     "Sequencia": "598",
+     "cardNumber": "PTCGOCE00000000000598",
+     "dec": "1226388366193024",
+     "decInvert": "3615405884075904"
+    },
+    {
+     "Sequencia": "599",
+     "cardNumber": "PTCGOCE00000000000599",
+     "dec": "1180384971485573",
+     "decInvert": "3756143372698854"
+    },
+    {
+     "Sequencia": "600",
+     "cardNumber": "PTCGOCE00000000000600",
+     "dec": "1226452790702464",
+     "decInvert": "3615405884174208"
+    },
+    {
+     "Sequencia": "601",
+     "cardNumber": "PTCGOCE00000000000601",
+     "dec": "1292526567584128",
+     "decInvert": "3615405884333030"
+    },
+    {
+     "Sequencia": "602",
+     "cardNumber": "PTCGOCE00000000000602",
+     "dec": "1366004868084096",
+     "decInvert": "3615405884046387"
+    },
+    {
+     "Sequencia": "603",
+     "cardNumber": "PTCGOCE00000000000603",
+     "dec": "1286406239187328",
+     "decInvert": "3615405885060326"
+    },
+    {
+     "Sequencia": "604",
+     "cardNumber": "PTCGOCE00000000000604",
+     "dec": "1288356154339713",
+     "decInvert": "3643553382351334"
+    },
+    {
+     "Sequencia": "605",
+     "cardNumber": "PTCGOCE00000000000605",
+     "dec": "1290147155702145",
+     "decInvert": "3643553381728794"
+    },
+    {
+     "Sequencia": "606",
+     "cardNumber": "PTCGOCE00000000000606",
+     "dec": "1342983843377540",
+     "decInvert": "3727995874834970"
+    },
+    {
+     "Sequencia": "607",
+     "cardNumber": "PTCGOCE00000000000607",
+     "dec": "1272378875998592",
+     "decInvert": "3615405883788621"
+    },
+    {
+     "Sequencia": "608",
+     "cardNumber": "PTCGOCE00000000000608",
+     "dec": "1269222075036037",
+     "decInvert": "3756143372360141"
+    },
+    {
+     "Sequencia": "609",
+     "cardNumber": "PTCGOCE00000000000609",
+     "dec": "1384417392882052",
+     "decInvert": "3727995874305101"
+    },
+    {
+     "Sequencia": "610",
+     "cardNumber": "PTCGOCE00000000000610",
+     "dec": "1243323422241152",
+     "decInvert": "3615405884751309"
+    },
+    {
+     "Sequencia": "611",
+     "cardNumber": "PTCGOCE00000000000611",
+     "dec": "1313945569489285",
+     "decInvert": "3756143371817242"
+    },
+    {
+     "Sequencia": "612",
+     "cardNumber": "PTCGOCE00000000000612",
+     "dec": "1255499654525312",
+     "decInvert": "3615405884876109"
+    },
+    {
+     "Sequencia": "613",
+     "cardNumber": "PTCGOCE00000000000613",
+     "dec": "1201155433329025",
+     "decInvert": "3643553381831578"
+    },
+    {
+     "Sequencia": "614",
+     "cardNumber": "PTCGOCE00000000000614",
+     "dec": "1323703735185792",
+     "decInvert": "3615405884930125"
+    },
+    {
+     "Sequencia": "615",
+     "cardNumber": "PTCGOCE00000000000615",
+     "dec": "1325327232823680",
+     "decInvert": "3615405884051994"
+    },
+    {
+     "Sequencia": "616",
+     "cardNumber": "PTCGOCE00000000000616",
+     "dec": "1210973728567685",
+     "decInvert": "3756143372398106"
+    },
+    {
+     "Sequencia": "617",
+     "cardNumber": "PTCGOCE00000000000617",
+     "dec": "1224910897443205",
+     "decInvert": "3756143371854490"
+    },
+    {
+     "Sequencia": "618",
+     "cardNumber": "PTCGOCE00000000000618",
+     "dec": "1315465987912064",
+     "decInvert": "3615405884104192"
+    },
+    {
+     "Sequencia": "619",
+     "cardNumber": "PTCGOCE00000000000619",
+     "dec": "1369427957019012",
+     "decInvert": "3727995874920781"
+    },
+    {
+     "Sequencia": "620",
+     "cardNumber": "PTCGOCE00000000000620",
+     "dec": "1313821015437697",
+     "decInvert": "3643553382620621"
+    },
+    {
+     "Sequencia": "621",
+     "cardNumber": "PTCGOCE00000000000621",
+     "dec": "1391362354999684",
+     "decInvert": "3727995874836096"
+    },
+    {
+     "Sequencia": "622",
+     "cardNumber": "PTCGOCE00000000000622",
+     "dec": "1209496259817860",
+     "decInvert": "3727995874150298"
+    },
+    {
+     "Sequencia": "623",
+     "cardNumber": "PTCGOCE00000000000623",
+     "dec": "1245664179417472",
+     "decInvert": "3615405884967629"
+    },
+    {
+     "Sequencia": "624",
+     "cardNumber": "PTCGOCE00000000000624",
+     "dec": "1138904177340801",
+     "decInvert": "3643553382472371"
+    },
+    {
+     "Sequencia": "625",
+     "cardNumber": "PTCGOCE00000000000625",
+     "dec": "1303895346016640",
+     "decInvert": "3615405884903450"
+    },
+    {
+     "Sequencia": "626",
+     "cardNumber": "PTCGOCE00000000000626",
+     "dec": "1149482681790849",
+     "decInvert": "3643553381836928"
+    },
+    {
+     "Sequencia": "627",
+     "cardNumber": "PTCGOCE00000000000627",
+     "dec": "1314967771705728",
+     "decInvert": "3615405885021670"
+    },
+    {
+     "Sequencia": "628",
+     "cardNumber": "PTCGOCE00000000000628",
+     "dec": "1207043833491840",
+     "decInvert": "3615405884757018"
+    },
+    {
+     "Sequencia": "629",
+     "cardNumber": "PTCGOCE00000000000629",
+     "dec": "1286208670691712",
+     "decInvert": "3615405884758861"
+    },
+    {
+     "Sequencia": "630",
+     "cardNumber": "PTCGOCE00000000000630",
+     "dec": "1220285217665408",
+     "decInvert": "3615405884829414"
+    },
+    {
+     "Sequencia": "631",
+     "cardNumber": "PTCGOCE00000000000631",
+     "dec": "1183485937873280",
+     "decInvert": "3615405884042138"
+    },
+    {
+     "Sequencia": "632",
+     "cardNumber": "PTCGOCE00000000000632",
+     "dec": "1333019519250816",
+     "decInvert": "3615405884045619"
+    },
+    {
+     "Sequencia": "633",
+     "cardNumber": "PTCGOCE00000000000633",
+     "dec": "1394600760340864",
+     "decInvert": "3615405884060160"
+    },
+    {
+     "Sequencia": "634",
+     "cardNumber": "PTCGOCE00000000000634",
+     "dec": "1141601416802689",
+     "decInvert": "3643553381554944"
+    },
+    {
+     "Sequencia": "635",
+     "cardNumber": "PTCGOCE00000000000635",
+     "dec": "1282923020710272",
+     "decInvert": "3615405884778445"
+    },
+    {
+     "Sequencia": "636",
+     "cardNumber": "PTCGOCE00000000000636",
+     "dec": "1207705258455429",
+     "decInvert": "3756143372443904"
+    },
+    {
+     "Sequencia": "637",
+     "cardNumber": "PTCGOCE00000000000637",
+     "dec": "1359678381257088",
+     "decInvert": "3615405884459110"
+    },
+    {
+     "Sequencia": "638",
+     "cardNumber": "PTCGOCE00000000000638",
+     "dec": "1220517145899397",
+     "decInvert": "3756143371860941"
+    },
+    {
+     "Sequencia": "639",
+     "cardNumber": "PTCGOCE00000000000639",
+     "dec": "1245054294061445",
+     "decInvert": "3756143372392346"
+    },
+    {
+     "Sequencia": "640",
+     "cardNumber": "PTCGOCE00000000000640",
+     "dec": "1189314208493952",
+     "decInvert": "3615405884546893"
+    },
+    {
+     "Sequencia": "641",
+     "cardNumber": "PTCGOCE00000000000641",
+     "dec": "1329789703844228",
+     "decInvert": "3727995874834662"
+    },
+    {
+     "Sequencia": "642",
+     "cardNumber": "PTCGOCE00000000000642",
+     "dec": "1355795730821508",
+     "decInvert": "3727995874252006"
+    },
+    {
+     "Sequencia": "643",
+     "cardNumber": "PTCGOCE00000000000643",
+     "dec": "1346561551135104",
+     "decInvert": "3615405884576768"
+    },
+    {
+     "Sequencia": "644",
+     "cardNumber": "PTCGOCE00000000000644",
+     "dec": "1175986924974469",
+     "decInvert": "3756143372698752"
+    },
+    {
+     "Sequencia": "645",
+     "cardNumber": "PTCGOCE00000000000645",
+     "dec": "1278052527796608",
+     "decInvert": "3615405884057446"
+    },
+    {
+     "Sequencia": "646",
+     "cardNumber": "PTCGOCE00000000000646",
+     "dec": "1177996969668993",
+     "decInvert": "3643553381726182"
+    },
+    {
+     "Sequencia": "647",
+     "cardNumber": "PTCGOCE00000000000647",
+     "dec": "1260310017896832",
+     "decInvert": "3615405883827661"
+    },
+    {
+     "Sequencia": "648",
+     "cardNumber": "PTCGOCE00000000000648",
+     "dec": "1323201224012164",
+     "decInvert": "3727995874847616"
+    },
+    {
+     "Sequencia": "649",
+     "cardNumber": "PTCGOCE00000000000649",
+     "dec": "1214263673516420",
+     "decInvert": "3727995874714010"
+    },
+    {
+     "Sequencia": "650",
+     "cardNumber": "PTCGOCE00000000000650",
+     "dec": "1295575994364288",
+     "decInvert": "3615405883952998"
+    },
+    {
+     "Sequencia": "651",
+     "cardNumber": "PTCGOCE00000000000651",
+     "dec": "1301713502630273",
+     "decInvert": "3643553382600678"
+    },
+    {
+     "Sequencia": "652",
+     "cardNumber": "PTCGOCE00000000000652",
+     "dec": "1363569621627264",
+     "decInvert": "3615405883685888"
+    },
+    {
+     "Sequencia": "653",
+     "cardNumber": "PTCGOCE00000000000653",
+     "dec": "1226276697043328",
+     "decInvert": "3615405883905510"
+    },
+    {
+     "Sequencia": "654",
+     "cardNumber": "PTCGOCE00000000000654",
+     "dec": "1273856344748416",
+     "decInvert": "3615405884365363"
+    },
+    {
+     "Sequencia": "655",
+     "cardNumber": "PTCGOCE00000000000655",
+     "dec": "1302546726285696",
+     "decInvert": "3615405884523315"
+    },
+    {
+     "Sequencia": "656",
+     "cardNumber": "PTCGOCE00000000000656",
+     "dec": "1298569586569605",
+     "decInvert": "3756143371843098"
+    },
+    {
+     "Sequencia": "657",
+     "cardNumber": "PTCGOCE00000000000657",
+     "dec": "1355812910690688",
+     "decInvert": "3615405883593958"
+    },
+    {
+     "Sequencia": "658",
+     "cardNumber": "PTCGOCE00000000000658",
+     "dec": "1307855305863552",
+     "decInvert": "3615405884235085"
+    },
+    {
+     "Sequencia": "659",
+     "cardNumber": "PTCGOCE00000000000659",
+     "dec": "1318262011621761",
+     "decInvert": "3643553382686259"
+    },
+    {
+     "Sequencia": "660",
+     "cardNumber": "PTCGOCE00000000000660",
+     "dec": "1279117679686016",
+     "decInvert": "3615405884005043"
+    },
+    {
+     "Sequencia": "661",
+     "cardNumber": "PTCGOCE00000000000661",
+     "dec": "1126500311789957",
+     "decInvert": "3756143372684493"
+    },
+    {
+     "Sequencia": "662",
+     "cardNumber": "PTCGOCE00000000000662",
+     "dec": "1328230630715780",
+     "decInvert": "3727995874133402"
+    },
+    {
+     "Sequencia": "663",
+     "cardNumber": "PTCGOCE00000000000663",
+     "dec": "1128591960863105",
+     "decInvert": "3643553381836442"
+    },
+    {
+     "Sequencia": "664",
+     "cardNumber": "PTCGOCE00000000000664",
+     "dec": "1239509491282309",
+     "decInvert": "3756143372320128"
+    },
+    {
+     "Sequencia": "665",
+     "cardNumber": "PTCGOCE00000000000665",
+     "dec": "1337344551317888",
+     "decInvert": "3615405883934310"
+    },
+    {
+     "Sequencia": "666",
+     "cardNumber": "PTCGOCE00000000000666",
+     "dec": "1206575682056580",
+     "decInvert": "3727995874726938"
+    },
+    {
+     "Sequencia": "667",
+     "cardNumber": "PTCGOCE00000000000667",
+     "dec": "1278649528250753",
+     "decInvert": "3643553382639462"
+    },
+    {
+     "Sequencia": "668",
+     "cardNumber": "PTCGOCE00000000000668",
+     "dec": "1343426225009024",
+     "decInvert": "3615405884825728"
+    },
+    {
+     "Sequencia": "669",
+     "cardNumber": "PTCGOCE00000000000669",
+     "dec": "1174926068052352",
+     "decInvert": "3615405884402381"
+    },
+    {
+     "Sequencia": "670",
+     "cardNumber": "PTCGOCE00000000000670",
+     "dec": "1277893614006661",
+     "decInvert": "3756143372170291"
+    },
+    {
+     "Sequencia": "671",
+     "cardNumber": "PTCGOCE00000000000671",
+     "dec": "1215397544882565",
+     "decInvert": "3756143372437530"
+    },
+    {
+     "Sequencia": "672",
+     "cardNumber": "PTCGOCE00000000000672",
+     "dec": "1138337241657733",
+     "decInvert": "3756143372291558"
+    },
+    {
+     "Sequencia": "673",
+     "cardNumber": "PTCGOCE00000000000673",
+     "dec": "1216419747099013",
+     "decInvert": "3756143372319590"
+    },
+    {
+     "Sequencia": "674",
+     "cardNumber": "PTCGOCE00000000000674",
+     "dec": "1224107738558849",
+     "decInvert": "3643553381622400"
+    },
+    {
+     "Sequencia": "675",
+     "cardNumber": "PTCGOCE00000000000675",
+     "dec": "1262225573310849",
+     "decInvert": "3643553382743936"
+    },
+    {
+     "Sequencia": "676",
+     "cardNumber": "PTCGOCE00000000000676",
+     "dec": "1221809931055492",
+     "decInvert": "3727995874484813"
+    },
+    {
+     "Sequencia": "677",
+     "cardNumber": "PTCGOCE00000000000677",
+     "dec": "1328651537510788",
+     "decInvert": "3727995874775654"
+    },
+    {
+     "Sequencia": "678",
+     "cardNumber": "PTCGOCE00000000000678",
+     "dec": "1263668682322309",
+     "decInvert": "3756143372274816"
+    },
+    {
+     "Sequencia": "679",
+     "cardNumber": "PTCGOCE00000000000679",
+     "dec": "1327521961111936",
+     "decInvert": "3615405884045491"
+    },
+    {
+     "Sequencia": "680",
+     "cardNumber": "PTCGOCE00000000000680",
+     "dec": "1307597607825792",
+     "decInvert": "3615405883841869"
+    },
+    {
+     "Sequencia": "681",
+     "cardNumber": "PTCGOCE00000000000681",
+     "dec": "1177438623920512",
+     "decInvert": "3615405884880845"
+    },
+    {
+     "Sequencia": "682",
+     "cardNumber": "PTCGOCE00000000000682",
+     "dec": "1167916681425284",
+     "decInvert": "3727995874457344"
+    },
+    {
+     "Sequencia": "683",
+     "cardNumber": "PTCGOCE00000000000683",
+     "dec": "1371910448116096",
+     "decInvert": "3615405884669107"
+    },
+    {
+     "Sequencia": "684",
+     "cardNumber": "PTCGOCE00000000000684",
+     "dec": "1189468827316608",
+     "decInvert": "3615405884782822"
+    },
+    {
+     "Sequencia": "685",
+     "cardNumber": "PTCGOCE00000000000685",
+     "dec": "1406583719096708",
+     "decInvert": "3727995874574310"
+    },
+    {
+     "Sequencia": "686",
+     "cardNumber": "PTCGOCE00000000000686",
+     "dec": "1278056822763905",
+     "decInvert": "3643553381735066"
+    },
+    {
+     "Sequencia": "687",
+     "cardNumber": "PTCGOCE00000000000687",
+     "dec": "1365566781419904",
+     "decInvert": "3615405885055616"
+    },
+    {
+     "Sequencia": "688",
+     "cardNumber": "PTCGOCE00000000000688",
+     "dec": "1372593347916160",
+     "decInvert": "3615405884033434"
+    },
+    {
+     "Sequencia": "689",
+     "cardNumber": "PTCGOCE00000000000689",
+     "dec": "1200463943594368",
+     "decInvert": "3615405884783078"
+    },
+    {
+     "Sequencia": "690",
+     "cardNumber": "PTCGOCE00000000000690",
+     "dec": "1285568720564608",
+     "decInvert": "3615405883782374"
+    },
+    {
+     "Sequencia": "691",
+     "cardNumber": "PTCGOCE00000000000691",
+     "dec": "1391061707288964",
+     "decInvert": "3727995874377344"
+    },
+    {
+     "Sequencia": "692",
+     "cardNumber": "PTCGOCE00000000000692",
+     "dec": "1207292941595012",
+     "decInvert": "3727995874143693"
+    },
+    {
+     "Sequencia": "693",
+     "cardNumber": "PTCGOCE00000000000693",
+     "dec": "1134669339586945",
+     "decInvert": "3643553382721306"
+    },
+    {
+     "Sequencia": "694",
+     "cardNumber": "PTCGOCE00000000000694",
+     "dec": "1227517942591877",
+     "decInvert": "3756143372477133"
+    },
+    {
+     "Sequencia": "695",
+     "cardNumber": "PTCGOCE00000000000695",
+     "dec": "1137164715585921",
+     "decInvert": "3643553381495859"
+    },
+    {
+     "Sequencia": "696",
+     "cardNumber": "PTCGOCE00000000000696",
+     "dec": "1237482266718593",
+     "decInvert": "3643553381897958"
+    },
+    {
+     "Sequencia": "697",
+     "cardNumber": "PTCGOCE00000000000697",
+     "dec": "1158819940692352",
+     "decInvert": "3615405884991821"
+    },
+    {
+     "Sequencia": "698",
+     "cardNumber": "PTCGOCE00000000000698",
+     "dec": "1169282481025413",
+     "decInvert": "3756143372534758"
+    },
+    {
+     "Sequencia": "699",
+     "cardNumber": "PTCGOCE00000000000699",
+     "dec": "1273465502724480",
+     "decInvert": "3615405883768986"
+    },
+    {
+     "Sequencia": "700",
+     "cardNumber": "PTCGOCE00000000000700",
+     "dec": "1220697534525825",
+     "decInvert": "3643553381451930"
+    },
+    {
+     "Sequencia": "701",
+     "cardNumber": "PTCGOCE00000000000701",
+     "dec": "1126096584864129",
+     "decInvert": "3643553381384192"
+    },
+    {
+     "Sequencia": "702",
+     "cardNumber": "PTCGOCE00000000000702",
+     "dec": "1368014912778624",
+     "decInvert": "3615405883758080"
+    },
+    {
+     "Sequencia": "703",
+     "cardNumber": "PTCGOCE00000000000703",
+     "dec": "1220757664067972",
+     "decInvert": "3727995874556877"
+    },
+    {
+     "Sequencia": "704",
+     "cardNumber": "PTCGOCE00000000000704",
+     "dec": "1221311714849153",
+     "decInvert": "3643553382389094"
+    },
+    {
+     "Sequencia": "705",
+     "cardNumber": "PTCGOCE00000000000705",
+     "dec": "1213786932146560",
+     "decInvert": "3615405884979994"
+    },
+    {
+     "Sequencia": "706",
+     "cardNumber": "PTCGOCE00000000000706",
+     "dec": "1382428823024004",
+     "decInvert": "3727995874626176"
+    },
+    {
+     "Sequencia": "707",
+     "cardNumber": "PTCGOCE00000000000707",
+     "dec": "1291126408245637",
+     "decInvert": "3756143372229581"
+    },
+    {
+     "Sequencia": "708",
+     "cardNumber": "PTCGOCE00000000000708",
+     "dec": "1358716308582784",
+     "decInvert": "3615405884668800"
+    },
+    {
+     "Sequencia": "709",
+     "cardNumber": "PTCGOCE00000000000709",
+     "dec": "1156075456590209",
+     "decInvert": "3643553381830528"
+    },
+    {
+     "Sequencia": "710",
+     "cardNumber": "PTCGOCE00000000000710",
+     "dec": "1246540352745857",
+     "decInvert": "3643553382297933"
+    },
+    {
+     "Sequencia": "711",
+     "cardNumber": "PTCGOCE00000000000711",
+     "dec": "1182231807422852",
+     "decInvert": "3727995874490445"
+    },
+    {
+     "Sequencia": "712",
+     "cardNumber": "PTCGOCE00000000000712",
+     "dec": "1272202782339461",
+     "decInvert": "3756143371875251"
+    },
+    {
+     "Sequencia": "713",
+     "cardNumber": "PTCGOCE00000000000713",
+     "dec": "1165051938238849",
+     "decInvert": "3643553382105984"
+    },
+    {
+     "Sequencia": "714",
+     "cardNumber": "PTCGOCE00000000000714",
+     "dec": "1292487912878468",
+     "decInvert": "3727995874958310"
+    },
+    {
+     "Sequencia": "715",
+     "cardNumber": "PTCGOCE00000000000715",
+     "dec": "1351427749081476",
+     "decInvert": "3727995874297779"
+    },
+    {
+     "Sequencia": "716",
+     "cardNumber": "PTCGOCE00000000000716",
+     "dec": "1169072027627905",
+     "decInvert": "3643553381529370"
+    },
+    {
+     "Sequencia": "717",
+     "cardNumber": "PTCGOCE00000000000717",
+     "dec": "1227457813049732",
+     "decInvert": "3727995874714317"
+    },
+    {
+     "Sequencia": "718",
+     "cardNumber": "PTCGOCE00000000000718",
+     "dec": "1363552441758080",
+     "decInvert": "3615405883659674"
+    },
+    {
+     "Sequencia": "719",
+     "cardNumber": "PTCGOCE00000000000719",
+     "dec": "1260838298874240",
+     "decInvert": "3615405884633754"
+    },
+    {
+     "Sequencia": "720",
+     "cardNumber": "PTCGOCE00000000000720",
+     "dec": "1153777649086853",
+     "decInvert": "3756143372364006"
+    },
+    {
+     "Sequencia": "721",
+     "cardNumber": "PTCGOCE00000000000721",
+     "dec": "1320022948213124",
+     "decInvert": "3727995875031040"
+    },
+    {
+     "Sequencia": "722",
+     "cardNumber": "PTCGOCE00000000000722",
+     "dec": "1288738406429056",
+     "decInvert": "3615405883585843"
+    },
+    {
+     "Sequencia": "723",
+     "cardNumber": "PTCGOCE00000000000723",
+     "dec": "1148606508462464",
+     "decInvert": "3615405884506624"
+    },
+    {
+     "Sequencia": "724",
+     "cardNumber": "PTCGOCE00000000000724",
+     "dec": "1276476274798977",
+     "decInvert": "3643553382678733"
+    },
+    {
+     "Sequencia": "725",
+     "cardNumber": "PTCGOCE00000000000725",
+     "dec": "1269286499545476",
+     "decInvert": "3727995874787379"
+    },
+    {
+     "Sequencia": "726",
+     "cardNumber": "PTCGOCE00000000000726",
+     "dec": "1295167972471169",
+     "decInvert": "3643553382679168"
+    },
+    {
+     "Sequencia": "727",
+     "cardNumber": "PTCGOCE00000000000727",
+     "dec": "1374839615811968",
+     "decInvert": "3615405884105574"
+    },
+    {
+     "Sequencia": "728",
+     "cardNumber": "PTCGOCE00000000000728",
+     "dec": "1221848585761152",
+     "decInvert": "3615405883859533"
+    },
+    {
+     "Sequencia": "729",
+     "cardNumber": "PTCGOCE00000000000729",
+     "dec": "1157844983116165",
+     "decInvert": "3756143371859482"
+    },
+    {
+     "Sequencia": "730",
+     "cardNumber": "PTCGOCE00000000000730",
+     "dec": "1222325327131009",
+     "decInvert": "3643553382258048"
+    },
+    {
+     "Sequencia": "731",
+     "cardNumber": "PTCGOCE00000000000731",
+     "dec": "1177404264182144",
+     "decInvert": "3615405884828416"
+    },
+    {
+     "Sequencia": "732",
+     "cardNumber": "PTCGOCE00000000000732",
+     "dec": "1131667157447041",
+     "decInvert": "3643553381495731"
+    },
+    {
+     "Sequencia": "733",
+     "cardNumber": "PTCGOCE00000000000733",
+     "dec": "1385130357453184",
+     "decInvert": "3615405884708736"
+    },
+    {
+     "Sequencia": "734",
+     "cardNumber": "PTCGOCE00000000000734",
+     "dec": "1185083665707392",
+     "decInvert": "3615405884802381"
+    },
+    {
+     "Sequencia": "735",
+     "cardNumber": "PTCGOCE00000000000735",
+     "dec": "1179573222666624",
+     "decInvert": "3615405884782592"
+    },
+    {
+     "Sequencia": "736",
+     "cardNumber": "PTCGOCE00000000000736",
+     "dec": "1388089589920128",
+     "decInvert": "3615405884191078"
+    },
+    {
+     "Sequencia": "737",
+     "cardNumber": "PTCGOCE00000000000737",
+     "dec": "1143186259734913",
+     "decInvert": "3643553382295526"
+    },
+    {
+     "Sequencia": "738",
+     "cardNumber": "PTCGOCE00000000000738",
+     "dec": "1126221138915717",
+     "decInvert": "3756143372258509"
+    },
+    {
+     "Sequencia": "739",
+     "cardNumber": "PTCGOCE00000000000739",
+     "dec": "1186840307331457",
+     "decInvert": "3643553381798477"
+    },
+    {
+     "Sequencia": "740",
+     "cardNumber": "PTCGOCE00000000000740",
+     "dec": "1235854474113412",
+     "decInvert": "3727995874105037"
+    },
+    {
+     "Sequencia": "741",
+     "cardNumber": "PTCGOCE00000000000741",
+     "dec": "1267714541515137",
+     "decInvert": "3643553382730957"
+    },
+    {
+     "Sequencia": "742",
+     "cardNumber": "PTCGOCE00000000000742",
+     "dec": "1167122112475520",
+     "decInvert": "3615405884238362"
+    },
+    {
+     "Sequencia": "743",
+     "cardNumber": "PTCGOCE00000000000743",
+     "dec": "1307150931227009",
+     "decInvert": "3643553382509056"
+    },
+    {
+     "Sequencia": "744",
+     "cardNumber": "PTCGOCE00000000000744",
+     "dec": "1152691022360961",
+     "decInvert": "3643553381699379"
+    },
+    {
+     "Sequencia": "745",
+     "cardNumber": "PTCGOCE00000000000745",
+     "dec": "1180930432332164",
+     "decInvert": "3727995874182400"
+    },
+    {
+     "Sequencia": "746",
+     "cardNumber": "PTCGOCE00000000000746",
+     "dec": "1181050691416449",
+     "decInvert": "3643553381352704"
+    },
+    {
+     "Sequencia": "747",
+     "cardNumber": "PTCGOCE00000000000747",
+     "dec": "1274178467295616",
+     "decInvert": "3615405884856883"
+    },
+    {
+     "Sequencia": "748",
+     "cardNumber": "PTCGOCE00000000000748",
+     "dec": "1234162256998784",
+     "decInvert": "3615405884194048"
+    },
+    {
+     "Sequencia": "749",
+     "cardNumber": "PTCGOCE00000000000749",
+     "dec": "1200906325225857",
+     "decInvert": "3643553381451469"
+    },
+    {
+     "Sequencia": "750",
+     "cardNumber": "PTCGOCE00000000000750",
+     "dec": "1241528125911424",
+     "decInvert": "3615405883689600"
+    },
+    {
+     "Sequencia": "751",
+     "cardNumber": "PTCGOCE00000000000751",
+     "dec": "1182214627553665",
+     "decInvert": "3643553381451034"
+    },
+    {
+     "Sequencia": "752",
+     "cardNumber": "PTCGOCE00000000000752",
+     "dec": "1302894618636673",
+     "decInvert": "3643553382725222"
+    },
+    {
+     "Sequencia": "753",
+     "cardNumber": "PTCGOCE00000000000753",
+     "dec": "1206232084672901",
+     "decInvert": "3756143371873715"
+    },
+    {
+     "Sequencia": "754",
+     "cardNumber": "PTCGOCE00000000000754",
+     "dec": "1321487532061057",
+     "decInvert": "3643553382574925"
+    },
+    {
+     "Sequencia": "755",
+     "cardNumber": "PTCGOCE00000000000755",
+     "dec": "1168006875738497",
+     "decInvert": "3643553381581773"
+    },
+    {
+     "Sequencia": "756",
+     "cardNumber": "PTCGOCE00000000000756",
+     "dec": "1253760192770437",
+     "decInvert": "3756143372254925"
+    },
+    {
+     "Sequencia": "757",
+     "cardNumber": "PTCGOCE00000000000757",
+     "dec": "1167641803518337",
+     "decInvert": "3643553382702413"
+    },
+    {
+     "Sequencia": "758",
+     "cardNumber": "PTCGOCE00000000000758",
+     "dec": "1376398688940416",
+     "decInvert": "3615405884806835"
+    },
+    {
+     "Sequencia": "759",
+     "cardNumber": "PTCGOCE00000000000759",
+     "dec": "1259356535157120",
+     "decInvert": "3615405884050458"
+    },
+    {
+     "Sequencia": "760",
+     "cardNumber": "PTCGOCE00000000000760",
+     "dec": "1251913356833153",
+     "decInvert": "3643553382108006"
+    },
+    {
+     "Sequencia": "761",
+     "cardNumber": "PTCGOCE00000000000761",
+     "dec": "1205068148535684",
+     "decInvert": "3727995874104320"
+    },
+    {
+     "Sequencia": "762",
+     "cardNumber": "PTCGOCE00000000000762",
+     "dec": "1188661373464965",
+     "decInvert": "3756143371906074"
+    },
+    {
+     "Sequencia": "763",
+     "cardNumber": "PTCGOCE00000000000763",
+     "dec": "1201688009273729",
+     "decInvert": "3643553382644224"
+    },
+    {
+     "Sequencia": "764",
+     "cardNumber": "PTCGOCE00000000000764",
+     "dec": "1142692338495873",
+     "decInvert": "3643553381541862"
+    },
+    {
+     "Sequencia": "765",
+     "cardNumber": "PTCGOCE00000000000765",
+     "dec": "1230833657344385",
+     "decInvert": "3643553381819162"
+    },
+    {
+     "Sequencia": "766",
+     "cardNumber": "PTCGOCE00000000000766",
+     "dec": "1218674604929408",
+     "decInvert": "3615405884049510"
+    },
+    {
+     "Sequencia": "767",
+     "cardNumber": "PTCGOCE00000000000767",
+     "dec": "1145252139004288",
+     "decInvert": "3615405884421350"
+    },
+    {
+     "Sequencia": "768",
+     "cardNumber": "PTCGOCE00000000000768",
+     "dec": "1265154741006721",
+     "decInvert": "3643553382180403"
+    },
+    {
+     "Sequencia": "769",
+     "cardNumber": "PTCGOCE00000000000769",
+     "dec": "1320924891345280",
+     "decInvert": "3615405884045338"
+    },
+    {
+     "Sequencia": "770",
+     "cardNumber": "PTCGOCE00000000000770",
+     "dec": "1269080341115268",
+     "decInvert": "3727995874472806"
+    },
+    {
+     "Sequencia": "771",
+     "cardNumber": "PTCGOCE00000000000771",
+     "dec": "1140205552431492",
+     "decInvert": "3727995874115917"
+    },
+    {
+     "Sequencia": "772",
+     "cardNumber": "PTCGOCE00000000000772",
+     "dec": "1166585241563525",
+     "decInvert": "3756143371774490"
+    },
+    {
+     "Sequencia": "773",
+     "cardNumber": "PTCGOCE00000000000773",
+     "dec": "1224700444045696",
+     "decInvert": "3615405884855731"
+    },
+    {
+     "Sequencia": "774",
+     "cardNumber": "PTCGOCE00000000000774",
+     "dec": "1215393249915264",
+     "decInvert": "3615405884075648"
+    },
+    {
+     "Sequencia": "775",
+     "cardNumber": "PTCGOCE00000000000775",
+     "dec": "1168144314691968",
+     "decInvert": "3615405884120422"
+    },
+    {
+     "Sequencia": "776",
+     "cardNumber": "PTCGOCE00000000000776",
+     "dec": "1216312372916612",
+     "decInvert": "3727995874484685"
+    },
+    {
+     "Sequencia": "777",
+     "cardNumber": "PTCGOCE00000000000777",
+     "dec": "1231237384270209",
+     "decInvert": "3643553382435200"
+    },
+    {
+     "Sequencia": "778",
+     "cardNumber": "PTCGOCE00000000000778",
+     "dec": "1390464706834816",
+     "decInvert": "3615405884459827"
+    },
+    {
+     "Sequencia": "779",
+     "cardNumber": "PTCGOCE00000000000779",
+     "dec": "1398096863719812",
+     "decInvert": "3727995875045965"
+    },
+    {
+     "Sequencia": "780",
+     "cardNumber": "PTCGOCE00000000000780",
+     "dec": "1332581432586625",
+     "decInvert": "3643553382725914"
+    },
+    {
+     "Sequencia": "781",
+     "cardNumber": "PTCGOCE00000000000781",
+     "dec": "1230786412704129",
+     "decInvert": "3643553381747072"
+    },
+    {
+     "Sequencia": "782",
+     "cardNumber": "PTCGOCE00000000000782",
+     "dec": "1223059766538628",
+     "decInvert": "3727995874714214"
+    },
+    {
+     "Sequencia": "783",
+     "cardNumber": "PTCGOCE00000000000783",
+     "dec": "1373469521244548",
+     "decInvert": "3727995874376934"
+    },
+    {
+     "Sequencia": "784",
+     "cardNumber": "PTCGOCE00000000000784",
+     "dec": "1271090385809796",
+     "decInvert": "3727995874184499"
+    },
+    {
+     "Sequencia": "785",
+     "cardNumber": "PTCGOCE00000000000785",
+     "dec": "1207658013815168",
+     "decInvert": "3615405884016486"
+    },
+    {
+     "Sequencia": "786",
+     "cardNumber": "PTCGOCE00000000000786",
+     "dec": "1169939611021701",
+     "decInvert": "3756143371859763"
+    },
+    {
+     "Sequencia": "787",
+     "cardNumber": "PTCGOCE00000000000787",
+     "dec": "1300824444400005",
+     "decInvert": "3756143371928346"
+    },
+    {
+     "Sequencia": "788",
+     "cardNumber": "PTCGOCE00000000000788",
+     "dec": "1268088203669888",
+     "decInvert": "3615405883952358"
+    },
+    {
+     "Sequencia": "789",
+     "cardNumber": "PTCGOCE00000000000789",
+     "dec": "1159193602847109",
+     "decInvert": "3756143372239616"
+    },
+    {
+     "Sequencia": "790",
+     "cardNumber": "PTCGOCE00000000000790",
+     "dec": "1359970439033216",
+     "decInvert": "3615405884904755"
+    },
+    {
+     "Sequencia": "791",
+     "cardNumber": "PTCGOCE00000000000791",
+     "dec": "1206489782710661",
+     "decInvert": "3756143372266931"
+    },
+    {
+     "Sequencia": "792",
+     "cardNumber": "PTCGOCE00000000000792",
+     "dec": "1323364432769412",
+     "decInvert": "3727995875096653"
+    },
+    {
+     "Sequencia": "793",
+     "cardNumber": "PTCGOCE00000000000793",
+     "dec": "1201219857838469",
+     "decInvert": "3756143372614144"
+    },
+    {
+     "Sequencia": "794",
+     "cardNumber": "PTCGOCE00000000000794",
+     "dec": "1362684858364288",
+     "decInvert": "3615405884013542"
+    },
+    {
+     "Sequencia": "795",
+     "cardNumber": "PTCGOCE00000000000795",
+     "dec": "1216484171608453",
+     "decInvert": "3756143372417894"
+    },
+    {
+     "Sequencia": "796",
+     "cardNumber": "PTCGOCE00000000000796",
+     "dec": "1163398375829893",
+     "decInvert": "3756143371944806"
+    },
+    {
+     "Sequencia": "797",
+     "cardNumber": "PTCGOCE00000000000797",
+     "dec": "1392552060940676",
+     "decInvert": "3727995874973747"
+    },
+    {
+     "Sequencia": "798",
+     "cardNumber": "PTCGOCE00000000000798",
+     "dec": "1360142237725060",
+     "decInvert": "3727995874173466"
+    },
+    {
+     "Sequencia": "799",
+     "cardNumber": "PTCGOCE00000000000799",
+     "dec": "1287913772708224",
+     "decInvert": "3615405884005248"
+    },
+    {
+     "Sequencia": "800",
+     "cardNumber": "PTCGOCE00000000000800",
+     "dec": "1195013630095744",
+     "decInvert": "3615405884855040"
+    },
+    {
+     "Sequencia": "801",
+     "cardNumber": "PTCGOCE00000000000801",
+     "dec": "1292642531701121",
+     "decInvert": "3643553382181043"
+    },
+    {
+     "Sequencia": "802",
+     "cardNumber": "PTCGOCE00000000000802",
+     "dec": "1177966904897925",
+     "decInvert": "3756143372364570"
+    },
+    {
+     "Sequencia": "803",
+     "cardNumber": "PTCGOCE00000000000803",
+     "dec": "1291517250269568",
+     "decInvert": "3615405884470630"
+    },
+    {
+     "Sequencia": "804",
+     "cardNumber": "PTCGOCE00000000000804",
+     "dec": "1211553549152641",
+     "decInvert": "3643553382598579"
+    },
+    {
+     "Sequencia": "805",
+     "cardNumber": "PTCGOCE00000000000805",
+     "dec": "1403040371077508",
+     "decInvert": "3727995874200678"
+    },
+    {
+     "Sequencia": "806",
+     "cardNumber": "PTCGOCE00000000000806",
+     "dec": "1203332981748097",
+     "decInvert": "3643553381798861"
+    },
+    {
+     "Sequencia": "807",
+     "cardNumber": "PTCGOCE00000000000807",
+     "dec": "1263410984284548",
+     "decInvert": "3727995874210534"
+    },
+    {
+     "Sequencia": "808",
+     "cardNumber": "PTCGOCE00000000000808",
+     "dec": "1170111409713540",
+     "decInvert": "3727995874450842"
+    },
+    {
+     "Sequencia": "809",
+     "cardNumber": "PTCGOCE00000000000809",
+     "dec": "1161409805971841",
+     "decInvert": "3643553381581619"
+    },
+    {
+     "Sequencia": "810",
+     "cardNumber": "PTCGOCE00000000000810",
+     "dec": "1181201015271809",
+     "decInvert": "3643553381582080"
+    },
+    {
+     "Sequencia": "811",
+     "cardNumber": "PTCGOCE00000000000811",
+     "dec": "1203367341486469",
+     "decInvert": "3756143372535552"
+    },
+    {
+     "Sequencia": "812",
+     "cardNumber": "PTCGOCE00000000000812",
+     "dec": "1206077465850240",
+     "decInvert": "3615405884960154"
+    },
+    {
+     "Sequencia": "813",
+     "cardNumber": "PTCGOCE00000000000813",
+     "dec": "1316148887712132",
+     "decInvert": "3727995874152781"
+    },
+    {
+     "Sequencia": "814",
+     "cardNumber": "PTCGOCE00000000000814",
+     "dec": "1272284386718084",
+     "decInvert": "3727995874328704"
+    },
+    {
+     "Sequencia": "815",
+     "cardNumber": "PTCGOCE00000000000815",
+     "dec": "1401219304944004",
+     "decInvert": "3727995874777344"
+    },
+    {
+     "Sequencia": "816",
+     "cardNumber": "PTCGOCE00000000000816",
+     "dec": "1241828773622145",
+     "decInvert": "3643553381819418"
+    },
+    {
+     "Sequencia": "817",
+     "cardNumber": "PTCGOCE00000000000817",
+     "dec": "1382716585832836",
+     "decInvert": "3727995875065267"
+    },
+    {
+     "Sequencia": "818",
+     "cardNumber": "PTCGOCE00000000000818",
+     "dec": "1290933134717317",
+     "decInvert": "3756143371934669"
+    },
+    {
+     "Sequencia": "819",
+     "cardNumber": "PTCGOCE00000000000819",
+     "dec": "1339272991633796",
+     "decInvert": "3727995874205747"
+    },
+    {
+     "Sequencia": "820",
+     "cardNumber": "PTCGOCE00000000000820",
+     "dec": "1360765007982980",
+     "decInvert": "3727995875123738"
+    },
+    {
+     "Sequencia": "821",
+     "cardNumber": "PTCGOCE00000000000821",
+     "dec": "1270639414243712",
+     "decInvert": "3615405884489805"
+    },
+    {
+     "Sequencia": "822",
+     "cardNumber": "PTCGOCE00000000000822",
+     "dec": "1310930502447492",
+     "decInvert": "3727995874578637"
+    },
+    {
+     "Sequencia": "823",
+     "cardNumber": "PTCGOCE00000000000823",
+     "dec": "1137070226305413",
+     "decInvert": "3756143372035942"
+    },
+    {
+     "Sequencia": "824",
+     "cardNumber": "PTCGOCE00000000000824",
+     "dec": "1264751014080900",
+     "decInvert": "3727995874577562"
+    },
+    {
+     "Sequencia": "825",
+     "cardNumber": "PTCGOCE00000000000825",
+     "dec": "1393681637339524",
+     "decInvert": "3727995875019648"
+    },
+    {
+     "Sequencia": "826",
+     "cardNumber": "PTCGOCE00000000000826",
+     "dec": "1314052943671684",
+     "decInvert": "3727995874310016"
+    },
+    {
+     "Sequencia": "827",
+     "cardNumber": "PTCGOCE00000000000827",
+     "dec": "1330811906060672",
+     "decInvert": "3615405884032461"
+    },
+    {
+     "Sequencia": "828",
+     "cardNumber": "PTCGOCE00000000000828",
+     "dec": "1367340602913156",
+     "decInvert": "3727995875091123"
+    },
+    {
+     "Sequencia": "829",
+     "cardNumber": "PTCGOCE00000000000829",
+     "dec": "1383296406417796",
+     "decInvert": "3727995874272307"
+    },
+    {
+     "Sequencia": "830",
+     "cardNumber": "PTCGOCE00000000000830",
+     "dec": "1325314347921792",
+     "decInvert": "3615405884032333"
+    },
+    {
+     "Sequencia": "831",
+     "cardNumber": "PTCGOCE00000000000831",
+     "dec": "1311690711658881",
+     "decInvert": "3643553382725427"
+    },
+    {
+     "Sequencia": "832",
+     "cardNumber": "PTCGOCE00000000000832",
+     "dec": "1274114042786176",
+     "decInvert": "3615405884758579"
+    },
+    {
+     "Sequencia": "833",
+     "cardNumber": "PTCGOCE00000000000833",
+     "dec": "1380272749441408",
+     "decInvert": "3615405884007398"
+    },
+    {
+     "Sequencia": "834",
+     "cardNumber": "PTCGOCE00000000000834",
+     "dec": "1262698019713412",
+     "decInvert": "3727995874800333"
+    },
+    {
+     "Sequencia": "835",
+     "cardNumber": "PTCGOCE00000000000835",
+     "dec": "1212558571499904",
+     "decInvert": "3615405884783360"
+    },
+    {
+     "Sequencia": "836",
+     "cardNumber": "PTCGOCE00000000000836",
+     "dec": "1215968775532929",
+     "decInvert": "3643553382624896"
+    },
+    {
+     "Sequencia": "837",
+     "cardNumber": "PTCGOCE00000000000837",
+     "dec": "1295941066584449",
+     "decInvert": "3643553382181120"
+    },
+    {
+     "Sequencia": "838",
+     "cardNumber": "PTCGOCE00000000000838",
+     "dec": "1365102924951940",
+     "decInvert": "3727995875032090"
+    },
+    {
+     "Sequencia": "839",
+     "cardNumber": "PTCGOCE00000000000839",
+     "dec": "1403225054671232",
+     "decInvert": "3615405883798221"
+    },
+    {
+     "Sequencia": "840",
+     "cardNumber": "PTCGOCE00000000000840",
+     "dec": "1228681878729093",
+     "decInvert": "3756143372575462"
+    },
+    {
+     "Sequencia": "841",
+     "cardNumber": "PTCGOCE00000000000841",
+     "dec": "1392418916954500",
+     "decInvert": "3727995874770586"
+    },
+    {
+     "Sequencia": "842",
+     "cardNumber": "PTCGOCE00000000000842",
+     "dec": "1352999707111812",
+     "decInvert": "3727995875018701"
+    },
+    {
+     "Sequencia": "843",
+     "cardNumber": "PTCGOCE00000000000843",
+     "dec": "1385903451566464",
+     "decInvert": "3615405884210688"
+    },
+    {
+     "Sequencia": "844",
+     "cardNumber": "PTCGOCE00000000000844",
+     "dec": "1236283970843009",
+     "decInvert": "3643553381747200"
+    },
+    {
+     "Sequencia": "845",
+     "cardNumber": "PTCGOCE00000000000845",
+     "dec": "1178417876464000",
+     "decInvert": "3615405884697370"
+    },
+    {
+     "Sequencia": "846",
+     "cardNumber": "PTCGOCE00000000000846",
+     "dec": "1237757144625536",
+     "decInvert": "3615405884646323"
+    },
+    {
+     "Sequencia": "847",
+     "cardNumber": "PTCGOCE00000000000847",
+     "dec": "1366992710562176",
+     "decInvert": "3615405883876019"
+    },
+    {
+     "Sequencia": "848",
+     "cardNumber": "PTCGOCE00000000000848",
+     "dec": "1304251828302208",
+     "decInvert": "3615405883769702"
+    },
+    {
+     "Sequencia": "849",
+     "cardNumber": "PTCGOCE00000000000849",
+     "dec": "1158399033897345",
+     "decInvert": "3643553382020634"
+    },
+    {
+     "Sequencia": "850",
+     "cardNumber": "PTCGOCE00000000000850",
+     "dec": "1325842628899201",
+     "decInvert": "3643553382509491"
+    },
+    {
+     "Sequencia": "851",
+     "cardNumber": "PTCGOCE00000000000851",
+     "dec": "1376879725277568",
+     "decInvert": "3615405883863142"
+    },
+    {
+     "Sequencia": "852",
+     "cardNumber": "PTCGOCE00000000000852",
+     "dec": "1221633837396356",
+     "decInvert": "3727995874216115"
+    },
+    {
+     "Sequencia": "853",
+     "cardNumber": "PTCGOCE00000000000853",
+     "dec": "1401691751346560",
+     "decInvert": "3615405884813978"
+    },
+    {
+     "Sequencia": "854",
+     "cardNumber": "PTCGOCE00000000000854",
+     "dec": "1170506546704773",
+     "decInvert": "3756143372724838"
+    },
+    {
+     "Sequencia": "855",
+     "cardNumber": "PTCGOCE00000000000855",
+     "dec": "1245659884450176",
+     "decInvert": "3615405884961075"
+    },
+    {
+     "Sequencia": "856",
+     "cardNumber": "PTCGOCE00000000000856",
+     "dec": "1207305826496900",
+     "decInvert": "3727995874163354"
+    },
+    {
+     "Sequencia": "857",
+     "cardNumber": "PTCGOCE00000000000857",
+     "dec": "1279650255630721",
+     "decInvert": "3643553382488755"
+    },
+    {
+     "Sequencia": "858",
+     "cardNumber": "PTCGOCE00000000000858",
+     "dec": "1268406031249793",
+     "decInvert": "3643553382108390"
+    },
+    {
+     "Sequencia": "859",
+     "cardNumber": "PTCGOCE00000000000859",
+     "dec": "1154378944508288",
+     "decInvert": "3615405884926182"
+    },
+    {
+     "Sequencia": "860",
+     "cardNumber": "PTCGOCE00000000000860",
+     "dec": "1387011553128836",
+     "decInvert": "3727995874908083"
+    },
+    {
+     "Sequencia": "861",
+     "cardNumber": "PTCGOCE00000000000861",
+     "dec": "1383554104455552",
+     "decInvert": "3615405883981261"
+    },
+    {
+     "Sequencia": "862",
+     "cardNumber": "PTCGOCE00000000000862",
+     "dec": "1215479149261189",
+     "decInvert": "3756143372562048"
+    },
+    {
+     "Sequencia": "863",
+     "cardNumber": "PTCGOCE00000000000863",
+     "dec": "1183477347938688",
+     "decInvert": "3615405884029030"
+    },
+    {
+     "Sequencia": "864",
+     "cardNumber": "PTCGOCE00000000000864",
+     "dec": "1149907883553153",
+     "decInvert": "3643553382485734"
+    },
+    {
+     "Sequencia": "865",
+     "cardNumber": "PTCGOCE00000000000865",
+     "dec": "1340600136528256",
+     "decInvert": "3615405883868851"
+    },
+    {
+     "Sequencia": "866",
+     "cardNumber": "PTCGOCE00000000000866",
+     "dec": "1287638894801280",
+     "decInvert": "3615405883585818"
+    },
+    {
+     "Sequencia": "867",
+     "cardNumber": "PTCGOCE00000000000867",
+     "dec": "1274766877815169",
+     "decInvert": "3643553381748096"
+    },
+    {
+     "Sequencia": "868",
+     "cardNumber": "PTCGOCE00000000000868",
+     "dec": "1246733626274177",
+     "decInvert": "3643553382592845"
+    },
+    {
+     "Sequencia": "869",
+     "cardNumber": "PTCGOCE00000000000869",
+     "dec": "1397912180126080",
+     "decInvert": "3615405884079898"
+    },
+    {
+     "Sequencia": "870",
+     "cardNumber": "PTCGOCE00000000000870",
+     "dec": "1373714334380420",
+     "decInvert": "3727995874750490"
+    },
+    {
+     "Sequencia": "871",
+     "cardNumber": "PTCGOCE00000000000871",
+     "dec": "1185611946684805",
+     "decInvert": "3756143372286106"
+    },
+    {
+     "Sequencia": "872",
+     "cardNumber": "PTCGOCE00000000000872",
+     "dec": "1215191386452357",
+     "decInvert": "3756143372122957"
+    },
+    {
+     "Sequencia": "873",
+     "cardNumber": "PTCGOCE00000000000873",
+     "dec": "1251569759449477",
+     "decInvert": "3756143372267981"
+    },
+    {
+     "Sequencia": "874",
+     "cardNumber": "PTCGOCE00000000000874",
+     "dec": "1288828600742277",
+     "decInvert": "3756143372078797"
+    },
+    {
+     "Sequencia": "875",
+     "cardNumber": "PTCGOCE00000000000875",
+     "dec": "1182395016180097",
+     "decInvert": "3643553381726285"
+    },
+    {
+     "Sequencia": "876",
+     "cardNumber": "PTCGOCE00000000000876",
+     "dec": "1155761923977601",
+     "decInvert": "3643553381352115"
+    },
+    {
+     "Sequencia": "877",
+     "cardNumber": "PTCGOCE00000000000877",
+     "dec": "1300480847016321",
+     "decInvert": "3643553382397491"
+    },
+    {
+     "Sequencia": "878",
+     "cardNumber": "PTCGOCE00000000000878",
+     "dec": "1166473572413825",
+     "decInvert": "3643553382597530"
+    },
+    {
+     "Sequencia": "879",
+     "cardNumber": "PTCGOCE00000000000879",
+     "dec": "1372348534780288",
+     "decInvert": "3615405883659878"
+    },
+    {
+     "Sequencia": "880",
+     "cardNumber": "PTCGOCE00000000000880",
+     "dec": "1273508452397440",
+     "decInvert": "3615405883834522"
+    },
+    {
+     "Sequencia": "881",
+     "cardNumber": "PTCGOCE00000000000881",
+     "dec": "1301245351195009",
+     "decInvert": "3643553381886336"
+    },
+    {
+     "Sequencia": "882",
+     "cardNumber": "PTCGOCE00000000000882",
+     "dec": "1295661893710209",
+     "decInvert": "3643553381755136"
+    },
+    {
+     "Sequencia": "883",
+     "cardNumber": "PTCGOCE00000000000883",
+     "dec": "1264914222838148",
+     "decInvert": "3727995874826598"
+    },
+    {
+     "Sequencia": "884",
+     "cardNumber": "PTCGOCE00000000000884",
+     "dec": "1343520714289536",
+     "decInvert": "3615405884969907"
+    },
+    {
+     "Sequencia": "885",
+     "cardNumber": "PTCGOCE00000000000885",
+     "dec": "1169982560694660",
+     "decInvert": "3727995874254234"
+    },
+    {
+     "Sequencia": "886",
+     "cardNumber": "PTCGOCE00000000000886",
+     "dec": "1374611982545280",
+     "decInvert": "3615405883758234"
+    },
+    {
+     "Sequencia": "887",
+     "cardNumber": "PTCGOCE00000000000887",
+     "dec": "1253515379634565",
+     "decInvert": "3756143371881370"
+    },
+    {
+     "Sequencia": "888",
+     "cardNumber": "PTCGOCE00000000000888",
+     "dec": "1377257682399620",
+     "decInvert": "3727995875124122"
+    },
+    {
+     "Sequencia": "889",
+     "cardNumber": "PTCGOCE00000000000889",
+     "dec": "1344422657421696",
+     "decInvert": "3615405884668467"
+    },
+    {
+     "Sequencia": "890",
+     "cardNumber": "PTCGOCE00000000000890",
+     "dec": "1388669410505088",
+     "decInvert": "3615405885075814"
+    },
+    {
+     "Sequencia": "891",
+     "cardNumber": "PTCGOCE00000000000891",
+     "dec": "1208624381456773",
+     "decInvert": "3756143372168678"
+    },
+    {
+     "Sequencia": "892",
+     "cardNumber": "PTCGOCE00000000000892",
+     "dec": "1132079474307457",
+     "decInvert": "3643553382124877"
+    },
+    {
+     "Sequencia": "893",
+     "cardNumber": "PTCGOCE00000000000893",
+     "dec": "1285684684681604",
+     "decInvert": "3727995874643584"
+    },
+    {
+     "Sequencia": "894",
+     "cardNumber": "PTCGOCE00000000000894",
+     "dec": "1332547072848257",
+     "decInvert": "3643553382673485"
+    },
+    {
+     "Sequencia": "895",
+     "cardNumber": "PTCGOCE00000000000895",
+     "dec": "1241772939047296",
+     "decInvert": "3615405884063155"
+    },
+    {
+     "Sequencia": "896",
+     "cardNumber": "PTCGOCE00000000000896",
+     "dec": "1373521060852100",
+     "decInvert": "3727995874455578"
+    },
+    {
+     "Sequencia": "897",
+     "cardNumber": "PTCGOCE00000000000897",
+     "dec": "1225495012995457",
+     "decInvert": "3643553382061517"
+    },
+    {
+     "Sequencia": "898",
+     "cardNumber": "PTCGOCE00000000000898",
+     "dec": "1249121628090757",
+     "decInvert": "3756143371887821"
+    },
+    {
+     "Sequencia": "899",
+     "cardNumber": "PTCGOCE00000000000899",
+     "dec": "1383103132889472",
+     "decInvert": "3615405884970829"
+    },
+    {
+     "Sequencia": "900",
+     "cardNumber": "PTCGOCE00000000000900",
+     "dec": "1377734423769476",
+     "decInvert": "3727995874173875"
+    },
+    {
+     "Sequencia": "901",
+     "cardNumber": "PTCGOCE00000000000901",
+     "dec": "1267791850926469",
+     "decInvert": "3756143371855488"
+    },
+    {
+     "Sequencia": "902",
+     "cardNumber": "PTCGOCE00000000000902",
+     "dec": "1266520540606849",
+     "decInvert": "3643553382586752"
+    },
+    {
+     "Sequencia": "903",
+     "cardNumber": "PTCGOCE00000000000903",
+     "dec": "1229442087940485",
+     "decInvert": "3756143372057754"
+    },
+    {
+     "Sequencia": "904",
+     "cardNumber": "PTCGOCE00000000000904",
+     "dec": "1239350577492352",
+     "decInvert": "3615405883722317"
+    },
+    {
+     "Sequencia": "905",
+     "cardNumber": "PTCGOCE00000000000905",
+     "dec": "1174019829952896",
+     "decInvert": "3615405884697267"
+    },
+    {
+     "Sequencia": "906",
+     "cardNumber": "PTCGOCE00000000000906",
+     "dec": "1248400073585028",
+     "decInvert": "3727995874793446"
+    },
+    {
+     "Sequencia": "907",
+     "cardNumber": "PTCGOCE00000000000907",
+     "dec": "1178568200319361",
+     "decInvert": "3643553382597811"
+    },
+    {
+     "Sequencia": "908",
+     "cardNumber": "PTCGOCE00000000000908",
+     "dec": "1244972689682821",
+     "decInvert": "3756143372267827"
+    },
+    {
+     "Sequencia": "909",
+     "cardNumber": "PTCGOCE00000000000909",
+     "dec": "1307352794689924",
+     "decInvert": "3727995874152576"
+    },
+    {
+     "Sequencia": "910",
+     "cardNumber": "PTCGOCE00000000000910",
+     "dec": "1195095234474368",
+     "decInvert": "3615405884979558"
+    },
+    {
+     "Sequencia": "911",
+     "cardNumber": "PTCGOCE00000000000911",
+     "dec": "1288978924597632",
+     "decInvert": "3615405883952845"
+    },
+    {
+     "Sequencia": "912",
+     "cardNumber": "PTCGOCE00000000000912",
+     "dec": "1237959008088449",
+     "decInvert": "3643553382625408"
+    },
+    {
+     "Sequencia": "913",
+     "cardNumber": "PTCGOCE00000000000913",
+     "dec": "1302319093019009",
+     "decInvert": "3643553381847040"
+    },
+    {
+     "Sequencia": "914",
+     "cardNumber": "PTCGOCE00000000000914",
+     "dec": "1131542603395457",
+     "decInvert": "3643553381305677"
+    },
+    {
+     "Sequencia": "915",
+     "cardNumber": "PTCGOCE00000000000915",
+     "dec": "1239363462394241",
+     "decInvert": "3643553381413043"
+    },
+    {
+     "Sequencia": "916",
+     "cardNumber": "PTCGOCE00000000000916",
+     "dec": "1204849105203585",
+     "decInvert": "3643553382434586"
+    },
+    {
+     "Sequencia": "917",
+     "cardNumber": "PTCGOCE00000000000917",
+     "dec": "1259146081759616",
+     "decInvert": "3615405883729331"
+    },
+    {
+     "Sequencia": "918",
+     "cardNumber": "PTCGOCE00000000000918",
+     "dec": "1207765387997568",
+     "decInvert": "3615405884180326"
+    },
+    {
+     "Sequencia": "919",
+     "cardNumber": "PTCGOCE00000000000919",
+     "dec": "1391293635522944",
+     "decInvert": "3615405884046976"
+    },
+    {
+     "Sequencia": "920",
+     "cardNumber": "PTCGOCE00000000000920",
+     "dec": "1204526982656384",
+     "decInvert": "3615405884272000"
+    },
+    {
+     "Sequencia": "921",
+     "cardNumber": "PTCGOCE00000000000921",
+     "dec": "1230580254273921",
+     "decInvert": "3643553381432499"
+    },
+    {
+     "Sequencia": "922",
+     "cardNumber": "PTCGOCE00000000000922",
+     "dec": "1249100153254277",
+     "decInvert": "3756143371855053"
+    },
+    {
+     "Sequencia": "923",
+     "cardNumber": "PTCGOCE00000000000923",
+     "dec": "1221346074587520",
+     "decInvert": "3615405884770458"
+    },
+    {
+     "Sequencia": "924",
+     "cardNumber": "PTCGOCE00000000000924",
+     "dec": "1182631239381376",
+     "decInvert": "3615405884415667"
+    },
+    {
+     "Sequencia": "925",
+     "cardNumber": "PTCGOCE00000000000925",
+     "dec": "1178868848030084",
+     "decInvert": "3727995874392064"
+    },
+    {
+     "Sequencia": "926",
+     "cardNumber": "PTCGOCE00000000000926",
+     "dec": "1344942348464512",
+     "decInvert": "3615405883783757"
+    },
+    {
+     "Sequencia": "927",
+     "cardNumber": "PTCGOCE00000000000927",
+     "dec": "1241425046696324",
+     "decInvert": "3727995874216576"
+    },
+    {
+     "Sequencia": "928",
+     "cardNumber": "PTCGOCE00000000000928",
+     "dec": "1287402671600000",
+     "decInvert": "3615405884903066"
+    },
+    {
+     "Sequencia": "929",
+     "cardNumber": "PTCGOCE00000000000929",
+     "dec": "1169797877100928",
+     "decInvert": "3615405884965862"
+    },
+    {
+     "Sequencia": "930",
+     "cardNumber": "PTCGOCE00000000000930",
+     "dec": "1353476448481664",
+     "decInvert": "3615405885061888"
+    },
+    {
+     "Sequencia": "931",
+     "cardNumber": "PTCGOCE00000000000931",
+     "dec": "1353802865996164",
+     "decInvert": "3727995874566528"
+    },
+    {
+     "Sequencia": "932",
+     "cardNumber": "PTCGOCE00000000000932",
+     "dec": "1267053116551552",
+     "decInvert": "3615405884050637"
+    },
+    {
+     "Sequencia": "933",
+     "cardNumber": "PTCGOCE00000000000933",
+     "dec": "1377747308671364",
+     "decInvert": "3727995874193536"
+    },
+    {
+     "Sequencia": "934",
+     "cardNumber": "PTCGOCE00000000000934",
+     "dec": "1195962817868161",
+     "decInvert": "3643553382296755"
+    },
+    {
+     "Sequencia": "935",
+     "cardNumber": "PTCGOCE00000000000935",
+     "dec": "1287926657610112",
+     "decInvert": "3615405884024909"
+    },
+    {
+     "Sequencia": "936",
+     "cardNumber": "PTCGOCE00000000000936",
+     "dec": "1313941274521989",
+     "decInvert": "3756143371810688"
+    },
+    {
+     "Sequencia": "937",
+     "cardNumber": "PTCGOCE00000000000937",
+     "dec": "1196985020084608",
+     "decInvert": "3615405884507750"
+    },
+    {
+     "Sequencia": "938",
+     "cardNumber": "PTCGOCE00000000000938",
+     "dec": "1214822019264896",
+     "decInvert": "3615405884881715"
+    },
+    {
+     "Sequencia": "939",
+     "cardNumber": "PTCGOCE00000000000939",
+     "dec": "1321624971014533",
+     "decInvert": "3756143371791206"
+    },
+    {
+     "Sequencia": "940",
+     "cardNumber": "PTCGOCE00000000000940",
+     "dec": "1198367999553920",
+     "decInvert": "3615405884940314"
+    },
+    {
+     "Sequencia": "941",
+     "cardNumber": "PTCGOCE00000000000941",
+     "dec": "1198930640269701",
+     "decInvert": "3756143372476467"
+    },
+    {
+     "Sequencia": "942",
+     "cardNumber": "PTCGOCE00000000000942",
+     "dec": "1143353763459456",
+     "decInvert": "3615405884880051"
+    },
+    {
+     "Sequencia": "943",
+     "cardNumber": "PTCGOCE00000000000943",
+     "dec": "1208804770083201",
+     "decInvert": "3643553381759667"
+    },
+    {
+     "Sequencia": "944",
+     "cardNumber": "PTCGOCE00000000000944",
+     "dec": "1154675297251717",
+     "decInvert": "3756143372056013"
+    },
+    {
+     "Sequencia": "945",
+     "cardNumber": "PTCGOCE00000000000945",
+     "dec": "1356843702841732",
+     "decInvert": "3727995874173389"
+    },
+    {
+     "Sequencia": "946",
+     "cardNumber": "PTCGOCE00000000000946",
+     "dec": "1171481504280965",
+     "decInvert": "3756143372534810"
+    },
+    {
+     "Sequencia": "947",
+     "cardNumber": "PTCGOCE00000000000947",
+     "dec": "1327822608822657",
+     "decInvert": "3643553382175309"
+    },
+    {
+     "Sequencia": "948",
+     "cardNumber": "PTCGOCE00000000000948",
+     "dec": "1244946919879045",
+     "decInvert": "3756143372228506"
+    },
+    {
+     "Sequencia": "949",
+     "cardNumber": "PTCGOCE00000000000949",
+     "dec": "1392590715646340",
+     "decInvert": "3727995875032730"
+    },
+    {
+     "Sequencia": "950",
+     "cardNumber": "PTCGOCE00000000000950",
+     "dec": "1344083355005316",
+     "decInvert": "3727995874834995"
+    },
+    {
+     "Sequencia": "951",
+     "cardNumber": "PTCGOCE00000000000951",
+     "dec": "1374637752349056",
+     "decInvert": "3615405883797555"
+    },
+    {
+     "Sequencia": "952",
+     "cardNumber": "PTCGOCE00000000000952",
+     "dec": "1143233504375168",
+     "decInvert": "3615405884696550"
+    },
+    {
+     "Sequencia": "953",
+     "cardNumber": "PTCGOCE00000000000953",
+     "dec": "1309568997814660",
+     "decInvert": "3727995874178842"
+    },
+    {
+     "Sequencia": "954",
+     "cardNumber": "PTCGOCE00000000000954",
+     "dec": "1242597572768132",
+     "decInvert": "3727995874328013"
+    },
+    {
+     "Sequencia": "955",
+     "cardNumber": "PTCGOCE00000000000955",
+     "dec": "1154370354573696",
+     "decInvert": "3615405884913075"
+    },
+    {
+     "Sequencia": "956",
+     "cardNumber": "PTCGOCE00000000000956",
+     "dec": "1246140920787328",
+     "decInvert": "3615405884017382"
+    },
+    {
+     "Sequencia": "957",
+     "cardNumber": "PTCGOCE00000000000957",
+     "dec": "1278112657338756",
+     "decInvert": "3727995874833459"
+    },
+    {
+     "Sequencia": "958",
+     "cardNumber": "PTCGOCE00000000000958",
+     "dec": "1320456739910017",
+     "decInvert": "3643553382679757"
+    },
+    {
+     "Sequencia": "959",
+     "cardNumber": "PTCGOCE00000000000959",
+     "dec": "1234712012812673",
+     "decInvert": "3643553382703974"
+    },
+    {
+     "Sequencia": "960",
+     "cardNumber": "PTCGOCE00000000000960",
+     "dec": "1280985990459780",
+     "decInvert": "3727995874184730"
+    },
+    {
+     "Sequencia": "961",
+     "cardNumber": "PTCGOCE00000000000961",
+     "dec": "1228462835396996",
+     "decInvert": "3727995874570163"
+    },
+    {
+     "Sequencia": "962",
+     "cardNumber": "PTCGOCE00000000000962",
+     "dec": "1235390617645441",
+     "decInvert": "3643553382061747"
+    },
+    {
+     "Sequencia": "963",
+     "cardNumber": "PTCGOCE00000000000963",
+     "dec": "1289193672962436",
+     "decInvert": "3727995874964787"
+    },
+    {
+     "Sequencia": "964",
+     "cardNumber": "PTCGOCE00000000000964",
+     "dec": "1344263743631748",
+     "decInvert": "3727995875110246"
+    },
+    {
+     "Sequencia": "965",
+     "cardNumber": "PTCGOCE00000000000965",
+     "dec": "1340973798683012",
+     "decInvert": "3727995875123277"
+    },
+    {
+     "Sequencia": "966",
+     "cardNumber": "PTCGOCE00000000000966",
+     "dec": "1309487393436033",
+     "decInvert": "3643553382718822"
+    },
+    {
+     "Sequencia": "967",
+     "cardNumber": "PTCGOCE00000000000967",
+     "dec": "1205982976569729",
+     "decInvert": "3643553382487040"
+    },
+    {
+     "Sequencia": "968",
+     "cardNumber": "PTCGOCE00000000000968",
+     "dec": "1251883292062081",
+     "decInvert": "3643553382062131"
+    },
+    {
+     "Sequencia": "969",
+     "cardNumber": "PTCGOCE00000000000969",
+     "dec": "1218657425060224",
+     "decInvert": "3615405884023296"
+    },
+    {
+     "Sequencia": "970",
+     "cardNumber": "PTCGOCE00000000000970",
+     "dec": "1204857695138176",
+     "decInvert": "3615405884776627"
+    },
+    {
+     "Sequencia": "971",
+     "cardNumber": "PTCGOCE00000000000971",
+     "dec": "1178971927245185",
+     "decInvert": "3643553381536154"
+    },
+    {
+     "Sequencia": "972",
+     "cardNumber": "PTCGOCE00000000000972",
+     "dec": "1375647069663616",
+     "decInvert": "3615405883659955"
+    },
+    {
+     "Sequencia": "973",
+     "cardNumber": "PTCGOCE00000000000973",
+     "dec": "1328840516071812",
+     "decInvert": "3727995875064013"
+    },
+    {
+     "Sequencia": "974",
+     "cardNumber": "PTCGOCE00000000000974",
+     "dec": "1188433740198272",
+     "decInvert": "3615405884881101"
+    },
+    {
+     "Sequencia": "975",
+     "cardNumber": "PTCGOCE00000000000975",
+     "dec": "1223437723660672",
+     "decInvert": "3615405884606669"
+    },
+    {
+     "Sequencia": "976",
+     "cardNumber": "PTCGOCE00000000000976",
+     "dec": "1278920111190404",
+     "decInvert": "3727995874387840"
+    },
+    {
+     "Sequencia": "977",
+     "cardNumber": "PTCGOCE00000000000977",
+     "dec": "1281754789605761",
+     "decInvert": "3643553382344627"
+    },
+    {
+     "Sequencia": "978",
+     "cardNumber": "PTCGOCE00000000000978",
+     "dec": "1320486804681088",
+     "decInvert": "3615405885054566"
+    },
+    {
+     "Sequencia": "979",
+     "cardNumber": "PTCGOCE00000000000979",
+     "dec": "1341463424954756",
+     "decInvert": "3727995874192691"
+    },
+    {
+     "Sequencia": "980",
+     "cardNumber": "PTCGOCE00000000000980",
+     "dec": "1157733313966465",
+     "decInvert": "3643553382682522"
+    },
+    {
+     "Sequencia": "981",
+     "cardNumber": "PTCGOCE00000000000981",
+     "dec": "1266709519167877",
+     "decInvert": "3756143371881677"
+    },
+    {
+     "Sequencia": "982",
+     "cardNumber": "PTCGOCE00000000000982",
+     "dec": "1240007707488641",
+     "decInvert": "3643553382396083"
+    },
+    {
+     "Sequencia": "983",
+     "cardNumber": "PTCGOCE00000000000983",
+     "dec": "1198264920338816",
+     "decInvert": "3615405884783027"
+    },
+    {
+     "Sequencia": "984",
+     "cardNumber": "PTCGOCE00000000000984",
+     "dec": "1309242580300161",
+     "decInvert": "3643553382345267"
+    },
+    {
+     "Sequencia": "985",
+     "cardNumber": "PTCGOCE00000000000985",
+     "dec": "1349374754713988",
+     "decInvert": "3727995874520550"
+    },
+    {
+     "Sequencia": "986",
+     "cardNumber": "PTCGOCE00000000000986",
+     "dec": "1215977365467521",
+     "decInvert": "3643553382638003"
+    },
+    {
+     "Sequencia": "987",
+     "cardNumber": "PTCGOCE00000000000987",
+     "dec": "1262049739567232",
+     "decInvert": "3615240125910093"
+    },
+    {
+     "Sequencia": "988",
+     "cardNumber": "PTCGOCE00000000000988",
+     "dec": "1206588566958464",
+     "decInvert": "3615405884062336"
+    },
+    {
+     "Sequencia": "989",
+     "cardNumber": "PTCGOCE00000000000989",
+     "dec": "1169093502464385",
+     "decInvert": "3643553381562138"
+    },
+    {
+     "Sequencia": "990",
+     "cardNumber": "PTCGOCE00000000000990",
+     "dec": "1269939334574468",
+     "decInvert": "3727995874105830"
+    },
+    {
+     "Sequencia": "991",
+     "cardNumber": "PTCGOCE00000000000991",
+     "dec": "1244633387266433",
+     "decInvert": "3643553382743526"
+    },
+    {
+     "Sequencia": "992",
+     "cardNumber": "PTCGOCE00000000000992",
+     "dec": "1332362389254528",
+     "decInvert": "3615405884720614"
+    },
+    {
+     "Sequencia": "993",
+     "cardNumber": "PTCGOCE00000000000993",
+     "dec": "1394626530144640",
+     "decInvert": "3615405884099482"
+    },
+    {
+     "Sequencia": "994",
+     "cardNumber": "PTCGOCE00000000000994",
+     "dec": "1127681427796353",
+     "decInvert": "3643553382124774"
+    },
+    {
+     "Sequencia": "995",
+     "cardNumber": "PTCGOCE00000000000995",
+     "dec": "1171593173430657",
+     "decInvert": "3643553382020941"
+    },
+    {
+     "Sequencia": "996",
+     "cardNumber": "PTCGOCE00000000000996",
+     "dec": "1327552025883012",
+     "decInvert": "3727995874775629"
+    },
+    {
+     "Sequencia": "997",
+     "cardNumber": "PTCGOCE00000000000997",
+     "dec": "1284147086389632",
+     "decInvert": "3615405884968525"
+    }
+   ]

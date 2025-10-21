@@ -1,0 +1,75 @@
+{
+  "version": "2.2",
+  "endpoints": [
+    {
+      "identifier": "credentials",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/2.2/credentials"
+    },
+    {
+      "identifier": "tokens",
+      "role": "RECEIVER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/cpo/2.2/tokens"
+    },
+    {
+      "identifier": "tokens",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/tokens"
+    },
+    {
+      "identifier": "tariffs",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/cpo/2.2/tariffs"
+    },
+    {
+      "identifier": "tariffs",
+      "role": "RECEIVER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/tariffs"
+    },
+    {
+      "identifier": "sessions",
+      "role": "RECEIVER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/sessions"
+    },
+    {
+      "identifier": "sessions",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/cpo/2.2/sessions"
+    },
+    {
+      "identifier": "commands",
+      "role": "RECEIVER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/cpo/2.2/commands"
+    },
+    {
+      "identifier": "commands",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/commands"
+    },
+    {
+      "identifier": "locations",
+      "role": "RECEIVER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/locations"
+    },
+    {
+      "identifier": "locations",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/cpo/2.2/locations"
+    },
+    {
+      "identifier": "cdrs",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/cdrs"
+    },
+    {
+      "identifier": "cdrs",
+      "role": "RECEIVER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/emsp/2.2/cdrs"
+    },
+    {
+      "identifier": "hubclientinfo",
+      "role": "SENDER",
+      "url": "http://testing-tool-ocpi-22:3020/ocpi/hub/2.2/clientinfo"
+    }
+  ]
+}

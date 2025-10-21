@@ -1,0 +1,37 @@
+[
+    {
+        "evType": "motorcycle",
+        "showLicense": true,
+        "translationKey": "evType_motorcycle"
+    },
+    {
+        "evType": "bicycle",
+        "showLicense": true,
+        "translationKey": "evType_bicycle"
+    },
+    {
+        "evType": "electricScooter",
+        "showLicense": true,
+        "translationKey": "evType_electricScooter"
+    },
+    {
+        "evType": "truck",
+        "showLicense": true,
+        "translationKey": "evType_truck"
+    },
+    {
+        "evType": "boat",
+        "showLicense": true,
+        "translationKey": "evType_boat"
+    },
+    {
+        "evType": "plane",
+        "showLicense": true,
+        "translationKey": "evType_plane"
+    },
+    {
+        "evType": "otherEv",
+        "showLicense": false,
+        "translationKey": "evType_otherEV"
+    }
+]

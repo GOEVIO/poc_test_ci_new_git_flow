@@ -1,0 +1,92 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: oicp-full-pull-evse-data
+  namespace: cronjob
+spec:
+  schedule: "0 0 * * *" 
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 1
+  failedJobsHistoryLimit: 1
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: oicp-full-pull-evse-data
+            image: 348090157910.dkr.ecr.eu-west-1.amazonaws.com/curl:latest
+            args:
+            - /bin/sh
+            - -ec
+            - curl -X POST http://oicp.backend.svc.cluster.local:3102/oicp/evse/job/full
+          restartPolicy: Never
+---
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: oicp-pull-evse-status
+  namespace: cronjob
+spec:
+  schedule: "*/5 * * * *" 
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 1
+  failedJobsHistoryLimit: 1
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: oicp-pull-evse-status
+            image: 348090157910.dkr.ecr.eu-west-1.amazonaws.com/curl:latest
+            args:
+            - /bin/sh
+            - -ec
+            - curl -X POST http://oicp.backend.svc.cluster.local:3102/oicp/evse/job/status
+          restartPolicy: Never
+---
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: oicp-full-pull-pricing-product-data
+  namespace: cronjob
+spec:
+  schedule: "0 * * * *" 
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 1
+  failedJobsHistoryLimit: 1
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: oicp-full-pull-pricing-product-data
+            image: 348090157910.dkr.ecr.eu-west-1.amazonaws.com/curl:latest
+            args:
+            - /bin/sh
+            - -ec
+            - curl -X POST http://oicp.backend.svc.cluster.local:3102/oicp/tariff/job/pricingProductData/full
+          restartPolicy: Never
+---
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: oicp-full-pull-evse-pricing
+  namespace: cronjob
+spec:
+  schedule: "30 * * * *" 
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 1
+  failedJobsHistoryLimit: 1
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: oicp-full-pull-evse-pricing
+            image: 348090157910.dkr.ecr.eu-west-1.amazonaws.com/curl:latest
+            args:
+            - /bin/sh
+            - -ec
+            - curl -X POST http://oicp.backend.svc.cluster.local:3102/oicp/tariff/job/evsePricing/full
+          restartPolicy: Never
+---

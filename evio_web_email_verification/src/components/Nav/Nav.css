@@ -1,0 +1,4 @@
+.nav {
+    width: 100%;
+    padding: calc(var(--unit) * 3);
+}

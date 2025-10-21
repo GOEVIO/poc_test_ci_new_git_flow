@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ocpp15
+  namespace: backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ocpp15
+  template:
+    metadata:
+      labels:
+        app: ocpp15
+    spec:
+      containers:
+        - name: ocpp15
+          image: image
+          ports:
+            - containerPort: 3104
+          resources:
+            limits:
+              cpu: "150m"
+              memory: "300Mi"
+            requests:
+              cpu: "90m"
+              memory: "120Mi"
+          args:
+            - npm
+            - run
+            - start:prod
+          envFrom:
+            - configMapRef:
+                name: ocpp15
+            - configMapRef:
+                name: shared-envs
+            - secretRef:
+                name: shared-secrets

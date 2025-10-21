@@ -1,0 +1,5 @@
+API_TITLE=EVIO platform
+API_DESCRIPTION=Backend EVIO Platform Service
+API_PORT=3100
+
+OCPP_SERVER_URL=http://ocpp-j-16:3018

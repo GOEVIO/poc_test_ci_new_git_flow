@@ -1,0 +1,24 @@
+networks:
+  evio_network:
+
+services:
+  assets:
+    image: assets
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    container_name: assets
+    network_mode: host
+    restart: always
+    build:
+      context: ../
+      dockerfile: assets/Dockerfile
+    environment:
+      - DB_URI=${DB_URI}
+      - NODE_ENV=development
+      - SERVICE_NAME=assets
+      - FLAGSMITH_API_HOST=${FLAGSMITH_API_HOST}
+      - FLAGSMITH_ENVIRONMENT_KEY=${FLAGSMITH_ENVIRONMENT_KEY}
+    ports:
+      - 3103:3103
+    command: npm run start:prod

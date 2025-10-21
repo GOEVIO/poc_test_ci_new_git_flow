@@ -1,0 +1,5 @@
+export { default as app } from './app.config'
+export { default as db } from './db.config'
+export { default as ssh } from './ssh.config'
+export { default as serviceUrl } from './service-url.config'
+export { default as oicp } from './oicp.config'

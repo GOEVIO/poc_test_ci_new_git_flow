@@ -1,0 +1,14 @@
+[
+    {
+        "paymentMethod": "Transfer",
+        "translationKey": "paymentMethod_type_transfer"
+    },
+    {
+        "paymentMethod": "Wallet",
+        "translationKey": "paymentMethod_type_wallet"
+    },
+    {
+        "paymentMethod": "Card",
+        "translationKey": "paymentMethod_type_card"
+    }
+]

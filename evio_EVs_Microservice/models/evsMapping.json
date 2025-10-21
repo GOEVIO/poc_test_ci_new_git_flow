@@ -1,0 +1,15 @@
+{
+    "connectorType": {
+        "CCS 1": "",
+        "CCS 2": "",
+        "CHADEMO": "",
+        "J1772": "",
+        "SCHUKO EU": "",
+        "TYPE 2": "TYPE 2",
+        "TESLA": "",
+        "TESLA R": "",
+        "NEMA 5-15": "",
+        "TYPE 3C": "",
+        "TYPE 3A": ""
+    }
+}

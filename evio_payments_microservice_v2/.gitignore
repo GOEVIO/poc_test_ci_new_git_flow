@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+**/node_modules
+package-lock.json
+yarn.lock
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/coverage
+/.nyc_output
+
+# build
+/build
+
+/local-npm-packages

@@ -1,0 +1,64 @@
+{
+  "name": "notifications_firebase_wl_microservice",
+  "version": "1.0.0",
+  "description": "Microservice for notifications firebase wl",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint app.js",
+    "preinstall": "npm i nodemon -g",
+    "start": "nodemon app.js",
+    "start:prod": "node app.js",
+    "test": "mocha tests/**/*Tests.js"
+  },
+  "author": "EVIO",
+  "license": "ISC",
+  "dependencies": {
+    "@types/moment-duration-format": "^2.2.2",
+    "axios": "^0.21.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv-safe": "^6.1.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.5.1",
+    "firebase-admin": "^12.6.0",
+    "handlebars": "^4.7.7",
+    "helmet": "^3.21.1",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "ldapjs": "^1.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.13.9",
+    "morgan": "^1.9.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.11",
+    "nodemailer-plugin-inline-base64": "^2.1.1",
+    "nodemon": "^2.0.3",
+    "pdfkit": "^0.12.1",
+    "twilio": "^3.39.2",
+    "uuid": "^3.3.2",
+    "evio-library-notifications": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "should": "^13.2.3",
+    "sinon": "^7.2.7"
+  },
+  "nodemonConfig": {
+    "restartable": "rs",
+    "ignore": [
+      "node_modules/**/node_modules"
+    ],
+    "delay": "2500",
+    "env": {
+      "PORT": 3032,
+      "PORT_DEV": 3032
+    }
+  }
+}

@@ -1,0 +1,7 @@
+const RESPONSE_CODES = {
+    GENERIC_SUCCESS: 1000,
+    INVALID_PARAMS: 2001,
+    CLIENT_ERROR: 2000,
+};
+
+module.exports = RESPONSE_CODES;

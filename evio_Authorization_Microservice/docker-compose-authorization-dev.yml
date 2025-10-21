@@ -1,0 +1,23 @@
+version: "2.0"
+
+networks:
+  evio_network:
+
+services:
+  authorization:
+    image: authorization
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    container_name: authorization
+    networks:
+      - evio_network
+    restart: always
+    build: "./"
+    environment:
+      - NODE_ENV=pre
+      - TRACES_SAMPLE_RATE=0.1
+      - PROFILES_SAMPLE_RATE=0.1
+    ports:
+      - 3001:3001
+    command: npm run start:prod

@@ -1,0 +1,26 @@
+{
+    "chargers": {
+        "002": {
+            "manufacturer":"evio",
+            "model":"EVIO Device",
+            "protocol": "Mqtt",
+            "host": "http://sonoff-connection:3010",
+            "path": "evio_device",
+            "actions": {
+                "Start": true,
+                "Stop": true
+            }
+        },
+        "001": {
+            "manufacturer":"siemens",
+            "model":"xxx",
+            "protocol": "SOAP",
+            "host": "http://siemens:3009",
+            "path": "siemens_protocol",
+            "actions": {
+                "Start": true,
+                "Stop": true
+            }
+        }
+    }
+}

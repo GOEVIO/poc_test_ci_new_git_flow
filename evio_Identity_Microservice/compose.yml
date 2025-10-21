@@ -1,0 +1,67 @@
+volumes:
+  user:
+  users:
+  groupDrivers:
+  groupCSUsers:
+  node-modules-evio-identity:
+  logs-volume:
+
+networks:
+  evio_network:
+
+services:
+  identity_filebeat_sidecar:
+    image: docker.elastic.co/beats/filebeat:7.7.0
+    platform: linux/amd64
+    container_name: identity_filebeat_sidecar
+    command: filebeat -e -strict.perms=false
+    network_mode: "host"
+    volumes:
+      - ./filebeat/config-dev.yml:/usr/share/filebeat/filebeat.yml
+      - type: volume
+        source: logs-volume
+        target: /var/log/service
+    environment:
+      - LDAP_HOST=ldap://localhost:1041
+      - DB_URI=mongodb://localhost:27017
+      - LOGSTASH_HOSTS=http://localhost:9600
+  identity:
+    image: identity
+    volumes:
+      - type: volume
+        source: logs-volume
+        target: /usr/src/app/logs
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./data/img/user:/usr/src/app/img/users
+      - ./data/img/groupDrivers:/usr/src/app/img/groupDrivers
+      - ./data/img/groupCSUsers:/usr/src/app/img/groupCSUsers
+      - ./data/files/acp:/usr/src/app/files/acp
+    container_name: identity
+    network_mode: "host"
+    restart: always
+    build:
+      context: ../
+      dockerfile: evio_Identity_Microservice/Dockerfile
+    environment:
+      - LDAP_HOST=ldap://localhost:1041
+      - DB_URI=${DB_URI}
+      - SERVICE_NAME=identity
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - NODE_ENV=development
+      - clientNameKinto=KINTO
+      - sentinelHost1=redis-sentinel1
+      - sentinelHost2=redis-sentinel2
+      - sentinelHost3=redis-sentinel3
+      - HostToken=https://demoidgo.rigorcg.pt/api/v1
+      - UserNameWebserviceGoCharge=gocharge
+      - UserNameWebserviceGoCharge=b5e9a175ee92df9b782bbb33b1b2bd5ff7e48235fa1081a84b43125bbffc5fb30f61c3b5cc7569a90f7947cc6327bad73493
+      - dbIdentityName=identityDB
+      - collectionGroupCSUserName=groupcsusers
+      - collectionUsersName=users
+      - collectionGroupDriverName=groupdrivers
+      - FLAGSMITH_API_HOST=${FLAGSMITH_API_HOST}
+      - FLAGSMITH_ENVIRONMENT_KEY=${FLAGSMITH_ENVIRONMENT_KEY}
+    ports:
+      - 3003:3003
+    command: npm run start:prod

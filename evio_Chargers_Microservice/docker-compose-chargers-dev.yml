@@ -1,0 +1,27 @@
+version: "3.2"
+
+networks:
+  evio_network:
+
+services:
+  chargers:
+    image: chargers
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    container_name: chargers
+    network_mode: host
+    restart: always
+    build:
+      context: ../
+      dockerfile: evio_Chargers_Microservice/Dockerfile
+    environment:
+      - LDAP_HOST=ldap://localhost:1041
+      - DB_URI=mongodb://localhost:27017/{database}?directConnection=true
+      - NODE_ENV=development
+      - MONGODB_HOST=localhost
+      - MONGODB_PORT=27017
+      - SERVICE_NAME=chargers
+    ports:
+      - 3002:3002
+    command: npm run start:prod

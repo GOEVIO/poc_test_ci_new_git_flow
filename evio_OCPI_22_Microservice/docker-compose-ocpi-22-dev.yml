@@ -1,0 +1,21 @@
+version: "3.2"
+
+services:
+  ocpi-22:
+    image: ocpi-22
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    container_name: ocpi-22
+    network_mode: host
+    restart: always
+    build:
+      context: ../
+      dockerfile: evio_OCPI_22_Microservice/Dockerfile
+    environment:
+      - NODE_ENV=development
+      - DB_URI=mongodb://localhost:27017/{database}?directConnection=true
+    ports:
+      - 3019:3019
+    command: npm run start
+   

@@ -1,0 +1,61 @@
+openapi: 3.0.0
+info:
+  title: EVIO Payments API's
+  version: 1.0.0
+  description: APIs for the EVIO Payments Microservice
+servers:
+  - url: http://localhost:3000
+  
+
+paths:
+  /api/private/payments/adyen/prepayment:
+    post:
+      tags:
+      - External
+      description: |
+        This endpoint will serve to create a new Pre PreAuthorizations.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PreAuthorizationsRequest'
+      responses:
+        '200':
+          description: Successful
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    description: Error message
+      security:
+        - bearerAuth: []
+
+
+components:  
+  schemas:
+    PreAuthorizationsRequest:
+      type: object
+    PreAuthorizations:
+      type: object
+      properties:
+        token:
+          type: string
+          description: The token
+      required:
+        - token
+
+
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+
+
+
+

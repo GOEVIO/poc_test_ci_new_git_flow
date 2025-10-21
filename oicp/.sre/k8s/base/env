@@ -1,0 +1,14 @@
+API_TITLE=OICP
+API_DESCRIPTION=OICP Service
+API_PORT=3102
+
+CHARGING_PLATFORM_URL=http://charging-platform:3100
+PAYMENTS_SERVICE_URL=http://payments:3017
+BILLING_SERVICE_URL=http://billing:3030
+HUBJECT_API_URL=https://service-qa.hubject.com/api/oicp
+NODE_OPTIONS=--openssl-legacy-provider
+FLAGSMITH_API_HOST=https://flagsmith.go-evio.com
+
+OICP_PROVIDER_ID=PT-EVI
+
+DB_NAME=oicpDB

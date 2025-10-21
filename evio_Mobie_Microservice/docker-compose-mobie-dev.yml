@@ -1,0 +1,26 @@
+version: "2.0"
+
+volumes:
+  node-modules-evio-mobie:
+
+networks:
+  evio_network:
+
+services:
+  Mobie:
+    image: mobie
+    container_name: mobie
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./evio_Mobie_Microservice/:/usr/src/app
+      - node-modules-evio-mobie:/usr/src/app/node_modules
+    networks:
+      - evio_network
+    restart: always
+    build: "./"
+    environment:
+      - NODE_ENV=development
+    ports:
+      - 8087:8087
+    command: npm run start
