@@ -1,0 +1,16 @@
+{
+  "services": [
+    {
+      "name": "identity",
+      "pipeline": { "dev": "evio-identity-dev", "qa": "evio-identity-qa", "prod": "evio-identity-prod" }
+    },
+    {
+      "name": "filesapi",
+      "pipeline": { "dev": "evio-filesapi-dev", "qa": "evio-filesapi-qa", "prod": "evio-filesapi-prod" }
+    },
+    {
+      "name": "backend",
+      "pipeline": { "dev": "evio-backend-dev", "qa": "evio-backend-qa", "prod": "evio-backend-prod" }
+    }
+  ]
+}
