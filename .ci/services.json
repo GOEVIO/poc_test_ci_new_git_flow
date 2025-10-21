@@ -2,7 +2,7 @@
   "services": [
     {
       "name": "identity",
-      "pipeline": { "dev": "evio-identity-dev", "qa": "evio-identity-qa", "prod": "evio-identity-prod" }
+      "pipeline": "identity"
     },
     {
       "name": "filesapi",
