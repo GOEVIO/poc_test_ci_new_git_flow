@@ -2,15 +2,11 @@ name: Deploy (manual) to Dev/QA
 on:
   workflow_dispatch:
     inputs:
-      branch:
-        description: "Branch a implantar"
-        required: true
-        default: "eks-develop"
       environment:
         description: "Ambiente de destino"
-        required: true
         type: choice
         options: [development, qa]
+        required: true
         default: development
       services:
         description: "Serviços (all ou lista)"
@@ -24,15 +20,28 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout the selected ref from UI
+        uses: actions/checkout@v4
         with:
-          ref: ${{ inputs.branch }}
-      - uses: aws-actions/configure-aws-credentials@v4
+          ref: ${{ github.ref }}           # <- a mesma ref escolhida em "Use workflow from"
+      - name: Configure AWS
+        uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::123456789012:role/github-oidc-role
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
           aws-region: eu-west-1
-      - run: sudo apt-get update -y && sudo apt-get install -y jq
-      - run: .ci/trigger_cd.sh ${{ inputs.environment }}
+      - name: Install jq
+        run: sudo apt-get update -y && sudo apt-get install -y jq
+      - name: Normalize env and trigger CD
         env:
           SERVICES: ${{ inputs.services }}
+          TARGET_ENV: ${{ inputs.environment }}
+        run: |
+          set -e
+          # normalizar 'development' -> 'dev' (se os pipelines usam 'dev')
+          ENV_NORM="$TARGET_ENV"
+          [[ "$ENV_NORM" == "development" ]] && ENV_NORM="dev"
+          chmod +x .ci/trigger_cd.sh
+          .ci/trigger_cd.sh "$ENV_NORM"
+          echo "Done deploying to $ENV_NORM"
