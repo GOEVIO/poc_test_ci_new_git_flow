@@ -6,11 +6,14 @@ on:
       environment:
         description: "Ambiente de destino"
         type: choice
-        options: [dev, qa]
-        default: dev
+        options: [development, qa]   # 'development' será normalizado para 'dev'
+        default: development
       services:
         description: "Serviços (all ou lista separada por vírgulas)"
         default: "all"
+      diff_base:
+        description: "Base para diff quando services=all"
+        default: "master"
 
 permissions:
   id-token: write
@@ -23,10 +26,11 @@ jobs:
     environment: ${{ inputs.environment }}
 
     steps:
-      - name: Checkout ref selecionada no UI
+      - name: Checkout (branch escolhida no UI)
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
+          fetch-depth: 0
 
       - name: Configurar AWS (OIDC)
         uses: aws-actions/configure-aws-credentials@v4
@@ -34,56 +38,14 @@ jobs:
           role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
           aws-region: eu-west-1
 
-      - name: Who am I (debug)
-        run: aws sts get-caller-identity
-
-      - name: Instalar jq
+      - name: Dependências (jq)
         run: sudo apt-get update -y && sudo apt-get install -y jq
 
-      - name: Disparar pipelines existentes (override Source) — formato novo
+      - name: Resolver serviços e fazer deploy
         env:
-          GIT_SHA: ${{ github.sha }}         # commit exato da branch escolhida no UI
-          ENV: ${{ inputs.environment }}     # dev|qa (só para approvals do Actions)
-          SERVICES: ${{ inputs.services }}   # all ou "svcA,svcB"
+          INPUT_ENV: ${{ inputs.environment }}
+          INPUT_SERVICES: ${{ inputs.services }}
+          DIFF_BASE: ${{ inputs.diff_base }}
+          GIT_SHA: ${{ github.sha }}
         run: |
-          set -euo pipefail
-
-          test -f .ci/services.json || { echo "Falta .ci/services.json"; exit 1; }
-          jq . .ci/services.json > /dev/null
-
-          # obter lista de serviços a partir do JSON
-          if [ "$SERVICES" = "all" ]; then
-            mapfile -t SERVICES_LIST < <(jq -r '.services[].name' .ci/services.json)
-          else
-            # normalizar vírgulas → espaços
-            read -ra WANT <<<"$(echo "$SERVICES" | tr ',' ' ')"
-            # interseção entre WANT e os que existem no ficheiro
-            mapfile -t EXISTING < <(jq -r '.services[].name' .ci/services.json)
-            SERVICES_LIST=()
-            for w in "${WANT[@]}"; do
-              for e in "${EXISTING[@]}"; do
-                if [ "$w" = "$e" ]; then SERVICES_LIST+=("$w"); fi
-              done
-            done
-          fi
-
-          if [ ${#SERVICES_LIST[@]} -eq 0 ]; then
-            echo "Nenhum serviço para implantar."; exit 0
-          fi
-
-          echo "Deploy do commit $GIT_SHA (env=$ENV) para serviços: ${SERVICES_LIST[*]}"
-
-          for SVC in "${SERVICES_LIST[@]}"; do
-            PIPELINE=$(jq -r --arg s "$SVC" '.services[] | select(.name==$s) | .pipeline' .ci/services.json)
-
-            if [ -z "$PIPELINE" ] || [ "$PIPELINE" = "null" ]; then
-              echo "[WARN] Sem pipeline mapeada para $SVC. A saltar."
-              continue
-            fi
-
-            echo "[CD] $SVC -> $PIPELINE"
-            aws codepipeline start-pipeline-execution \
-              --name "$PIPELINE" \
-              --source-revisions "[{\"actionName\":\"Source\",\"revision\":\"$GIT_SHA\"}]" \
-              --query pipelineExecutionId --output text
-          done
+          bash .github/scripts/resolve_and_deploy.sh

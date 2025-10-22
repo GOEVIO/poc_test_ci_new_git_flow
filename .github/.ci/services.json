@@ -1,8 +1,8 @@
 {
   "services": [
     {
-      "name": "test_service_new_git_flow",
-      "pipeline": "test-service-new-git-flow-pipeline"
+      "service": "test_service_new_git_flow",
+      "folder": "test_service_new_git_flow"
     }
   ]
 }
