@@ -1,1 +1,0 @@
-export const PLAIN_HTTP = 'PlainHttpClient'

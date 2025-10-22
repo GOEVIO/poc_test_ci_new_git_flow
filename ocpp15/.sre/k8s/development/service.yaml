@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Service
-metadata:
-  name: ocpp15
-  namespace: backend
-  annotations:
-    service.beta.kubernetes.io/aws-load-balancer-subnets: "subnet-018603a5aa20fa177"
-    #service.beta.kubernetes.io/aws-load-balancer-eip-allocations:  "add your eip allocation id here" in each environment

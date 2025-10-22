@@ -1,5 +1,0 @@
-export enum InvoiceCommunication {
-  ONLY_DRIVER = 'ONLY_DRIVER',
-  ONLY_COMPANY = 'ONLY_COMPANY',
-  DRIVER_COMPANY = 'DRIVER_COMPANY',
-}
